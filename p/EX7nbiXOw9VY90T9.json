@@ -30,10 +30,6 @@
         "state": "achieved_confirmed"
       },
       {
-        "label": "25 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "50 matches played",
         "state": "achieved_confirmed"
       }
@@ -1670,6 +1666,271 @@
         }
       ]
     },
+    "spells": {
+      "innings": [
+        {
+          "date": "2021-01-16",
+          "runs": 9,
+          "wickets": 1
+        },
+        {
+          "date": "2021-11-13",
+          "runs": 0,
+          "wickets": 0
+        },
+        {
+          "date": "2021-12-11",
+          "runs": 14,
+          "wickets": 0
+        },
+        {
+          "date": "2022-11-12",
+          "runs": 12,
+          "wickets": 0
+        },
+        {
+          "date": "2022-12-17",
+          "runs": 39,
+          "wickets": 2
+        },
+        {
+          "date": "2023-01-28",
+          "runs": 35,
+          "wickets": 1
+        },
+        {
+          "date": "2023-02-04",
+          "runs": 38,
+          "wickets": 1
+        },
+        {
+          "date": "2023-02-11",
+          "runs": 13,
+          "wickets": 0
+        },
+        {
+          "date": "2023-02-18",
+          "runs": 31,
+          "wickets": 0
+        },
+        {
+          "date": "2023-10-21",
+          "runs": 15,
+          "wickets": 0
+        },
+        {
+          "date": "2023-10-28",
+          "runs": 18,
+          "wickets": 0
+        },
+        {
+          "date": "2023-11-04",
+          "runs": 33,
+          "wickets": 0
+        },
+        {
+          "date": "2023-11-11",
+          "runs": 40,
+          "wickets": 1
+        },
+        {
+          "date": "2023-11-18",
+          "runs": 25,
+          "wickets": 1
+        },
+        {
+          "date": "2023-12-02",
+          "runs": 16,
+          "wickets": 2
+        },
+        {
+          "date": "2023-12-16",
+          "runs": 8,
+          "wickets": 0
+        },
+        {
+          "date": "2024-01-13",
+          "runs": 27,
+          "wickets": 0
+        },
+        {
+          "date": "2024-01-27",
+          "runs": 26,
+          "wickets": 1
+        },
+        {
+          "date": "2024-02-03",
+          "runs": 17,
+          "wickets": 0
+        },
+        {
+          "date": "2024-02-10",
+          "runs": 23,
+          "wickets": 4
+        },
+        {
+          "date": "2024-02-17",
+          "runs": 14,
+          "wickets": 2
+        },
+        {
+          "date": "2024-02-24",
+          "runs": 13,
+          "wickets": 1
+        },
+        {
+          "date": "2024-03-02",
+          "runs": 17,
+          "wickets": 0
+        },
+        {
+          "date": "2024-10-26",
+          "runs": 10,
+          "wickets": 1
+        },
+        {
+          "date": "2024-11-02",
+          "runs": 28,
+          "wickets": 0
+        },
+        {
+          "date": "2024-11-02",
+          "runs": 13,
+          "wickets": 0
+        },
+        {
+          "date": "2024-11-16",
+          "runs": 24,
+          "wickets": 0
+        },
+        {
+          "date": "2024-11-23",
+          "runs": 6,
+          "wickets": 0
+        },
+        {
+          "date": "2024-12-07",
+          "runs": 19,
+          "wickets": 1
+        },
+        {
+          "date": "2025-01-11",
+          "runs": 27,
+          "wickets": 0
+        },
+        {
+          "date": "2025-01-18",
+          "runs": 37,
+          "wickets": 1
+        },
+        {
+          "date": "2025-02-08",
+          "runs": 19,
+          "wickets": 0
+        },
+        {
+          "date": "2025-10-18",
+          "runs": 29,
+          "wickets": 0
+        },
+        {
+          "date": "2025-11-01",
+          "runs": 10,
+          "wickets": 1
+        },
+        {
+          "date": "2025-11-08",
+          "runs": 11,
+          "wickets": 4
+        },
+        {
+          "date": "2025-11-15",
+          "runs": 20,
+          "wickets": 0
+        },
+        {
+          "date": "2025-11-22",
+          "runs": 12,
+          "wickets": 0
+        },
+        {
+          "date": "2025-11-29",
+          "runs": 13,
+          "wickets": 2
+        },
+        {
+          "date": "2025-12-13",
+          "runs": 43,
+          "wickets": 1
+        },
+        {
+          "date": "2025-12-20",
+          "runs": 32,
+          "wickets": 0
+        },
+        {
+          "date": "2026-01-24",
+          "runs": 30,
+          "wickets": 1
+        },
+        {
+          "date": "2026-01-31",
+          "runs": 17,
+          "wickets": 1
+        },
+        {
+          "date": "2026-02-07",
+          "runs": 26,
+          "wickets": 0
+        },
+        {
+          "date": "2026-02-21",
+          "runs": 9,
+          "wickets": 1
+        },
+        {
+          "date": "2026-02-28",
+          "runs": 25,
+          "wickets": 0
+        },
+        {
+          "date": "2026-03-07",
+          "runs": 8,
+          "wickets": 1
+        },
+        {
+          "date": "2026-11-07",
+          "runs": 12,
+          "wickets": 1
+        }
+      ],
+      "frequency": [
+        {
+          "count": 24,
+          "range": "0"
+        },
+        {
+          "count": 17,
+          "range": "1"
+        },
+        {
+          "count": 4,
+          "range": "2"
+        },
+        {
+          "count": 0,
+          "range": "3"
+        },
+        {
+          "count": 2,
+          "range": "4"
+        },
+        {
+          "count": 0,
+          "range": "5+"
+        }
+      ]
+    },
     "splits": {
       "grade": {
         "batting": [
@@ -3034,7 +3295,7 @@
   },
   "scope_club": null,
   "person_name": "Lucas Ralph",
-  "generated_at": "2026-11-15T09:55:51.034890+00:00",
+  "generated_at": "2026-11-15T17:58:02.783836+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

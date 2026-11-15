@@ -226,6 +226,41 @@
         }
       ]
     },
+    "spells": {
+      "innings": [
+        {
+          "date": "2025-10-18",
+          "runs": 5,
+          "wickets": 0
+        }
+      ],
+      "frequency": [
+        {
+          "count": 1,
+          "range": "0"
+        },
+        {
+          "count": 0,
+          "range": "1"
+        },
+        {
+          "count": 0,
+          "range": "2"
+        },
+        {
+          "count": 0,
+          "range": "3"
+        },
+        {
+          "count": 0,
+          "range": "4"
+        },
+        {
+          "count": 0,
+          "range": "5+"
+        }
+      ]
+    },
     "splits": {
       "grade": {
         "batting": [],
@@ -312,7 +347,7 @@
   },
   "scope_club": null,
   "person_name": "Cameron Taylor",
-  "generated_at": "2026-11-15T09:56:18.808669+00:00",
+  "generated_at": "2026-11-15T17:56:37.709095+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

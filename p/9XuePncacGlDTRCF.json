@@ -219,6 +219,41 @@
         }
       ]
     },
+    "spells": {
+      "innings": [
+        {
+          "date": "2026-10-31",
+          "runs": 1,
+          "wickets": 0
+        }
+      ],
+      "frequency": [
+        {
+          "count": 1,
+          "range": "0"
+        },
+        {
+          "count": 0,
+          "range": "1"
+        },
+        {
+          "count": 0,
+          "range": "2"
+        },
+        {
+          "count": 0,
+          "range": "3"
+        },
+        {
+          "count": 0,
+          "range": "4"
+        },
+        {
+          "count": 0,
+          "range": "5+"
+        }
+      ]
+    },
     "splits": {
       "grade": {
         "batting": [
@@ -391,7 +426,7 @@
   },
   "scope_club": null,
   "person_name": "Nitesh Damacharla",
-  "generated_at": "2026-11-15T09:55:00.000720+00:00",
+  "generated_at": "2026-11-15T17:57:15.138677+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

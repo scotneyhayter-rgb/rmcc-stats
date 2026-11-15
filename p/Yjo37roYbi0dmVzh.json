@@ -30,18 +30,6 @@
         "state": "achieved_confirmed"
       },
       {
-        "label": "25 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "50 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "100 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "150 matches played",
         "state": "achieved_confirmed"
       }
@@ -4439,6 +4427,281 @@
         }
       ]
     },
+    "spells": {
+      "innings": [
+        {
+          "date": "2007-11-17",
+          "runs": 10,
+          "wickets": 0
+        },
+        {
+          "date": "2007-11-24",
+          "runs": 10,
+          "wickets": 0
+        },
+        {
+          "date": "2007-12-01",
+          "runs": 20,
+          "wickets": 0
+        },
+        {
+          "date": "2008-01-26",
+          "runs": 11,
+          "wickets": 0
+        },
+        {
+          "date": "2008-02-02",
+          "runs": 4,
+          "wickets": 2
+        },
+        {
+          "date": "2008-02-16",
+          "runs": 12,
+          "wickets": 2
+        },
+        {
+          "date": "2008-10-11",
+          "runs": 8,
+          "wickets": 0
+        },
+        {
+          "date": "2008-10-25",
+          "runs": 22,
+          "wickets": 1
+        },
+        {
+          "date": "2008-11-01",
+          "runs": 30,
+          "wickets": 0
+        },
+        {
+          "date": "2008-11-15",
+          "runs": 4,
+          "wickets": 1
+        },
+        {
+          "date": "2008-12-06",
+          "runs": 10,
+          "wickets": 0
+        },
+        {
+          "date": "2008-12-20",
+          "runs": 32,
+          "wickets": 3
+        },
+        {
+          "date": "2009-01-24",
+          "runs": 19,
+          "wickets": 1
+        },
+        {
+          "date": "2009-02-14",
+          "runs": 45,
+          "wickets": 0
+        },
+        {
+          "date": "2009-11-14",
+          "runs": 29,
+          "wickets": 0
+        },
+        {
+          "date": "2009-12-19",
+          "runs": 11,
+          "wickets": 0
+        },
+        {
+          "date": "2010-01-30",
+          "runs": 18,
+          "wickets": 1
+        },
+        {
+          "date": "2010-02-13",
+          "runs": 18,
+          "wickets": 0
+        },
+        {
+          "date": "2010-10-23",
+          "runs": 18,
+          "wickets": 0
+        },
+        {
+          "date": "2010-11-20",
+          "runs": 23,
+          "wickets": 2
+        },
+        {
+          "date": "2011-01-22",
+          "runs": 15,
+          "wickets": 0
+        },
+        {
+          "date": "2011-02-19",
+          "runs": 6,
+          "wickets": 0
+        },
+        {
+          "date": "2011-10-15",
+          "runs": 10,
+          "wickets": 0
+        },
+        {
+          "date": "2012-02-18",
+          "runs": 9,
+          "wickets": 0
+        },
+        {
+          "date": "2012-10-20",
+          "runs": 7,
+          "wickets": 2
+        },
+        {
+          "date": "2013-11-30",
+          "runs": 6,
+          "wickets": 0
+        },
+        {
+          "date": "2014-11-09",
+          "runs": 3,
+          "wickets": 0
+        },
+        {
+          "date": "2015-10-10",
+          "runs": 3,
+          "wickets": 0
+        },
+        {
+          "date": "2015-11-28",
+          "runs": 1,
+          "wickets": 0
+        },
+        {
+          "date": "2016-03-12",
+          "runs": 6,
+          "wickets": 0
+        },
+        {
+          "date": "2016-10-15",
+          "runs": 1,
+          "wickets": 0
+        },
+        {
+          "date": "2016-10-22",
+          "runs": 7,
+          "wickets": 0
+        },
+        {
+          "date": "2017-01-14",
+          "runs": 1,
+          "wickets": 0
+        },
+        {
+          "date": "2017-02-18",
+          "runs": 0,
+          "wickets": 0
+        },
+        {
+          "date": "2017-10-14",
+          "runs": 9,
+          "wickets": 0
+        },
+        {
+          "date": "2017-10-21",
+          "runs": 3,
+          "wickets": 2
+        },
+        {
+          "date": "2018-01-27",
+          "runs": 4,
+          "wickets": 0
+        },
+        {
+          "date": "2018-02-03",
+          "runs": 22,
+          "wickets": 0
+        },
+        {
+          "date": "2018-02-17",
+          "runs": 15,
+          "wickets": 0
+        },
+        {
+          "date": "2018-02-24",
+          "runs": 30,
+          "wickets": 1
+        },
+        {
+          "date": "2018-11-03",
+          "runs": 5,
+          "wickets": 0
+        },
+        {
+          "date": "2020-01-18",
+          "runs": 31,
+          "wickets": 0
+        },
+        {
+          "date": "2020-11-28",
+          "runs": 2,
+          "wickets": 0
+        },
+        {
+          "date": "2020-12-19",
+          "runs": 3,
+          "wickets": 1
+        },
+        {
+          "date": "2021-12-11",
+          "runs": 6,
+          "wickets": 0
+        },
+        {
+          "date": "2023-02-18",
+          "runs": 28,
+          "wickets": 0
+        },
+        {
+          "date": "2023-11-04",
+          "runs": 6,
+          "wickets": 0
+        },
+        {
+          "date": "2025-11-08",
+          "runs": 15,
+          "wickets": 0
+        },
+        {
+          "date": "2025-11-15",
+          "runs": 5,
+          "wickets": 0
+        }
+      ],
+      "frequency": [
+        {
+          "count": 37,
+          "range": "0"
+        },
+        {
+          "count": 6,
+          "range": "1"
+        },
+        {
+          "count": 5,
+          "range": "2"
+        },
+        {
+          "count": 1,
+          "range": "3"
+        },
+        {
+          "count": 0,
+          "range": "4"
+        },
+        {
+          "count": 0,
+          "range": "5+"
+        }
+      ]
+    },
     "splits": {
       "grade": {
         "batting": [
@@ -5904,7 +6167,7 @@
   },
   "scope_club": null,
   "person_name": "Matthew Robinson",
-  "generated_at": "2026-11-15T09:56:02.894359+00:00",
+  "generated_at": "2026-11-15T17:58:12.278850+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

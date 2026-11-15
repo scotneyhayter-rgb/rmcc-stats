@@ -22,51 +22,11 @@
     "awarded": [],
     "calculated": [
       {
-        "label": "100 career runs",
-        "state": "achieved_known_minimum"
-      },
-      {
-        "label": "500 career runs",
-        "state": "achieved_known_minimum"
-      },
-      {
-        "label": "1000 career runs",
-        "state": "achieved_known_minimum"
-      },
-      {
-        "label": "2500 career runs",
-        "state": "achieved_known_minimum"
-      },
-      {
         "label": "5000 career runs",
         "state": "achieved_known_minimum"
       },
       {
-        "label": "10 career wickets",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "50 career wickets",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "25 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "50 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "100 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "150 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "200 matches played",
         "state": "achieved_confirmed"
       },
       {
@@ -74,31 +34,11 @@
         "state": "achieved_confirmed"
       },
       {
-        "label": "25 catches",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "50 catches",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "100 catches",
         "state": "achieved_confirmed"
       },
       {
-        "label": "25 matches captained",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "50 matches captained",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "100 matches captained",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "25 wins as captain",
         "state": "achieved_confirmed"
       },
       {
@@ -278,7 +218,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Trevor Quick",
-  "generated_at": "2026-11-15T09:54:32.248062+00:00",
+  "generated_at": "2026-11-15T17:56:57.155326+00:00",
   "grand_finals": {
     "batting": {
       "runs": 220,

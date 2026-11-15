@@ -22,23 +22,11 @@
     "awarded": [],
     "calculated": [
       {
-        "label": "100 career runs",
-        "state": "achieved_known_minimum"
-      },
-      {
         "label": "500 career runs",
         "state": "achieved_known_minimum"
       },
       {
-        "label": "10 career wickets",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "50 career wickets",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "25 matches played",
         "state": "achieved_confirmed"
       },
       {
@@ -174,7 +162,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Clinton Slorach",
-  "generated_at": "2026-11-15T09:56:08.256371+00:00",
+  "generated_at": "2026-11-15T17:58:16.926597+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

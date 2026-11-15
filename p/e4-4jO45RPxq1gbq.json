@@ -22,23 +22,7 @@
     "awarded": [],
     "calculated": [
       {
-        "label": "100 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "500 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "1000 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "2500 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "10 career wickets",
         "state": "achieved_confirmed"
       },
       {
@@ -46,19 +30,7 @@
         "state": "achieved_confirmed"
       },
       {
-        "label": "25 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "50 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "100 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "25 catches",
         "state": "achieved_confirmed"
       },
       {
@@ -191,7 +163,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "David Robinson",
-  "generated_at": "2026-11-15T09:55:56.672782+00:00",
+  "generated_at": "2026-11-15T17:58:07.511755+00:00",
   "grand_finals": {
     "batting": {
       "runs": 128,

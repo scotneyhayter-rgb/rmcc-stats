@@ -22,27 +22,7 @@
     "awarded": [],
     "calculated": [
       {
-        "label": "100 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "500 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "1000 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "2500 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "5000 career runs",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "10 career wickets",
         "state": "achieved_confirmed"
       },
       {
@@ -50,51 +30,11 @@
         "state": "achieved_confirmed"
       },
       {
-        "label": "25 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "50 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "100 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "150 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "200 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "250 matches played",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "300 matches played",
         "state": "achieved_confirmed"
       },
       {
-        "label": "25 catches",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "50 catches",
-        "state": "achieved_confirmed"
-      },
-      {
         "label": "100 catches",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "10 stumpings",
-        "state": "achieved_confirmed"
-      },
-      {
-        "label": "25 stumpings",
         "state": "achieved_confirmed"
       },
       {
@@ -8782,6 +8722,466 @@
         }
       ]
     },
+    "spells": {
+      "innings": [
+        {
+          "date": "1965-10-23",
+          "runs": 6,
+          "wickets": 1
+        },
+        {
+          "date": "1965-10-23",
+          "runs": 10,
+          "wickets": 0
+        },
+        {
+          "date": "1965-11-20",
+          "runs": 12,
+          "wickets": 0
+        },
+        {
+          "date": "1965-11-20",
+          "runs": 57,
+          "wickets": 4
+        },
+        {
+          "date": "1965-11-27",
+          "runs": 63,
+          "wickets": 2
+        },
+        {
+          "date": "1965-12-11",
+          "runs": 24,
+          "wickets": 0
+        },
+        {
+          "date": "1966-01-15",
+          "runs": 46,
+          "wickets": 1
+        },
+        {
+          "date": "1966-01-22",
+          "runs": 21,
+          "wickets": 3
+        },
+        {
+          "date": "1966-02-12",
+          "runs": 10,
+          "wickets": 1
+        },
+        {
+          "date": "1966-03-05",
+          "runs": 16,
+          "wickets": 0
+        },
+        {
+          "date": "1966-03-19",
+          "runs": 18,
+          "wickets": 4
+        },
+        {
+          "date": "1966-03-19",
+          "runs": 7,
+          "wickets": 0
+        },
+        {
+          "date": "1966-11-26",
+          "runs": 6,
+          "wickets": 1
+        },
+        {
+          "date": "1966-11-26",
+          "runs": 1,
+          "wickets": 0
+        },
+        {
+          "date": "1966-12-10",
+          "runs": 11,
+          "wickets": 1
+        },
+        {
+          "date": "1967-01-28",
+          "runs": 11,
+          "wickets": 0
+        },
+        {
+          "date": "1967-02-11",
+          "runs": 10,
+          "wickets": 1
+        },
+        {
+          "date": "1967-10-21",
+          "runs": 13,
+          "wickets": 3
+        },
+        {
+          "date": "1967-10-21",
+          "runs": 23,
+          "wickets": 4
+        },
+        {
+          "date": "1967-11-04",
+          "runs": 19,
+          "wickets": 0
+        },
+        {
+          "date": "1967-11-18",
+          "runs": 15,
+          "wickets": 0
+        },
+        {
+          "date": "1967-12-02",
+          "runs": 14,
+          "wickets": 2
+        },
+        {
+          "date": "1967-12-23",
+          "runs": 12,
+          "wickets": 1
+        },
+        {
+          "date": "1967-12-23",
+          "runs": 29,
+          "wickets": 1
+        },
+        {
+          "date": "1968-01-06",
+          "runs": 1,
+          "wickets": 1
+        },
+        {
+          "date": "1968-01-06",
+          "runs": 40,
+          "wickets": 2
+        },
+        {
+          "date": "1969-12-13",
+          "runs": 6,
+          "wickets": 0
+        },
+        {
+          "date": "1970-02-14",
+          "runs": 8,
+          "wickets": 1
+        },
+        {
+          "date": "1970-11-14",
+          "runs": 12,
+          "wickets": 0
+        },
+        {
+          "date": "1972-10-07",
+          "runs": 27,
+          "wickets": 1
+        },
+        {
+          "date": "1972-10-14",
+          "runs": 9,
+          "wickets": 1
+        },
+        {
+          "date": "1972-10-28",
+          "runs": 10,
+          "wickets": 0
+        },
+        {
+          "date": "1972-11-11",
+          "runs": 3,
+          "wickets": 0
+        },
+        {
+          "date": "1972-11-11",
+          "runs": 2,
+          "wickets": 0
+        },
+        {
+          "date": "1972-11-25",
+          "runs": 27,
+          "wickets": 1
+        },
+        {
+          "date": "1972-12-09",
+          "runs": 12,
+          "wickets": 0
+        },
+        {
+          "date": "1972-12-09",
+          "runs": 14,
+          "wickets": 0
+        },
+        {
+          "date": "1973-02-03",
+          "runs": 34,
+          "wickets": 1
+        },
+        {
+          "date": "1973-02-10",
+          "runs": 24,
+          "wickets": 0
+        },
+        {
+          "date": "1974-01-19",
+          "runs": 0,
+          "wickets": 0
+        },
+        {
+          "date": "1974-01-19",
+          "runs": 12,
+          "wickets": 1
+        },
+        {
+          "date": "1974-11-16",
+          "runs": 4,
+          "wickets": 1
+        },
+        {
+          "date": "1974-11-16",
+          "runs": 7,
+          "wickets": 2
+        },
+        {
+          "date": "1974-11-20",
+          "runs": 35,
+          "wickets": 2
+        },
+        {
+          "date": "1974-12-14",
+          "runs": 26,
+          "wickets": 0
+        },
+        {
+          "date": "1975-01-11",
+          "runs": 12,
+          "wickets": 2
+        },
+        {
+          "date": "1975-01-11",
+          "runs": 4,
+          "wickets": 1
+        },
+        {
+          "date": "1975-02-08",
+          "runs": 35,
+          "wickets": 1
+        },
+        {
+          "date": "1975-02-22",
+          "runs": 9,
+          "wickets": 1
+        },
+        {
+          "date": "1975-10-18",
+          "runs": 22,
+          "wickets": 1
+        },
+        {
+          "date": "1975-11-01",
+          "runs": 18,
+          "wickets": 0
+        },
+        {
+          "date": "1975-11-08",
+          "runs": 13,
+          "wickets": 0
+        },
+        {
+          "date": "1975-11-22",
+          "runs": 40,
+          "wickets": 2
+        },
+        {
+          "date": "1975-11-22",
+          "runs": 21,
+          "wickets": 1
+        },
+        {
+          "date": "1975-12-06",
+          "runs": 3,
+          "wickets": 0
+        },
+        {
+          "date": "1977-11-05",
+          "runs": 4,
+          "wickets": 0
+        },
+        {
+          "date": "1977-12-10",
+          "runs": 3,
+          "wickets": 3
+        },
+        {
+          "date": "1978-02-11",
+          "runs": 9,
+          "wickets": 0
+        },
+        {
+          "date": "1978-03-11",
+          "runs": 0,
+          "wickets": 0
+        },
+        {
+          "date": "1979-03-24",
+          "runs": 2,
+          "wickets": 1
+        },
+        {
+          "date": "1979-12-01",
+          "runs": 0,
+          "wickets": 0
+        },
+        {
+          "date": "1980-03-22",
+          "runs": 24,
+          "wickets": 0
+        },
+        {
+          "date": "1980-12-20",
+          "runs": 3,
+          "wickets": 1
+        },
+        {
+          "date": "1984-02-18",
+          "runs": 9,
+          "wickets": 0
+        },
+        {
+          "date": "1985-01-05",
+          "runs": 0,
+          "wickets": 1
+        },
+        {
+          "date": "1985-01-19",
+          "runs": 11,
+          "wickets": 0
+        },
+        {
+          "date": "1987-11-14",
+          "runs": 8,
+          "wickets": 1
+        },
+        {
+          "date": "1987-11-14",
+          "runs": 30,
+          "wickets": 2
+        },
+        {
+          "date": "1988-01-09",
+          "runs": 14,
+          "wickets": 0
+        },
+        {
+          "date": "1988-11-12",
+          "runs": 12,
+          "wickets": 0
+        },
+        {
+          "date": "1989-01-07",
+          "runs": 1,
+          "wickets": 0
+        },
+        {
+          "date": "1989-01-21",
+          "runs": 20,
+          "wickets": 0
+        },
+        {
+          "date": "1990-02-17",
+          "runs": 9,
+          "wickets": 1
+        },
+        {
+          "date": "1990-10-13",
+          "runs": 5,
+          "wickets": 0
+        },
+        {
+          "date": "1991-01-12",
+          "runs": 0,
+          "wickets": 1
+        },
+        {
+          "date": "1991-10-12",
+          "runs": 14,
+          "wickets": 0
+        },
+        {
+          "date": "1992-11-07",
+          "runs": 3,
+          "wickets": 1
+        },
+        {
+          "date": "1999-11-27",
+          "runs": 16,
+          "wickets": 1
+        },
+        {
+          "date": "2001-01-13",
+          "runs": 0,
+          "wickets": 1
+        },
+        {
+          "date": "2002-02-23",
+          "runs": 30,
+          "wickets": 3
+        },
+        {
+          "date": "2004-03-06",
+          "runs": 20,
+          "wickets": 1
+        },
+        {
+          "date": "2008-02-02",
+          "runs": 1,
+          "wickets": 0
+        },
+        {
+          "date": "2008-12-20",
+          "runs": 7,
+          "wickets": 0
+        },
+        {
+          "date": "2009-01-10",
+          "runs": 16,
+          "wickets": 1
+        },
+        {
+          "date": "2009-02-14",
+          "runs": 5,
+          "wickets": 0
+        },
+        {
+          "date": "2010-01-30",
+          "runs": 11,
+          "wickets": 0
+        }
+      ],
+      "frequency": [
+        {
+          "count": 39,
+          "range": "0"
+        },
+        {
+          "count": 32,
+          "range": "1"
+        },
+        {
+          "count": 8,
+          "range": "2"
+        },
+        {
+          "count": 4,
+          "range": "3"
+        },
+        {
+          "count": 3,
+          "range": "4"
+        },
+        {
+          "count": 0,
+          "range": "5+"
+        }
+      ]
+    },
     "splits": {
       "grade": {
         "batting": [
@@ -10517,7 +10917,7 @@
   },
   "scope_club": null,
   "person_name": "Ray Robinson",
-  "generated_at": "2026-11-15T09:55:45.454915+00:00",
+  "generated_at": "2026-11-15T17:57:58.410151+00:00",
   "grand_finals": {
     "batting": {
       "runs": 129,

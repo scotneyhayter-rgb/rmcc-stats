@@ -11,6 +11,13 @@
       "opposition": "Youth Club"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -81,6 +88,7 @@
       "maidens": 5,
       "matches": 49,
       "wickets": 19,
+      "hat_tricks": 0,
       "subject_id": "ddd0bc36-e676-4434-bdc5-9052d78e016a",
       "strike_rate": 31.26,
       "best_bowling": {
@@ -410,11 +418,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Matthew Robinson",
-  "generated_at": "2026-11-15T05:48:20.863243+00:00",
+  "generated_at": "2026-11-15T06:05:40.142622+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -447,6 +460,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "ddd0bc36-e676-4434-bdc5-9052d78e016a",
       "strike_rate": null,
       "ten_wkt_match": 0,

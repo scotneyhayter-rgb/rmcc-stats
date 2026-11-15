@@ -11,6 +11,13 @@
       "opposition": "Buangor"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -117,6 +124,7 @@
       "maidens": 316,
       "matches": 221,
       "wickets": 332,
+      "hat_tricks": 0,
       "subject_id": "3fa4c114-96e7-4543-9d94-48df03933262",
       "strike_rate": 29.87,
       "best_bowling": {
@@ -507,11 +515,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "David Cosgriff",
-  "generated_at": "2026-11-15T05:49:04.598441+00:00",
+  "generated_at": "2026-11-15T06:04:59.859132+00:00",
   "grand_finals": {
     "batting": {
       "runs": 49,
@@ -544,6 +557,7 @@
       "maidens": 16,
       "matches": 5,
       "wickets": 11,
+      "hat_tricks": 0,
       "subject_id": "3fa4c114-96e7-4543-9d94-48df03933262",
       "strike_rate": 32.73,
       "ten_wkt_match": 0,

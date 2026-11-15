@@ -11,6 +11,17 @@
       "opposition": "Rhymney Moyston CC"
     }
   },
+  "clubs": [
+    {
+      "club": "Halls Gap",
+      "crest": null
+    },
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -117,6 +128,7 @@
       "maidens": 37,
       "matches": 55,
       "wickets": 54,
+      "hat_tricks": 0,
       "subject_id": "d294eb6d-cf29-4e72-aa02-d4e9271f3c8a",
       "strike_rate": 32.93,
       "best_bowling": {
@@ -577,11 +589,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Scotney Hayter",
-  "generated_at": "2026-11-15T05:48:44.865179+00:00",
+  "generated_at": "2026-11-15T06:06:03.794770+00:00",
   "grand_finals": {
     "batting": {
       "runs": 181,
@@ -614,6 +631,7 @@
       "maidens": 3,
       "matches": 2,
       "wickets": 1,
+      "hat_tricks": 0,
       "subject_id": "d294eb6d-cf29-4e72-aa02-d4e9271f3c8a",
       "strike_rate": 72.0,
       "ten_wkt_match": 0,

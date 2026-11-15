@@ -11,6 +11,13 @@
       "opposition": "Pomonal"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": []
@@ -56,6 +63,7 @@
       "maidens": 0,
       "matches": 1,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "17deabf4-82b4-4687-9f83-7b329b680daa",
       "strike_rate": null,
       "best_bowling": {
@@ -146,11 +154,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Cameron Taylor",
-  "generated_at": "2026-11-15T05:44:09.683328+00:00",
+  "generated_at": "2026-11-15T06:05:17.593439+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -183,6 +196,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "17deabf4-82b4-4687-9f83-7b329b680daa",
       "strike_rate": null,
       "ten_wkt_match": 0,

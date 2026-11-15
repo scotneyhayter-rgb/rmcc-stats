@@ -11,6 +11,13 @@
       "opposition": "Buangor"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -85,6 +92,7 @@
       "maidens": 6,
       "matches": 53,
       "wickets": 26,
+      "hat_tricks": 0,
       "subject_id": "a029f631-1aa6-4cff-b525-905e3a0800d8",
       "strike_rate": 27.96,
       "best_bowling": {
@@ -453,11 +461,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Christopher Robinson",
-  "generated_at": "2026-11-15T05:48:39.935232+00:00",
+  "generated_at": "2026-11-15T06:05:58.603500+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -490,6 +503,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "a029f631-1aa6-4cff-b525-905e3a0800d8",
       "strike_rate": null,
       "ten_wkt_match": 0,

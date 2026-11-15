@@ -11,6 +11,13 @@
       "opposition": "Navarre"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -137,6 +144,7 @@
       "maidens": 172,
       "matches": 218,
       "wickets": 270,
+      "hat_tricks": 0,
       "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
       "strike_rate": 30.04,
       "best_bowling": {
@@ -524,11 +532,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Matthew Dean",
-  "generated_at": "2026-11-15T05:49:13.845301+00:00",
+  "generated_at": "2026-11-15T06:05:08.803923+00:00",
   "grand_finals": {
     "batting": {
       "runs": 21,
@@ -561,6 +574,7 @@
       "maidens": 5,
       "matches": 4,
       "wickets": 10,
+      "hat_tricks": 0,
       "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
       "strike_rate": 18.6,
       "ten_wkt_match": 0,

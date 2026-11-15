@@ -11,6 +11,13 @@
       "opposition": "Halls Gap"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -61,6 +68,7 @@
       "maidens": 3,
       "matches": 15,
       "wickets": 1,
+      "hat_tricks": 0,
       "subject_id": "b879c085-f89b-4b84-b3f1-44a7b719b3d8",
       "strike_rate": 194.0,
       "best_bowling": {
@@ -177,11 +185,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Sky Ralph",
-  "generated_at": "2026-11-15T05:48:59.537494+00:00",
+  "generated_at": "2026-11-15T06:00:27.090531+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -214,6 +227,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "b879c085-f89b-4b84-b3f1-44a7b719b3d8",
       "strike_rate": null,
       "ten_wkt_match": 0,

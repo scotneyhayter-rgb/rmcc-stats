@@ -11,6 +11,13 @@
       "opposition": "Halls Gap"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -65,6 +72,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
       "strike_rate": null,
       "best_bowling": null,
@@ -134,11 +142,16 @@
   "seasons": [],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "David Padley",
-  "generated_at": "2026-11-15T05:49:55.202813+00:00",
+  "generated_at": "2026-11-15T06:06:49.439925+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -171,6 +184,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
       "strike_rate": null,
       "ten_wkt_match": 0,

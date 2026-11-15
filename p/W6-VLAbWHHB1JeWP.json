@@ -11,6 +11,13 @@
       "opposition": "Pomonal"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -73,6 +80,7 @@
       "maidens": 14,
       "matches": 8,
       "wickets": 4,
+      "hat_tricks": 0,
       "subject_id": "7c90a7c7-462d-4d4e-b89b-3aa64a235704",
       "strike_rate": 67.5,
       "best_bowling": {
@@ -136,11 +144,16 @@
   "seasons": [],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Grant Le Poidevin",
-  "generated_at": "2026-11-15T05:49:41.130636+00:00",
+  "generated_at": "2026-11-15T06:06:35.092010+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -173,6 +186,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "7c90a7c7-462d-4d4e-b89b-3aa64a235704",
       "strike_rate": null,
       "ten_wkt_match": 0,

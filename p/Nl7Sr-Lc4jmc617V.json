@@ -11,6 +11,13 @@
       "opposition": "St Mary's"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -61,6 +68,7 @@
       "maidens": 1,
       "matches": 2,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "684fd4dc-2a85-4039-928d-57afda89afa5",
       "strike_rate": null,
       "best_bowling": {
@@ -124,11 +132,16 @@
   "seasons": [],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Lachlan Stevens",
-  "generated_at": "2026-11-15T05:49:36.204231+00:00",
+  "generated_at": "2026-11-15T06:06:30.202441+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -161,6 +174,7 @@
       "maidens": 0,
       "matches": 0,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "684fd4dc-2a85-4039-928d-57afda89afa5",
       "strike_rate": null,
       "ten_wkt_match": 0,

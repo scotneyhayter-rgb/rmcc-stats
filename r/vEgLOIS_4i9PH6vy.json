@@ -2491,11 +2491,15 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "report_id": "bat_most_runs",
   "report_name": "Most Runs",
-  "generated_at": "2026-11-15T05:48:01.870429+00:00",
+  "generated_at": "2026-11-15T06:05:22.303783+00:00",
   "qualifications": [
     "Totals from scorecards with unknown balls/runs are a known-minimum; unknown is never treated as zero.",
     "Official statistics from approved scorecards only; unknown values are never treated as zero."

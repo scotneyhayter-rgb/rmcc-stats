@@ -11,6 +11,13 @@
       "opposition": "Buangor"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -149,6 +156,7 @@
       "maidens": 29,
       "matches": 80,
       "wickets": 75,
+      "hat_tricks": 0,
       "subject_id": "41e52103-5aeb-40df-ab74-d2e9674478d4",
       "strike_rate": 25.93,
       "best_bowling": {
@@ -259,11 +267,16 @@
   "seasons": [],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Trevor Quick",
-  "generated_at": "2026-11-15T05:49:26.199727+00:00",
+  "generated_at": "2026-11-15T06:06:20.613951+00:00",
   "grand_finals": {
     "batting": {
       "runs": 220,
@@ -296,6 +309,7 @@
       "maidens": 0,
       "matches": 1,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "41e52103-5aeb-40df-ab74-d2e9674478d4",
       "strike_rate": null,
       "ten_wkt_match": 0,

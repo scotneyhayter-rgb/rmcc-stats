@@ -11,6 +11,13 @@
       "opposition": "Willaura"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -109,6 +116,7 @@
       "maidens": 39,
       "matches": 54,
       "wickets": 68,
+      "hat_tricks": 0,
       "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
       "strike_rate": 34.88,
       "best_bowling": {
@@ -172,11 +180,16 @@
   "seasons": [],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "David Robinson",
-  "generated_at": "2026-11-15T05:48:06.690996+00:00",
+  "generated_at": "2026-11-15T06:05:26.827317+00:00",
   "grand_finals": {
     "batting": {
       "runs": 128,
@@ -209,6 +222,7 @@
       "maidens": 0,
       "matches": 1,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
       "strike_rate": null,
       "ten_wkt_match": 0,

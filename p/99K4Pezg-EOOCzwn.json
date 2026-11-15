@@ -11,6 +11,13 @@
       "opposition": "Swifts/Great Western"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -85,6 +92,7 @@
       "maidens": 24,
       "matches": 35,
       "wickets": 34,
+      "hat_tricks": 0,
       "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
       "strike_rate": 31.79,
       "best_bowling": {
@@ -155,11 +163,16 @@
   "seasons": [],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Clinton Slorach",
-  "generated_at": "2026-11-15T05:49:31.247982+00:00",
+  "generated_at": "2026-11-15T06:06:25.499060+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
@@ -192,6 +205,7 @@
       "maidens": 0,
       "matches": 1,
       "wickets": 0,
+      "hat_tricks": 0,
       "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
       "strike_rate": null,
       "ten_wkt_match": 0,

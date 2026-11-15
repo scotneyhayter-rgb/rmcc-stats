@@ -11,6 +11,13 @@
       "opposition": "St Andrews"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -145,6 +152,7 @@
       "maidens": 28,
       "matches": 72,
       "wickets": 72,
+      "hat_tricks": 0,
       "subject_id": "2949a6ab-dc57-4390-ac35-3f136bb964e1",
       "strike_rate": 21.78,
       "best_bowling": {
@@ -779,11 +787,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Ray Robinson",
-  "generated_at": "2026-11-15T05:48:55.161050+00:00",
+  "generated_at": "2026-11-15T06:06:14.937023+00:00",
   "grand_finals": {
     "batting": {
       "runs": 129,
@@ -816,6 +829,7 @@
       "maidens": 3,
       "matches": 4,
       "wickets": 5,
+      "hat_tricks": 0,
       "subject_id": "2949a6ab-dc57-4390-ac35-3f136bb964e1",
       "strike_rate": 16.4,
       "ten_wkt_match": 0,

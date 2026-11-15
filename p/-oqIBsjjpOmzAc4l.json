@@ -11,6 +11,13 @@
       "opposition": "Pomonal"
     }
   },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
   "badges": {
     "awarded": [],
     "calculated": [
@@ -145,6 +152,7 @@
       "maidens": 222,
       "matches": 251,
       "wickets": 337,
+      "hat_tricks": 0,
       "subject_id": "ef6f98ae-7b16-4e25-af10-71cd2fda8e96",
       "strike_rate": 27.77,
       "best_bowling": {
@@ -561,11 +569,16 @@
   ],
   "branding": {
     "club": "Rhymney/Moyston Cricket Club",
-    "primary": "#0b5e3b"
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
   },
   "scope_club": null,
   "person_name": "Daniel Taylor",
-  "generated_at": "2026-11-15T05:48:49.744643+00:00",
+  "generated_at": "2026-11-15T06:06:09.021037+00:00",
   "grand_finals": {
     "batting": {
       "runs": 69,
@@ -598,6 +611,7 @@
       "maidens": 1,
       "matches": 4,
       "wickets": 2,
+      "hat_tricks": 0,
       "subject_id": "ef6f98ae-7b16-4e25-af10-71cd2fda8e96",
       "strike_rate": 75.0,
       "ten_wkt_match": 0,

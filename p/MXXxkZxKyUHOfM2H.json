@@ -1,0 +1,686 @@
+{
+  "title": "Matthew Dean",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2024-03-09",
+      "opposition": "Swifts/Great Western"
+    },
+    "first": {
+      "date": "1999-12-11",
+      "opposition": "Navarre"
+    }
+  },
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "500 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "1000 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "10 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "100 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "200 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "100 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "150 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "200 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "250 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 catches",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 catches",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "100 catches",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 matches captained",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 matches captained",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 wins as captain",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "5\u00d7 Five-Wicket Innings",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": null
+    },
+    "batting": {
+      "runs": 1542,
+      "balls": 165,
+      "ducks": 47,
+      "fours": 111,
+      "sixes": 19,
+      "average": 9.02,
+      "fifties": 1,
+      "innings": 211,
+      "matches": 201,
+      "hundreds": 0,
+      "not_outs": 40,
+      "dismissed": 171,
+      "boundaries": 130,
+      "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
+      "strike_rate": 35.76,
+      "highest_score": 64,
+      "highest_not_out": false,
+      "balls_incomplete": true,
+      "most_runs_in_match": 64,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 4875,
+      "balls": 8110,
+      "overs": 1351.7,
+      "average": 18.06,
+      "economy": 3.61,
+      "innings": 226,
+      "maidens": 172,
+      "matches": 218,
+      "wickets": 270,
+      "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
+      "strike_rate": 30.04,
+      "best_bowling": {
+        "runs": 11,
+        "wickets": 6
+      },
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 5,
+      "best_match_wickets": 7,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 267,
+    "fielding": {
+      "catches": 103,
+      "matches": 94,
+      "run_outs": 14,
+      "stumpings": 0,
+      "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
+      "field_catches": 103,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 14
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 32,
+      "draws": 0,
+      "losses": 38,
+      "gf_wins": 0,
+      "captained": 71,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": true,
+    "has_keeping": false,
+    "derived_role": "all-rounder",
+    "has_captaincy": true,
+    "participation": {
+      "wins": 132,
+      "losses": 124,
+      "matches": 267
+    }
+  },
+  "detail": {
+    "numbers": [],
+    "biography": null,
+    "leadership": [],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "records": [],
+  "seasons": [
+    {
+      "runs": 0,
+      "label": "1999/00",
+      "catches": 0,
+      "matches": 3,
+      "wickets": 1,
+      "run_outs": 1,
+      "captained": 0,
+      "season_id": "ea4f9cfb-bf22-46d6-aa1b-066a63c91620",
+      "stumpings": 0,
+      "batting_average": 0.0,
+      "bowling_average": 26.0
+    },
+    {
+      "runs": 2,
+      "label": "2000/01",
+      "catches": 0,
+      "matches": 5,
+      "wickets": 1,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "de151293-48a0-43b8-99c0-db3ec062fd0c",
+      "stumpings": 0,
+      "batting_average": 0.33,
+      "bowling_average": 26.0
+    },
+    {
+      "runs": 17,
+      "label": "2001/02",
+      "catches": 4,
+      "matches": 12,
+      "wickets": 13,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "6ebdef2f-9998-4f14-a38a-f3dc1f93ac67",
+      "stumpings": 0,
+      "batting_average": 1.42,
+      "bowling_average": 15.23
+    },
+    {
+      "runs": 29,
+      "label": "2002/03",
+      "catches": 6,
+      "matches": 14,
+      "wickets": 4,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "fa2c3f12-859d-40a3-8939-2c5059af9381",
+      "stumpings": 0,
+      "batting_average": 3.22,
+      "bowling_average": 33.75
+    },
+    {
+      "runs": 32,
+      "label": "2003/04",
+      "catches": 7,
+      "matches": 10,
+      "wickets": 6,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "e408cb11-813c-4d4c-a90e-339017f8c84e",
+      "stumpings": 0,
+      "batting_average": 4.57,
+      "bowling_average": 29.83
+    },
+    {
+      "runs": 37,
+      "label": "2004/05",
+      "catches": 3,
+      "matches": 16,
+      "wickets": 23,
+      "run_outs": 1,
+      "captained": 0,
+      "season_id": "4139737e-3d89-4768-bed7-bf40c11ac840",
+      "stumpings": 0,
+      "batting_average": 6.17,
+      "bowling_average": 10.7
+    },
+    {
+      "runs": 28,
+      "label": "2005/06",
+      "catches": 7,
+      "matches": 17,
+      "wickets": 25,
+      "run_outs": 1,
+      "captained": 0,
+      "season_id": "6976b89d-a1f2-4b73-9b7a-dddf37813b71",
+      "stumpings": 0,
+      "batting_average": 14.0,
+      "bowling_average": 17.2
+    },
+    {
+      "runs": 19,
+      "label": "2006/07",
+      "catches": 5,
+      "matches": 13,
+      "wickets": 5,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "5006e763-9a98-432f-94df-45780c8422c2",
+      "stumpings": 0,
+      "batting_average": 4.75,
+      "bowling_average": 27.0
+    },
+    {
+      "runs": 8,
+      "label": "2007/08",
+      "catches": 8,
+      "matches": 12,
+      "wickets": 6,
+      "run_outs": 0,
+      "captained": 4,
+      "season_id": "b5b43792-ceef-4c59-bbf0-372bff2d4876",
+      "stumpings": 0,
+      "batting_average": 4.0,
+      "bowling_average": 16.0
+    },
+    {
+      "runs": 78,
+      "label": "2008/09",
+      "catches": 2,
+      "matches": 9,
+      "wickets": 4,
+      "run_outs": 0,
+      "captained": 2,
+      "season_id": "899776c4-f78f-42de-bd78-50a7e9803a23",
+      "stumpings": 0,
+      "batting_average": 15.6,
+      "bowling_average": 60.25
+    },
+    {
+      "runs": 96,
+      "label": "2009/10",
+      "catches": 2,
+      "matches": 11,
+      "wickets": 7,
+      "run_outs": 1,
+      "captained": 0,
+      "season_id": "b71c578b-4b72-41c7-8940-4f1a2ed60b42",
+      "stumpings": 0,
+      "batting_average": 8.73,
+      "bowling_average": 33.43
+    },
+    {
+      "runs": 63,
+      "label": "2010/11",
+      "catches": 2,
+      "matches": 6,
+      "wickets": 3,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "175ac051-a631-4da0-b925-da0991725d0c",
+      "stumpings": 0,
+      "batting_average": 12.6,
+      "bowling_average": 35.0
+    },
+    {
+      "runs": 59,
+      "label": "2011/12",
+      "catches": 3,
+      "matches": 10,
+      "wickets": 21,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "fb85f5ad-21e8-4bb9-bb99-5c8657b9865f",
+      "stumpings": 0,
+      "batting_average": 7.38,
+      "bowling_average": 9.19
+    },
+    {
+      "runs": 67,
+      "label": "2012/13",
+      "catches": 11,
+      "matches": 14,
+      "wickets": 15,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "961ac7f8-01fe-4271-916f-2bb42437a8c9",
+      "stumpings": 0,
+      "batting_average": 6.09,
+      "bowling_average": 17.6
+    },
+    {
+      "runs": 76,
+      "label": "2013/14",
+      "catches": 4,
+      "matches": 13,
+      "wickets": 12,
+      "run_outs": 2,
+      "captained": 13,
+      "season_id": "3aac787a-b7ad-42dd-b8b3-3e0a08dd2e9b",
+      "stumpings": 0,
+      "batting_average": 12.67,
+      "bowling_average": 23.08
+    },
+    {
+      "runs": 85,
+      "label": "2014/15",
+      "catches": 7,
+      "matches": 13,
+      "wickets": 22,
+      "run_outs": 2,
+      "captained": 12,
+      "season_id": "fb5f85b0-60c4-41ff-91c9-9a17ff9c0d8b",
+      "stumpings": 0,
+      "batting_average": 8.5,
+      "bowling_average": 17.27
+    },
+    {
+      "runs": 94,
+      "label": "2015/16",
+      "catches": 7,
+      "matches": 14,
+      "wickets": 9,
+      "run_outs": 2,
+      "captained": 13,
+      "season_id": "0c019624-678e-48d1-80d3-266453e8feb6",
+      "stumpings": 0,
+      "batting_average": 10.44,
+      "bowling_average": 27.0
+    },
+    {
+      "runs": 60,
+      "label": "2016/17",
+      "catches": 5,
+      "matches": 8,
+      "wickets": 21,
+      "run_outs": 0,
+      "captained": 3,
+      "season_id": "7441555d-bd29-4971-a118-f5365973c3c2",
+      "stumpings": 0,
+      "batting_average": 7.5,
+      "bowling_average": 14.0
+    },
+    {
+      "runs": 137,
+      "label": "2017/18",
+      "catches": 2,
+      "matches": 9,
+      "wickets": 12,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "b8b77790-fb9f-4318-9b52-77a18550159e",
+      "stumpings": 0,
+      "batting_average": 34.25,
+      "bowling_average": 14.83
+    },
+    {
+      "runs": 111,
+      "label": "2018/19",
+      "catches": 2,
+      "matches": 11,
+      "wickets": 19,
+      "run_outs": 1,
+      "captained": 0,
+      "season_id": "cf49c25f-9bb4-4a19-867f-1ca2e794c023",
+      "stumpings": 0,
+      "batting_average": 15.86,
+      "bowling_average": 13.16
+    },
+    {
+      "runs": 94,
+      "label": "2019/20",
+      "catches": 4,
+      "matches": 10,
+      "wickets": 13,
+      "run_outs": 0,
+      "captained": 0,
+      "season_id": "a414cae9-0433-468d-ba31-f8d654905e94",
+      "stumpings": 0,
+      "batting_average": 18.8,
+      "bowling_average": 14.31
+    },
+    {
+      "runs": 116,
+      "label": "2020/21",
+      "catches": 2,
+      "matches": 11,
+      "wickets": 3,
+      "run_outs": 2,
+      "captained": 11,
+      "season_id": "d96843c6-9bb9-46da-8040-7e0b6af3de8b",
+      "stumpings": 0,
+      "batting_average": 14.5,
+      "bowling_average": 46.0
+    },
+    {
+      "runs": 127,
+      "label": "2021/22",
+      "catches": 7,
+      "matches": 11,
+      "wickets": 11,
+      "run_outs": 0,
+      "captained": 11,
+      "season_id": "7bc9bd5b-ecf7-43bb-ab47-283ae0f3500e",
+      "stumpings": 0,
+      "batting_average": 12.7,
+      "bowling_average": 15.55
+    },
+    {
+      "runs": 35,
+      "label": "2022/23",
+      "catches": 2,
+      "matches": 4,
+      "wickets": 5,
+      "run_outs": 1,
+      "captained": 0,
+      "season_id": "928008f3-af39-4e85-83e5-7403b387354e",
+      "stumpings": 0,
+      "batting_average": 11.67,
+      "bowling_average": 10.4
+    },
+    {
+      "runs": 72,
+      "label": "2023/24",
+      "catches": 1,
+      "matches": 11,
+      "wickets": 9,
+      "run_outs": 0,
+      "captained": 2,
+      "season_id": "8d6d871e-da3a-421d-be1d-90b3455ea5e0",
+      "stumpings": 0,
+      "batting_average": 6.55,
+      "bowling_average": 22.0
+    }
+  ],
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "primary": "#0b5e3b"
+  },
+  "scope_club": null,
+  "person_name": "Matthew Dean",
+  "generated_at": "2026-11-15T05:49:13.845301+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 21,
+      "balls": 20,
+      "ducks": 1,
+      "fours": 1,
+      "sixes": 0,
+      "average": 7.0,
+      "fifties": 0,
+      "innings": 6,
+      "matches": 5,
+      "hundreds": 0,
+      "not_outs": 3,
+      "dismissed": 3,
+      "boundaries": 1,
+      "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
+      "strike_rate": 0.0,
+      "highest_score": 12,
+      "balls_incomplete": true,
+      "most_runs_in_match": 15,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 118,
+      "balls": 186,
+      "overs": 31.0,
+      "average": 11.8,
+      "economy": 3.81,
+      "innings": 5,
+      "maidens": 5,
+      "matches": 4,
+      "wickets": 10,
+      "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
+      "strike_rate": 18.6,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 1,
+      "best_match_wickets": 5,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [
+      {
+        "out": true,
+        "runs": 0,
+        "balls": 20,
+        "catches": 1,
+        "wickets": 0,
+        "match_id": "4f3cdaae-69b6-4373-8562-deaeaa644481",
+        "run_outs": 0,
+        "captained": false,
+        "stumpings": 0,
+        "match_date": "2024-03-09",
+        "result_type": "away_win",
+        "runs_conceded": 7,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      },
+      {
+        "out": true,
+        "runs": 3,
+        "balls": 0,
+        "catches": 1,
+        "wickets": 4,
+        "match_id": "20cd0390-095d-4014-a9ca-81f560174374",
+        "run_outs": 0,
+        "captained": false,
+        "stumpings": 0,
+        "match_date": "2019-03-09",
+        "result_type": "home_win",
+        "runs_conceded": 23,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      },
+      {
+        "out": false,
+        "runs": 1,
+        "balls": 0,
+        "catches": 1,
+        "wickets": null,
+        "match_id": "9c7367fb-24e3-428c-8fb8-362308d21ce4",
+        "run_outs": 0,
+        "captained": false,
+        "stumpings": 0,
+        "match_date": "2008-03-01",
+        "result_type": "away_win",
+        "runs_conceded": null,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      },
+      {
+        "out": false,
+        "runs": 2,
+        "balls": 0,
+        "catches": 1,
+        "wickets": 1,
+        "match_id": "032aae7a-7700-4c92-b029-62876741e7b1",
+        "run_outs": 0,
+        "captained": false,
+        "stumpings": 0,
+        "match_date": "2007-02-17",
+        "result_type": "home_win",
+        "runs_conceded": 32,
+        "classification": "grand_final",
+        "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+      },
+      {
+        "out": true,
+        "runs": 15,
+        "balls": 0,
+        "catches": 2,
+        "wickets": 5,
+        "match_id": "34d71adc-0346-4240-b8bd-2da2912acb72",
+        "run_outs": 0,
+        "captained": false,
+        "stumpings": 0,
+        "match_date": "2006-03-04",
+        "result_type": "home_win",
+        "runs_conceded": 56,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      }
+    ],
+    "fielding": {
+      "catches": 6,
+      "matches": 5,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "e5ec1245-194b-447a-806e-1ceb5b367711",
+      "field_catches": 6,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 5,
+    "has_batting": true,
+    "has_bowling": true,
+    "premierships": 2,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

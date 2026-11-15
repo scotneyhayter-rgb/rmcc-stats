@@ -1,0 +1,227 @@
+{
+  "title": "Sam Brown",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2026-11-14",
+      "opposition": "Swifts/Great Western"
+    },
+    "first": {
+      "date": "2026-10-31",
+      "opposition": "St Mary's"
+    }
+  },
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "10 career wickets",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
+    },
+    "batting": {
+      "runs": 70,
+      "balls": 164,
+      "ducks": 0,
+      "fours": 3,
+      "sixes": 0,
+      "average": 35.0,
+      "fifties": 0,
+      "innings": 3,
+      "matches": 3,
+      "hundreds": 0,
+      "not_outs": 1,
+      "dismissed": 2,
+      "boundaries": 3,
+      "subject_id": "7cfe42c5-fb5f-4111-b2ec-63357bc9938f",
+      "strike_rate": 42.68,
+      "highest_score": 48,
+      "highest_not_out": false,
+      "balls_incomplete": false,
+      "most_runs_in_match": 48,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 56,
+      "balls": 78,
+      "overs": 13.0,
+      "average": 18.67,
+      "economy": 4.31,
+      "innings": 3,
+      "maidens": 2,
+      "matches": 3,
+      "wickets": 3,
+      "subject_id": "7cfe42c5-fb5f-4111-b2ec-63357bc9938f",
+      "strike_rate": 26.0,
+      "best_bowling": {
+        "runs": 37,
+        "wickets": 2
+      },
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 2,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 3,
+    "fielding": {
+      "catches": 2,
+      "matches": 2,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "7cfe42c5-fb5f-4111-b2ec-63357bc9938f",
+      "field_catches": 2,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": true,
+    "has_keeping": false,
+    "derived_role": "batter",
+    "has_captaincy": false,
+    "participation": {
+      "wins": 2,
+      "losses": 1,
+      "matches": 3
+    }
+  },
+  "detail": {
+    "numbers": [
+      "17"
+    ],
+    "biography": null,
+    "leadership": [],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "records": [],
+  "seasons": [],
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "primary": "#0b5e3b"
+  },
+  "scope_club": "Rhymney Moyston CC",
+  "person_name": "Sam Brown",
+  "generated_at": "2026-11-15T05:48:01.606805+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 0,
+      "balls": 0,
+      "ducks": 0,
+      "fours": 0,
+      "sixes": 0,
+      "average": null,
+      "fifties": 0,
+      "innings": 0,
+      "matches": 0,
+      "hundreds": 0,
+      "not_outs": 0,
+      "dismissed": 0,
+      "boundaries": 0,
+      "subject_id": "7cfe42c5-fb5f-4111-b2ec-63357bc9938f",
+      "strike_rate": null,
+      "highest_score": 0,
+      "balls_incomplete": false,
+      "most_runs_in_match": 0,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 0,
+      "balls": 0,
+      "overs": 0.0,
+      "average": null,
+      "economy": null,
+      "innings": 0,
+      "maidens": 0,
+      "matches": 0,
+      "wickets": 0,
+      "subject_id": "7cfe42c5-fb5f-4111-b2ec-63357bc9938f",
+      "strike_rate": null,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 0,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [
+      {
+        "out": true,
+        "runs": 0,
+        "balls": 0,
+        "catches": null,
+        "wickets": null,
+        "match_id": "20cd0390-095d-4014-a9ca-81f560174374",
+        "run_outs": null,
+        "captained": false,
+        "stumpings": null,
+        "match_date": "2019-03-09",
+        "result_type": "home_win",
+        "runs_conceded": null,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      }
+    ],
+    "fielding": {
+      "catches": 0,
+      "matches": 0,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "7cfe42c5-fb5f-4111-b2ec-63357bc9938f",
+      "field_catches": 0,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 0,
+    "has_batting": false,
+    "has_bowling": false,
+    "premierships": 0,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Statistics shown for Rhymney Moyston CC only \u2014 figures from other clubs are not included.",
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

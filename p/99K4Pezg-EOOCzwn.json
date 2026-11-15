@@ -1,0 +1,254 @@
+{
+  "title": "Clinton Slorach",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2026-11-14",
+      "opposition": "Swifts/Great Western"
+    },
+    "first": {
+      "date": "2023-10-28",
+      "opposition": "Swifts/Great Western"
+    }
+  },
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_known_minimum"
+      },
+      {
+        "label": "500 career runs",
+        "state": "achieved_known_minimum"
+      },
+      {
+        "label": "10 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 catches",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
+    },
+    "batting": {
+      "runs": 213,
+      "balls": 369,
+      "ducks": 5,
+      "fours": 22,
+      "sixes": 0,
+      "average": 9.26,
+      "fifties": 0,
+      "innings": 28,
+      "matches": 28,
+      "hundreds": 0,
+      "not_outs": 4,
+      "dismissed": 23,
+      "boundaries": 22,
+      "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
+      "strike_rate": 55.56,
+      "highest_score": 26,
+      "highest_not_out": false,
+      "balls_incomplete": true,
+      "most_runs_in_match": 26,
+      "runs_known_minimum": true
+    },
+    "bowling": {
+      "runs": 741,
+      "balls": 1081,
+      "overs": 180.2,
+      "average": 21.79,
+      "economy": 4.11,
+      "innings": 35,
+      "maidens": 24,
+      "matches": 35,
+      "wickets": 34,
+      "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
+      "strike_rate": 31.79,
+      "best_bowling": {
+        "runs": 10,
+        "wickets": 4
+      },
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 4,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 36,
+    "fielding": {
+      "catches": 19,
+      "matches": 14,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
+      "field_catches": 19,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 2,
+      "draws": 0,
+      "losses": 8,
+      "gf_wins": 0,
+      "captained": 11,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": true,
+    "has_keeping": false,
+    "derived_role": "all-rounder",
+    "has_captaincy": true,
+    "participation": {
+      "wins": 12,
+      "losses": 19,
+      "matches": 36
+    }
+  },
+  "detail": {
+    "numbers": [
+      "9"
+    ],
+    "biography": null,
+    "leadership": [
+      {
+        "label": "Captain",
+        "seasons": [
+          "2024-25"
+        ]
+      }
+    ],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "records": [],
+  "seasons": [],
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "primary": "#0b5e3b"
+  },
+  "scope_club": "Rhymney Moyston CC",
+  "person_name": "Clinton Slorach",
+  "generated_at": "2026-11-15T05:49:31.247982+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 0,
+      "balls": 14,
+      "ducks": 1,
+      "fours": 0,
+      "sixes": 0,
+      "average": 0.0,
+      "fifties": 0,
+      "innings": 1,
+      "matches": 1,
+      "hundreds": 0,
+      "not_outs": 0,
+      "dismissed": 1,
+      "boundaries": 0,
+      "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
+      "strike_rate": 0.0,
+      "highest_score": 0,
+      "balls_incomplete": false,
+      "most_runs_in_match": 0,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 4,
+      "balls": 6,
+      "overs": 1.0,
+      "average": null,
+      "economy": 4.0,
+      "innings": 1,
+      "maidens": 0,
+      "matches": 1,
+      "wickets": 0,
+      "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
+      "strike_rate": null,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 0,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [
+      {
+        "out": true,
+        "runs": 0,
+        "balls": 14,
+        "catches": null,
+        "wickets": 0,
+        "match_id": "4f3cdaae-69b6-4373-8562-deaeaa644481",
+        "run_outs": null,
+        "captained": false,
+        "stumpings": null,
+        "match_date": "2024-03-09",
+        "result_type": "away_win",
+        "runs_conceded": 4,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      }
+    ],
+    "fielding": {
+      "catches": 0,
+      "matches": 0,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "0c5250f3-28d9-41c7-b105-0ec1edfeba66",
+      "field_catches": 0,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 1,
+    "has_batting": true,
+    "has_bowling": true,
+    "premierships": 0,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Statistics shown for Rhymney Moyston CC only \u2014 figures from other clubs are not included.",
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

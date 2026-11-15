@@ -1,0 +1,309 @@
+{
+  "title": "David Robinson",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2026-11-07",
+      "opposition": "Blackheath Dimboola"
+    },
+    "first": {
+      "date": "1999-10-06",
+      "opposition": "Willaura"
+    }
+  },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "500 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "1000 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "2500 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "10 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "100 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 catches",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 catches",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "12\u00d7 Century",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "1\u00d7 Five-Wicket Innings",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
+    },
+    "batting": {
+      "runs": 4051,
+      "balls": 21,
+      "ducks": 8,
+      "fours": 397,
+      "sixes": 38,
+      "average": 40.92,
+      "fifties": 18,
+      "innings": 112,
+      "matches": 101,
+      "hundreds": 12,
+      "not_outs": 13,
+      "dismissed": 99,
+      "boundaries": 435,
+      "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
+      "strike_rate": 133.33,
+      "highest_score": 176,
+      "highest_not_out": false,
+      "balls_incomplete": true,
+      "most_runs_in_match": 176,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 1406,
+      "balls": 2372,
+      "overs": 395.3,
+      "average": 20.68,
+      "economy": 3.56,
+      "innings": 56,
+      "maidens": 39,
+      "matches": 54,
+      "wickets": 68,
+      "hat_tricks": 0,
+      "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
+      "strike_rate": 34.88,
+      "best_bowling": {
+        "runs": 55,
+        "wickets": 5
+      },
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 1,
+      "best_match_wickets": 9,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 103,
+    "fielding": {
+      "catches": 82,
+      "matches": 55,
+      "run_outs": 3,
+      "stumpings": 6,
+      "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
+      "field_catches": 64,
+      "keeper_catches": 18,
+      "run_out_assists": 0,
+      "keeper_dismissals": 24,
+      "run_out_involvements": 3
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 3,
+      "draws": 0,
+      "losses": 3,
+      "gf_wins": 0,
+      "captained": 6,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": true,
+    "has_keeping": true,
+    "derived_role": "all-rounder",
+    "has_captaincy": true,
+    "participation": {
+      "wins": 60,
+      "losses": 42,
+      "matches": 103
+    }
+  },
+  "detail": {
+    "numbers": [
+      "42"
+    ],
+    "biography": null,
+    "leadership": [],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "matches": null,
+  "records": [],
+  "seasons": [],
+  "analysis": null,
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
+  },
+  "scope_club": "Rhymney Moyston CC",
+  "person_name": "David Robinson",
+  "generated_at": "2026-11-15T08:44:04.369627+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 128,
+      "balls": 0,
+      "ducks": 0,
+      "fours": 21,
+      "sixes": 0,
+      "average": 42.67,
+      "fifties": 0,
+      "innings": 3,
+      "matches": 2,
+      "hundreds": 1,
+      "not_outs": 0,
+      "dismissed": 3,
+      "boundaries": 21,
+      "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
+      "strike_rate": null,
+      "highest_score": 101,
+      "balls_incomplete": true,
+      "most_runs_in_match": 101,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 1,
+      "balls": 6,
+      "overs": 1.0,
+      "average": null,
+      "economy": 1.0,
+      "innings": 1,
+      "maidens": 0,
+      "matches": 1,
+      "wickets": 0,
+      "hat_tricks": 0,
+      "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
+      "strike_rate": null,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 0,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [
+      {
+        "out": true,
+        "runs": 101,
+        "balls": 0,
+        "ground": "Tech School",
+        "result": "loss",
+        "catches": 1,
+        "wickets": 0,
+        "match_id": "032aae7a-7700-4c92-b029-62876741e7b1",
+        "run_outs": 0,
+        "captained": false,
+        "stumpings": 0,
+        "match_date": "2007-02-17",
+        "opposition": "Wickliffe/Lake Bolac",
+        "result_type": "home_win",
+        "runs_conceded": 1,
+        "classification": "grand_final",
+        "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+      },
+      {
+        "out": true,
+        "runs": 27,
+        "balls": 0,
+        "ground": "Moyston",
+        "result": "win",
+        "catches": 1,
+        "wickets": null,
+        "match_id": "34d71adc-0346-4240-b8bd-2da2912acb72",
+        "run_outs": 0,
+        "captained": false,
+        "stumpings": 1,
+        "match_date": "2006-03-04",
+        "opposition": "Willaura",
+        "result_type": "home_win",
+        "runs_conceded": null,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      }
+    ],
+    "fielding": {
+      "catches": 2,
+      "matches": 2,
+      "run_outs": 0,
+      "stumpings": 1,
+      "subject_id": "8bbe8a81-d194-415b-b6b2-dd51ab2f80e3",
+      "field_catches": 0,
+      "keeper_catches": 2,
+      "run_out_assists": 0,
+      "keeper_dismissals": 3,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 2,
+    "has_batting": true,
+    "has_bowling": true,
+    "premierships": 1,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Statistics shown for Rhymney Moyston CC only \u2014 figures from other clubs are not included.",
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

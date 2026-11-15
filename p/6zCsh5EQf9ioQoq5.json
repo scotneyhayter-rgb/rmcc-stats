@@ -1,0 +1,310 @@
+{
+  "title": "Nathan Quick",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2026-03-07",
+      "opposition": "Swifts/Great Western"
+    },
+    "first": {
+      "date": "2006-01-28",
+      "opposition": "Pomonal"
+    }
+  },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "500 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "1000 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "2500 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "10 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "100 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "200 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "100 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "150 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "200 matches played",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 catches",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "50 catches",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "1\u00d7 Century",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "3\u00d7 Five-Wicket Innings",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "1\u00d7 Hat-trick",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
+    },
+    "batting": {
+      "runs": 3085,
+      "balls": 651,
+      "ducks": 23,
+      "fours": 260,
+      "sixes": 18,
+      "average": 16.24,
+      "fifties": 10,
+      "innings": 216,
+      "matches": 207,
+      "hundreds": 1,
+      "not_outs": 26,
+      "dismissed": 190,
+      "boundaries": 278,
+      "subject_id": "7cc3a71c-ae7f-42cb-b2c0-639761d3b2b9",
+      "strike_rate": 52.38,
+      "highest_score": 101,
+      "highest_not_out": true,
+      "balls_incomplete": true,
+      "most_runs_in_match": 101,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 4306,
+      "balls": 7231,
+      "overs": 1205.2,
+      "average": 16.25,
+      "economy": 3.57,
+      "innings": 205,
+      "maidens": 169,
+      "matches": 199,
+      "wickets": 265,
+      "hat_tricks": 1,
+      "subject_id": "7cc3a71c-ae7f-42cb-b2c0-639761d3b2b9",
+      "strike_rate": 27.29,
+      "best_bowling": {
+        "runs": 5,
+        "wickets": 7
+      },
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 3,
+      "best_match_wickets": 7,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 222,
+    "fielding": {
+      "catches": 74,
+      "matches": 61,
+      "run_outs": 5,
+      "stumpings": 0,
+      "subject_id": "7cc3a71c-ae7f-42cb-b2c0-639761d3b2b9",
+      "field_catches": 74,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 5
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "gf_wins": 0,
+      "captained": 5,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": true,
+    "has_keeping": false,
+    "derived_role": "all-rounder",
+    "has_captaincy": true,
+    "participation": {
+      "wins": 88,
+      "losses": 126,
+      "matches": 222
+    }
+  },
+  "detail": {
+    "numbers": [
+      "12"
+    ],
+    "biography": null,
+    "leadership": [],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "matches": null,
+  "records": [],
+  "seasons": [],
+  "analysis": null,
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
+  },
+  "scope_club": "Rhymney Moyston CC",
+  "person_name": "Nathan Quick",
+  "generated_at": "2026-11-15T08:42:33.964374+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 5,
+      "balls": 0,
+      "ducks": 0,
+      "fours": 0,
+      "sixes": 0,
+      "average": 5.0,
+      "fifties": 0,
+      "innings": 1,
+      "matches": 1,
+      "hundreds": 0,
+      "not_outs": 0,
+      "dismissed": 1,
+      "boundaries": 0,
+      "subject_id": "7cc3a71c-ae7f-42cb-b2c0-639761d3b2b9",
+      "strike_rate": null,
+      "highest_score": 5,
+      "balls_incomplete": true,
+      "most_runs_in_match": 5,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 35,
+      "balls": 42,
+      "overs": 7.0,
+      "average": 35.0,
+      "economy": 5.0,
+      "innings": 1,
+      "maidens": 1,
+      "matches": 1,
+      "wickets": 1,
+      "hat_tricks": 0,
+      "subject_id": "7cc3a71c-ae7f-42cb-b2c0-639761d3b2b9",
+      "strike_rate": 42.0,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 1,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [
+      {
+        "out": true,
+        "runs": 5,
+        "balls": 0,
+        "ground": "Tech School",
+        "result": "loss",
+        "catches": null,
+        "wickets": 1,
+        "match_id": "20cd0390-095d-4014-a9ca-81f560174374",
+        "run_outs": null,
+        "captained": false,
+        "stumpings": null,
+        "match_date": "2019-03-09",
+        "opposition": "Chalambar",
+        "result_type": "home_win",
+        "runs_conceded": 35,
+        "classification": "grand_final",
+        "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+      }
+    ],
+    "fielding": {
+      "catches": 0,
+      "matches": 0,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "7cc3a71c-ae7f-42cb-b2c0-639761d3b2b9",
+      "field_catches": 0,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 1,
+    "has_batting": true,
+    "has_bowling": true,
+    "premierships": 0,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Statistics shown for Rhymney Moyston CC only \u2014 figures from other clubs are not included.",
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

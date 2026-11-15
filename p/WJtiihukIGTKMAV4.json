@@ -1,0 +1,232 @@
+{
+  "title": "David Padley",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2026-03-07",
+      "opposition": "Swifts/Great Western"
+    },
+    "first": {
+      "date": "2020-11-07",
+      "opposition": "Halls Gap"
+    }
+  },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "25 matches played",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
+    },
+    "batting": {
+      "runs": 411,
+      "balls": 219,
+      "ducks": 7,
+      "fours": 26,
+      "sixes": 0,
+      "average": 14.17,
+      "fifties": 1,
+      "innings": 32,
+      "matches": 32,
+      "hundreds": 0,
+      "not_outs": 3,
+      "dismissed": 29,
+      "boundaries": 26,
+      "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
+      "strike_rate": 61.19,
+      "highest_score": 76,
+      "highest_not_out": false,
+      "balls_incomplete": true,
+      "most_runs_in_match": 76,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 0,
+      "balls": 0,
+      "overs": 0.0,
+      "average": null,
+      "economy": null,
+      "innings": 0,
+      "maidens": 0,
+      "matches": 0,
+      "wickets": 0,
+      "hat_tricks": 0,
+      "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
+      "strike_rate": null,
+      "best_bowling": null,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 0,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 35,
+    "fielding": {
+      "catches": 20,
+      "matches": 14,
+      "run_outs": 0,
+      "stumpings": 1,
+      "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
+      "field_catches": 8,
+      "keeper_catches": 12,
+      "run_out_assists": 0,
+      "keeper_dismissals": 13,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "gf_wins": 0,
+      "captained": 3,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": false,
+    "has_keeping": true,
+    "derived_role": "wicketkeeper",
+    "has_captaincy": true,
+    "participation": {
+      "wins": 12,
+      "losses": 20,
+      "matches": 35
+    }
+  },
+  "detail": {
+    "numbers": [
+      "10"
+    ],
+    "biography": null,
+    "leadership": [
+      {
+        "label": "Captain",
+        "seasons": [
+          "2022-23",
+          "2023-24",
+          "2026-27"
+        ]
+      }
+    ],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "matches": null,
+  "records": [],
+  "seasons": [],
+  "analysis": null,
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
+  },
+  "scope_club": "Rhymney Moyston CC",
+  "person_name": "David Padley",
+  "generated_at": "2026-11-15T08:42:59.260409+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 0,
+      "balls": 0,
+      "ducks": 0,
+      "fours": 0,
+      "sixes": 0,
+      "average": null,
+      "fifties": 0,
+      "innings": 0,
+      "matches": 0,
+      "hundreds": 0,
+      "not_outs": 0,
+      "dismissed": 0,
+      "boundaries": 0,
+      "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
+      "strike_rate": null,
+      "highest_score": 0,
+      "balls_incomplete": false,
+      "most_runs_in_match": 0,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 0,
+      "balls": 0,
+      "overs": 0.0,
+      "average": null,
+      "economy": null,
+      "innings": 0,
+      "maidens": 0,
+      "matches": 0,
+      "wickets": 0,
+      "hat_tricks": 0,
+      "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
+      "strike_rate": null,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 0,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [],
+    "fielding": {
+      "catches": 0,
+      "matches": 0,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "59e3eda9-d5ba-4a7e-94dc-a93f3e988bb7",
+      "field_catches": 0,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 0,
+    "has_batting": false,
+    "has_bowling": false,
+    "premierships": 0,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Statistics shown for Rhymney Moyston CC only \u2014 figures from other clubs are not included.",
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

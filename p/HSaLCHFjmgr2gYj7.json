@@ -1,0 +1,230 @@
+{
+  "title": "Sol Riddell",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2026-11-14",
+      "opposition": "Swifts/Great Western"
+    },
+    "first": {
+      "date": "2025-11-29",
+      "opposition": "Swifts/Great Western"
+    }
+  },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "10 career wickets",
+        "state": "achieved_confirmed"
+      },
+      {
+        "label": "1\u00d7 Century",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
+    },
+    "batting": {
+      "runs": 260,
+      "balls": 469,
+      "ducks": 0,
+      "fours": 25,
+      "sixes": 3,
+      "average": 32.5,
+      "fifties": 1,
+      "innings": 11,
+      "matches": 11,
+      "hundreds": 0,
+      "not_outs": 3,
+      "dismissed": 8,
+      "boundaries": 28,
+      "subject_id": "64d63178-2cd5-4689-a457-cd1eadf9509a",
+      "strike_rate": 55.44,
+      "highest_score": 52,
+      "highest_not_out": true,
+      "balls_incomplete": false,
+      "most_runs_in_match": 52,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 174,
+      "balls": 290,
+      "overs": 48.3,
+      "average": 13.38,
+      "economy": 3.6,
+      "innings": 12,
+      "maidens": 7,
+      "matches": 12,
+      "wickets": 13,
+      "hat_tricks": 0,
+      "subject_id": "64d63178-2cd5-4689-a457-cd1eadf9509a",
+      "strike_rate": 22.31,
+      "best_bowling": {
+        "runs": 2,
+        "wickets": 4
+      },
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 4,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 12,
+    "fielding": {
+      "catches": 4,
+      "matches": 4,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "64d63178-2cd5-4689-a457-cd1eadf9509a",
+      "field_catches": 4,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": true,
+    "has_keeping": false,
+    "derived_role": "batter",
+    "has_captaincy": false,
+    "participation": {
+      "wins": 5,
+      "losses": 6,
+      "matches": 12
+    }
+  },
+  "detail": {
+    "numbers": [
+      "16"
+    ],
+    "biography": null,
+    "leadership": [],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "matches": null,
+  "records": [],
+  "seasons": [],
+  "analysis": null,
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
+  },
+  "scope_club": "Rhymney Moyston CC",
+  "person_name": "Sol Riddell",
+  "generated_at": "2026-11-15T08:43:04.308966+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 0,
+      "balls": 0,
+      "ducks": 0,
+      "fours": 0,
+      "sixes": 0,
+      "average": null,
+      "fifties": 0,
+      "innings": 0,
+      "matches": 0,
+      "hundreds": 0,
+      "not_outs": 0,
+      "dismissed": 0,
+      "boundaries": 0,
+      "subject_id": "64d63178-2cd5-4689-a457-cd1eadf9509a",
+      "strike_rate": null,
+      "highest_score": 0,
+      "balls_incomplete": false,
+      "most_runs_in_match": 0,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 0,
+      "balls": 0,
+      "overs": 0.0,
+      "average": null,
+      "economy": null,
+      "innings": 0,
+      "maidens": 0,
+      "matches": 0,
+      "wickets": 0,
+      "hat_tricks": 0,
+      "subject_id": "64d63178-2cd5-4689-a457-cd1eadf9509a",
+      "strike_rate": null,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 0,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [],
+    "fielding": {
+      "catches": 0,
+      "matches": 0,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "64d63178-2cd5-4689-a457-cd1eadf9509a",
+      "field_catches": 0,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 0,
+    "has_batting": false,
+    "has_bowling": false,
+    "premierships": 0,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Statistics shown for Rhymney Moyston CC only \u2014 figures from other clubs are not included.",
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

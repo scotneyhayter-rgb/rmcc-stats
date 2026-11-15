@@ -1,0 +1,222 @@
+{
+  "title": "Cameron Ralph",
+  "kind": "player_profile",
+  "span": {
+    "last": {
+      "date": "2026-01-24",
+      "opposition": "Lubeck Murtoa"
+    },
+    "first": {
+      "date": "2025-10-18",
+      "opposition": "Jung Tigers"
+    }
+  },
+  "clubs": [
+    {
+      "club": "Rhymney Moyston CC",
+      "crest": null
+    }
+  ],
+  "photo": null,
+  "badges": {
+    "awarded": [],
+    "calculated": [
+      {
+        "label": "100 career runs",
+        "state": "achieved_confirmed"
+      }
+    ]
+  },
+  "career": {
+    "scope": {
+      "team_id": null,
+      "grade_id": null,
+      "season_id": null,
+      "workspace_id": "ee00626c-2ac6-48bb-b782-575378ea4fea",
+      "competition_id": null,
+      "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
+    },
+    "batting": {
+      "runs": 11,
+      "balls": 13,
+      "ducks": 0,
+      "fours": 1,
+      "sixes": 0,
+      "average": 5.5,
+      "fifties": 0,
+      "innings": 3,
+      "matches": 3,
+      "hundreds": 0,
+      "not_outs": 1,
+      "dismissed": 2,
+      "boundaries": 1,
+      "subject_id": "a6363692-b71c-41ed-8b17-e0cc7adec8ea",
+      "strike_rate": 84.62,
+      "highest_score": 9,
+      "highest_not_out": true,
+      "balls_incomplete": false,
+      "most_runs_in_match": 9,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 33,
+      "balls": 30,
+      "overs": 5.0,
+      "average": 33.0,
+      "economy": 6.6,
+      "innings": 2,
+      "maidens": 0,
+      "matches": 2,
+      "wickets": 1,
+      "hat_tricks": 0,
+      "subject_id": "a6363692-b71c-41ed-8b17-e0cc7adec8ea",
+      "strike_rate": 30.0,
+      "best_bowling": {
+        "runs": 20,
+        "wickets": 1
+      },
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 1,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": 4,
+    "fielding": {
+      "catches": 1,
+      "matches": 1,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "a6363692-b71c-41ed-8b17-e0cc7adec8ea",
+      "field_catches": 1,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "has_batting": true,
+    "has_bowling": true,
+    "has_keeping": false,
+    "derived_role": "batter",
+    "has_captaincy": false,
+    "participation": {
+      "wins": 3,
+      "losses": 1,
+      "matches": 4
+    }
+  },
+  "detail": {
+    "numbers": [
+      "3"
+    ],
+    "biography": null,
+    "leadership": [],
+    "recognition": [],
+    "batting_style": null,
+    "bowling_style": null,
+    "is_wicketkeeper": false
+  },
+  "honours": [],
+  "matches": null,
+  "records": [],
+  "seasons": [],
+  "analysis": null,
+  "branding": {
+    "club": "Rhymney/Moyston Cricket Club",
+    "logo": null,
+    "theme": "system",
+    "accent": "#D6A52F",
+    "primary": "#112448",
+    "logo_ref": null,
+    "secondary": "#C99B2D"
+  },
+  "scope_club": "Rhymney Moyston CC",
+  "person_name": "Cameron Ralph",
+  "generated_at": "2026-11-15T08:43:48.913642+00:00",
+  "grand_finals": {
+    "batting": {
+      "runs": 0,
+      "balls": 0,
+      "ducks": 0,
+      "fours": 0,
+      "sixes": 0,
+      "average": null,
+      "fifties": 0,
+      "innings": 0,
+      "matches": 0,
+      "hundreds": 0,
+      "not_outs": 0,
+      "dismissed": 0,
+      "boundaries": 0,
+      "subject_id": "a6363692-b71c-41ed-8b17-e0cc7adec8ea",
+      "strike_rate": null,
+      "highest_score": 0,
+      "balls_incomplete": false,
+      "most_runs_in_match": 0,
+      "runs_known_minimum": false
+    },
+    "bowling": {
+      "runs": 0,
+      "balls": 0,
+      "overs": 0.0,
+      "average": null,
+      "economy": null,
+      "innings": 0,
+      "maidens": 0,
+      "matches": 0,
+      "wickets": 0,
+      "hat_tricks": 0,
+      "subject_id": "a6363692-b71c-41ed-8b17-e0cc7adec8ea",
+      "strike_rate": null,
+      "ten_wkt_match": 0,
+      "balls_incomplete": false,
+      "five_wkt_innings": 0,
+      "best_match_wickets": 0,
+      "economy_incomplete": false,
+      "wickets_known_minimum": false
+    },
+    "matches": [],
+    "fielding": {
+      "catches": 0,
+      "matches": 0,
+      "run_outs": 0,
+      "stumpings": 0,
+      "subject_id": "a6363692-b71c-41ed-8b17-e0cc7adec8ea",
+      "field_catches": 0,
+      "keeper_catches": 0,
+      "run_out_assists": 0,
+      "keeper_dismissals": 0,
+      "run_out_involvements": 0
+    },
+    "captaincy": {
+      "ties": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "gf_wins": 0,
+      "captained": 0,
+      "no_results": 0,
+      "gf_captained": 0
+    },
+    "appearances": 0,
+    "has_batting": false,
+    "has_bowling": false,
+    "premierships": 0,
+    "has_captaincy": false
+  },
+  "qualifications": [
+    "Statistics shown for Rhymney Moyston CC only \u2014 figures from other clubs are not included.",
+    "Public profile \u2014 approved statistics only; personal contact details and dates of birth are never published."
+  ]
+}

@@ -1684,25 +1684,6 @@
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
     {
-      "out": false,
-      "runs": 7,
-      "balls": 0,
-      "ground": "North Park",
-      "result": "loss",
-      "catches": null,
-      "wickets": 0,
-      "match_id": "953d50da-7e16-4098-a7d5-290727cf14ce",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "2016-03-12",
-      "opposition": "Navarre",
-      "result_type": "home_win",
-      "runs_conceded": 24,
-      "classification": "unclassified",
-      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
-    },
-    {
       "out": true,
       "runs": 0,
       "balls": 0,
@@ -1718,6 +1699,25 @@
       "opposition": "Navarre",
       "result_type": "away_win",
       "runs_conceded": 27,
+      "classification": "unclassified",
+      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+    },
+    {
+      "out": false,
+      "runs": 7,
+      "balls": 0,
+      "ground": "North Park",
+      "result": "loss",
+      "catches": null,
+      "wickets": 0,
+      "match_id": "953d50da-7e16-4098-a7d5-290727cf14ce",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2016-03-12",
+      "opposition": "Navarre",
+      "result_type": "home_win",
+      "runs_conceded": 24,
       "classification": "unclassified",
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
@@ -5345,12 +5345,12 @@
         },
         {
           "date": "2017-02-04",
-          "runs": 4,
+          "runs": 10,
           "not_out": false
         },
         {
           "date": "2017-02-04",
-          "runs": 10,
+          "runs": 4,
           "not_out": false
         },
         {
@@ -7768,6 +7768,10 @@
         },
         {
           "count": 2,
+          "player": "M Collins"
+        },
+        {
+          "count": 2,
           "player": "W Pederson"
         },
         {
@@ -7777,10 +7781,6 @@
         {
           "count": 2,
           "player": "P Ganley"
-        },
-        {
-          "count": 2,
-          "player": "M Collins"
         },
         {
           "count": 2,
@@ -7796,11 +7796,19 @@
         },
         {
           "count": 1,
-          "player": "R Reid"
+          "player": "A Verma"
         },
         {
           "count": 1,
           "player": "J Bywaters"
+        },
+        {
+          "count": 1,
+          "player": "J Pavey"
+        },
+        {
+          "count": 1,
+          "player": "R Reid"
         },
         {
           "count": 1,
@@ -7809,14 +7817,6 @@
         {
           "count": 1,
           "player": "N Dunford"
-        },
-        {
-          "count": 1,
-          "player": "A Haslett"
-        },
-        {
-          "count": 1,
-          "player": "R Townsend"
         }
       ]
     },
@@ -7838,20 +7838,20 @@
         "opposition": "Wickliffe/Lake Bolac"
       },
       {
-        "date": "2021-12-11",
-        "runs": 27,
-        "score": "27",
-        "ground": "Halls Gap",
-        "position": 8,
-        "opposition": "Halls Gap"
-      },
-      {
         "date": "2005-11-12",
         "runs": 27,
         "score": "27",
         "ground": "Moyston",
         "position": 5,
         "opposition": "Willaura"
+      },
+      {
+        "date": "2021-12-11",
+        "runs": 27,
+        "score": "27",
+        "ground": "Halls Gap",
+        "position": 8,
+        "opposition": "Halls Gap"
       },
       {
         "date": "2017-01-14",
@@ -7862,14 +7862,6 @@
         "opposition": "Youth Club"
       },
       {
-        "date": "2013-02-23",
-        "runs": 23,
-        "score": "23",
-        "ground": "Moyston",
-        "position": 5,
-        "opposition": "Halls Gap"
-      },
-      {
         "date": "2019-02-16",
         "runs": 23,
         "score": "23",
@@ -7878,12 +7870,12 @@
         "opposition": "Navarre"
       },
       {
-        "date": "2008-01-12",
-        "runs": 21,
-        "score": "21",
-        "ground": "Richardson Oval",
-        "position": 6,
-        "opposition": "Chalambar"
+        "date": "2013-02-23",
+        "runs": 23,
+        "score": "23",
+        "ground": "Moyston",
+        "position": 5,
+        "opposition": "Halls Gap"
       },
       {
         "date": "2006-01-07",
@@ -7892,6 +7884,14 @@
         "ground": "Moyston",
         "position": 8,
         "opposition": "Buangor"
+      },
+      {
+        "date": "2008-01-12",
+        "runs": 21,
+        "score": "21",
+        "ground": "Richardson Oval",
+        "position": 6,
+        "opposition": "Chalambar"
       },
       {
         "date": "2009-12-19",
@@ -8129,15 +8129,6 @@
         "opposition": "Willaura"
       },
       {
-        "date": "2016-02-06",
-        "runs": 33,
-        "ground": "Aradale",
-        "wicket": 6,
-        "partner": "Matthew Dean",
-        "unbroken": false,
-        "opposition": "Aradale"
-      },
-      {
         "date": "2023-12-16",
         "runs": 33,
         "ground": "Moyston",
@@ -8156,13 +8147,13 @@
         "opposition": "St Andrews"
       },
       {
-        "date": "2017-01-14",
-        "runs": 31,
-        "ground": "Moyston",
-        "wicket": 7,
-        "partner": "Russell Armstrong",
+        "date": "2016-02-06",
+        "runs": 33,
+        "ground": "Aradale",
+        "wicket": 6,
+        "partner": "Matthew Dean",
         "unbroken": false,
-        "opposition": "Youth Club"
+        "opposition": "Aradale"
       },
       {
         "date": "2015-12-12",
@@ -8174,11 +8165,29 @@
         "opposition": "Navarre"
       },
       {
+        "date": "2017-01-14",
+        "runs": 31,
+        "ground": "Moyston",
+        "wicket": 7,
+        "partner": "Russell Armstrong",
+        "unbroken": false,
+        "opposition": "Youth Club"
+      },
+      {
         "date": "2012-02-18",
         "runs": 31,
         "ground": "Old Lake",
         "wicket": 5,
         "partner": "Nathan Quick",
+        "unbroken": false,
+        "opposition": "Youth Club"
+      },
+      {
+        "date": "2009-01-17",
+        "runs": 30,
+        "ground": "Moyston",
+        "wicket": 7,
+        "partner": "Unknown",
         "unbroken": false,
         "opposition": "Youth Club"
       },
@@ -8190,15 +8199,6 @@
         "partner": "Russell Armstrong",
         "unbroken": false,
         "opposition": "Chalambar"
-      },
-      {
-        "date": "2009-01-17",
-        "runs": 30,
-        "ground": "Moyston",
-        "wicket": 7,
-        "partner": "Unknown",
-        "unbroken": false,
-        "opposition": "Youth Club"
       }
     ],
     "partnership_totals": [
@@ -8335,7 +8335,7 @@
   },
   "scope_club": null,
   "person_name": "David Cosgriff",
-  "generated_at": "2026-11-15T17:57:02.078967+00:00",
+  "generated_at": "2026-11-15T18:04:58.145247+00:00",
   "grand_finals": {
     "batting": {
       "runs": 49,

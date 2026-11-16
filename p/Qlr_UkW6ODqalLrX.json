@@ -8607,11 +8607,11 @@
           "count": 9
         },
         {
-          "type": "caught and bowled",
+          "type": "retired out",
           "count": 4
         },
         {
-          "type": "retired out",
+          "type": "caught and bowled",
           "count": 4
         },
         {
@@ -8642,11 +8642,11 @@
         },
         {
           "count": 3,
-          "player": "M Brilliant"
+          "player": "N Bohner"
         },
         {
           "count": 3,
-          "player": "N Bohner"
+          "player": "M Brilliant"
         },
         {
           "count": 2,
@@ -8674,11 +8674,11 @@
         },
         {
           "count": 2,
-          "player": "Mace Bibby"
+          "player": "R Panther"
         },
         {
           "count": 2,
-          "player": "A Eldridge"
+          "player": "S Pevitt"
         }
       ]
     },
@@ -9009,13 +9009,13 @@
         "opposition": "Swifts/Great Western"
       },
       {
-        "date": "2011-02-19",
+        "date": "2024-02-17",
         "runs": 44,
-        "ground": "Willaura",
-        "wicket": 6,
-        "partner": "Nathan Quick",
+        "ground": "Moyston",
+        "wicket": 4,
+        "partner": "Daniel Taylor",
         "unbroken": false,
-        "opposition": "Willaura"
+        "opposition": "Swifts/Great Western"
       },
       {
         "date": "2011-01-08",
@@ -9027,13 +9027,13 @@
         "opposition": "Halls Gap"
       },
       {
-        "date": "2024-02-17",
+        "date": "2011-02-19",
         "runs": 44,
-        "ground": "Moyston",
-        "wicket": 4,
-        "partner": "Daniel Taylor",
+        "ground": "Willaura",
+        "wicket": 6,
+        "partner": "Nathan Quick",
         "unbroken": false,
-        "opposition": "Swifts/Great Western"
+        "opposition": "Willaura"
       },
       {
         "date": "2021-01-30",
@@ -9045,6 +9045,15 @@
         "opposition": "Halls Gap"
       },
       {
+        "date": "2019-11-09",
+        "runs": 37,
+        "ground": "North Park",
+        "wicket": 6,
+        "partner": "David Turner",
+        "unbroken": false,
+        "opposition": "Youth Club"
+      },
+      {
         "date": "2011-12-17",
         "runs": 37,
         "ground": "Buangor",
@@ -9052,15 +9061,6 @@
         "partner": "Daniel Taylor",
         "unbroken": false,
         "opposition": "Buangor"
-      },
-      {
-        "date": "2023-02-18",
-        "runs": 37,
-        "ground": "Moyston",
-        "wicket": 4,
-        "partner": "Unknown",
-        "unbroken": false,
-        "opposition": "Pomonal"
       }
     ],
     "partnership_totals": [
@@ -9197,7 +9197,7 @@
   },
   "scope_club": null,
   "person_name": "Matthew Dean",
-  "generated_at": "2026-11-15T17:56:47.178673+00:00",
+  "generated_at": "2026-11-15T18:04:44.245832+00:00",
   "grand_finals": {
     "batting": {
       "runs": 21,

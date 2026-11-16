@@ -537,25 +537,6 @@
       "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
     },
     {
-      "out": null,
-      "runs": null,
-      "balls": null,
-      "ground": "Gordon Street",
-      "result": "loss",
-      "catches": null,
-      "wickets": 0,
-      "match_id": "bfc40160-5a9b-4029-8689-023e18b4dcac",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "2024-11-02",
-      "opposition": "St Andrews",
-      "result_type": "home_win",
-      "runs_conceded": 28,
-      "classification": "home_away",
-      "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
-    },
-    {
       "out": true,
       "runs": 16,
       "balls": 26,
@@ -578,18 +559,18 @@
       "out": null,
       "runs": null,
       "balls": null,
-      "ground": "North Park",
-      "result": "win",
+      "ground": "Gordon Street",
+      "result": "loss",
       "catches": null,
-      "wickets": null,
-      "match_id": "917ddc92-4413-4a18-a427-714ab26b31ec",
+      "wickets": 0,
+      "match_id": "bfc40160-5a9b-4029-8689-023e18b4dcac",
       "run_outs": null,
       "captained": false,
       "stumpings": null,
-      "match_date": "2024-10-26",
-      "opposition": "Pomonal",
-      "result_type": "away_win",
-      "runs_conceded": null,
+      "match_date": "2024-11-02",
+      "opposition": "St Andrews",
+      "result_type": "home_win",
+      "runs_conceded": 28,
       "classification": "home_away",
       "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
     },
@@ -609,6 +590,25 @@
       "opposition": "Swifts/Great Western",
       "result_type": "home_win",
       "runs_conceded": 10,
+      "classification": "home_away",
+      "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+    },
+    {
+      "out": null,
+      "runs": null,
+      "balls": null,
+      "ground": "North Park",
+      "result": "win",
+      "catches": null,
+      "wickets": null,
+      "match_id": "917ddc92-4413-4a18-a427-714ab26b31ec",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2024-10-26",
+      "opposition": "Pomonal",
+      "result_type": "away_win",
+      "runs_conceded": null,
       "classification": "home_away",
       "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
     },
@@ -2720,11 +2720,11 @@
       "dismissed_by": [
         {
           "count": 2,
-          "player": "H Evans"
+          "player": "L Jackson"
         },
         {
           "count": 2,
-          "player": "L Jackson"
+          "player": "E Summers"
         },
         {
           "count": 2,
@@ -2736,31 +2736,7 @@
         },
         {
           "count": 2,
-          "player": "E Summers"
-        },
-        {
-          "count": 1,
-          "player": "J McMurtrie"
-        },
-        {
-          "count": 1,
-          "player": "Brad Carter"
-        },
-        {
-          "count": 1,
-          "player": "T Cronin"
-        },
-        {
-          "count": 1,
-          "player": "Glenn Cosgriff"
-        },
-        {
-          "count": 1,
-          "player": "M Collins"
-        },
-        {
-          "count": 1,
-          "player": "J Leith"
+          "player": "H Evans"
         },
         {
           "count": 1,
@@ -2768,11 +2744,35 @@
         },
         {
           "count": 1,
-          "player": "M Brilliant"
+          "player": "T Cronin"
         },
         {
           "count": 1,
           "player": "C Mackley"
+        },
+        {
+          "count": 1,
+          "player": "Jack Harney"
+        },
+        {
+          "count": 1,
+          "player": "M Arnell"
+        },
+        {
+          "count": 1,
+          "player": "T Zubricky"
+        },
+        {
+          "count": 1,
+          "player": "M Collins"
+        },
+        {
+          "count": 1,
+          "player": "J McCartney 2"
+        },
+        {
+          "count": 1,
+          "player": "M Brilliant"
         },
         {
           "count": 1,
@@ -2862,20 +2862,20 @@
         "opposition": "St Andrews"
       },
       {
-        "date": "2024-01-20",
-        "runs": 8,
-        "score": "8*",
-        "ground": "Moyston",
-        "position": 2,
-        "opposition": "Pomonal"
-      },
-      {
         "date": "2023-02-18",
         "runs": 8,
         "score": "8*",
         "ground": "Halls Gap",
         "position": 6,
         "opposition": "Halls Gap"
+      },
+      {
+        "date": "2024-01-20",
+        "runs": 8,
+        "score": "8*",
+        "ground": "Moyston",
+        "position": 2,
+        "opposition": "Pomonal"
       },
       {
         "date": "2025-11-15",
@@ -3044,15 +3044,6 @@
         "opposition": "Halls Gap"
       },
       {
-        "date": "2024-11-02",
-        "runs": 25,
-        "ground": "Central Park",
-        "wicket": 8,
-        "partner": "Clinton Slorach",
-        "unbroken": false,
-        "opposition": "Halls Gap"
-      },
-      {
         "date": "2025-11-01",
         "runs": 25,
         "ground": "Moyston",
@@ -3060,6 +3051,15 @@
         "partner": "Daniel Walker",
         "unbroken": false,
         "opposition": "Homers"
+      },
+      {
+        "date": "2024-11-02",
+        "runs": 25,
+        "ground": "Central Park",
+        "wicket": 8,
+        "partner": "Clinton Slorach",
+        "unbroken": false,
+        "opposition": "Halls Gap"
       },
       {
         "date": "2026-01-24",
@@ -3125,19 +3125,19 @@
         "opposition": "St Andrews"
       },
       {
-        "date": "2024-11-02",
+        "date": "2021-12-11",
         "runs": 15,
-        "ground": "Central Park",
-        "wicket": 6,
+        "ground": "Halls Gap",
+        "wicket": 8,
         "partner": "David Cosgriff",
         "unbroken": false,
         "opposition": "Halls Gap"
       },
       {
-        "date": "2021-12-11",
+        "date": "2024-11-02",
         "runs": 15,
-        "ground": "Halls Gap",
-        "wicket": 8,
+        "ground": "Central Park",
+        "wicket": 6,
         "partner": "David Cosgriff",
         "unbroken": false,
         "opposition": "Halls Gap"
@@ -3295,7 +3295,7 @@
   },
   "scope_club": null,
   "person_name": "Lucas Ralph",
-  "generated_at": "2026-11-15T17:58:02.783836+00:00",
+  "generated_at": "2026-11-15T18:05:54.034921+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

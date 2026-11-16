@@ -1498,23 +1498,7 @@
       "dismissed_by": [
         {
           "count": 1,
-          "player": "T Collins"
-        },
-        {
-          "count": 1,
-          "player": "C Bretherton"
-        },
-        {
-          "count": 1,
-          "player": "C Taylor"
-        },
-        {
-          "count": 1,
-          "player": "T Eckel"
-        },
-        {
-          "count": 1,
-          "player": "Glenn Cosgriff"
+          "player": "Scott Ezard"
         },
         {
           "count": 1,
@@ -1526,19 +1510,31 @@
         },
         {
           "count": 1,
-          "player": "T Robinson"
+          "player": "C Bretherton"
         },
         {
           "count": 1,
-          "player": "Scott Ezard"
+          "player": "T Eckel"
         },
         {
           "count": 1,
-          "player": "Charlie McIntosh"
+          "player": "T Ripper"
         },
         {
           "count": 1,
           "player": "Mark Hallam"
+        },
+        {
+          "count": 1,
+          "player": "T Robinson"
+        },
+        {
+          "count": 1,
+          "player": "C Taylor"
+        },
+        {
+          "count": 1,
+          "player": "Glenn Cosgriff"
         },
         {
           "count": 1,
@@ -1550,7 +1546,11 @@
         },
         {
           "count": 1,
-          "player": "T Ripper"
+          "player": "Charlie McIntosh"
+        },
+        {
+          "count": 1,
+          "player": "T Collins"
         }
       ]
     },
@@ -1596,20 +1596,20 @@
         "opposition": "Larharum"
       },
       {
-        "date": "2024-12-07",
-        "runs": 2,
-        "score": "2",
-        "ground": "North Park",
-        "position": 8,
-        "opposition": "St Andrews"
-      },
-      {
         "date": "2025-12-13",
         "runs": 2,
         "score": "2",
         "ground": "Quantong Recreation Reserve",
         "position": 9,
         "opposition": "Quantong"
+      },
+      {
+        "date": "2024-12-07",
+        "runs": 2,
+        "score": "2",
+        "ground": "North Park",
+        "position": 8,
+        "opposition": "St Andrews"
       },
       {
         "date": "2023-11-11",
@@ -1636,12 +1636,12 @@
         "opposition": "Halls Gap"
       },
       {
-        "date": "2024-01-27",
+        "date": "2023-02-18",
         "runs": 1,
         "score": "1",
-        "ground": "Buangor",
-        "position": 8,
-        "opposition": "St Andrews"
+        "ground": "Halls Gap",
+        "position": 9,
+        "opposition": "Halls Gap"
       },
       {
         "date": "2025-11-29",
@@ -1652,12 +1652,12 @@
         "opposition": "Swifts/Great Western"
       },
       {
-        "date": "2023-02-18",
+        "date": "2024-01-27",
         "runs": 1,
         "score": "1",
-        "ground": "Halls Gap",
-        "position": 9,
-        "opposition": "Halls Gap"
+        "ground": "Buangor",
+        "position": 8,
+        "opposition": "St Andrews"
       },
       {
         "date": "2023-11-18",
@@ -1917,7 +1917,7 @@
   },
   "scope_club": null,
   "person_name": "Sky Ralph",
-  "generated_at": "2026-11-15T17:54:25.398404+00:00",
+  "generated_at": "2026-11-15T18:04:35.674087+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

@@ -429,11 +429,11 @@
       "dismissed_by": [
         {
           "count": 1,
-          "player": "S Crow"
+          "player": "G LePoidevin"
         },
         {
           "count": 1,
-          "player": "G LePoidevin"
+          "player": "S Crow"
         }
       ]
     },
@@ -514,7 +514,7 @@
   },
   "scope_club": null,
   "person_name": "Stuart Hayter",
-  "generated_at": "2026-11-15T17:57:29.724656+00:00",
+  "generated_at": "2026-11-15T18:05:24.114862+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

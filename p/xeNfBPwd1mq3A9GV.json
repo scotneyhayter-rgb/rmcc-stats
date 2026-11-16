@@ -4475,12 +4475,12 @@
         {
           "date": "2016-11-19",
           "runs": 0,
-          "not_out": false
+          "not_out": true
         },
         {
           "date": "2016-11-19",
           "runs": 0,
-          "not_out": true
+          "not_out": false
         },
         {
           "date": "2016-12-17",
@@ -4495,12 +4495,12 @@
         {
           "date": "2017-02-04",
           "runs": 0,
-          "not_out": false
+          "not_out": true
         },
         {
           "date": "2017-02-04",
           "runs": 0,
-          "not_out": true
+          "not_out": false
         },
         {
           "date": "2017-11-04",
@@ -5842,11 +5842,11 @@
           "count": 29
         },
         {
-          "type": "stumped",
+          "type": "run out",
           "count": 5
         },
         {
-          "type": "run out",
+          "type": "stumped",
           "count": 5
         },
         {
@@ -5873,51 +5873,51 @@
         },
         {
           "count": 1,
-          "player": "Adam McCormack"
+          "player": "A Bywaters"
         },
         {
           "count": 1,
-          "player": "L Fitzpatrick"
+          "player": "J Fraser"
         },
         {
           "count": 1,
-          "player": "N Jackson"
+          "player": "Dallas Cameron"
         },
         {
           "count": 1,
-          "player": "L Walker"
+          "player": "E Wilson"
         },
         {
           "count": 1,
-          "player": "T Taurau"
+          "player": "Jaxon Beal"
         },
         {
           "count": 1,
-          "player": "J Hollis"
+          "player": "B Evans"
         },
         {
           "count": 1,
-          "player": "R Kettle"
+          "player": "T Mills"
         },
         {
           "count": 1,
-          "player": "L Arnott"
+          "player": "A Haslett"
         },
         {
           "count": 1,
-          "player": "N Vallance"
+          "player": "C Bretherton"
         },
         {
           "count": 1,
-          "player": "R Townsend"
+          "player": "T Eckel"
         },
         {
           "count": 1,
-          "player": "A Jenkins"
+          "player": "A Graveson"
         },
         {
           "count": 1,
-          "player": "J Costello"
+          "player": "R Reid"
         }
       ]
     },
@@ -5955,20 +5955,20 @@
         "opposition": "Navarre"
       },
       {
-        "date": "2019-02-16",
-        "runs": 8,
-        "score": "8",
-        "ground": "Navarre",
-        "position": 10,
-        "opposition": "Navarre"
-      },
-      {
         "date": "2008-01-12",
         "runs": 8,
         "score": "8",
         "ground": "Moyston",
         "position": 9,
         "opposition": "Buangor"
+      },
+      {
+        "date": "2019-02-16",
+        "runs": 8,
+        "score": "8",
+        "ground": "Navarre",
+        "position": 10,
+        "opposition": "Navarre"
       },
       {
         "date": "2012-02-04",
@@ -6003,19 +6003,19 @@
         "opposition": "Halls Gap"
       },
       {
-        "date": "2013-02-23",
-        "runs": 5,
-        "score": "5",
-        "ground": "Moyston",
-        "position": 10,
-        "opposition": "Halls Gap"
-      },
-      {
         "date": "2023-02-18",
         "runs": 5,
         "score": "5",
         "ground": "Halls Gap",
         "position": 11,
+        "opposition": "Halls Gap"
+      },
+      {
+        "date": "2013-02-23",
+        "runs": 5,
+        "score": "5",
+        "ground": "Moyston",
+        "position": 10,
         "opposition": "Halls Gap"
       },
       {
@@ -6035,12 +6035,12 @@
         "opposition": "St Andrews"
       },
       {
-        "date": "2009-10-24",
+        "date": "2004-10-23",
         "runs": 4,
         "score": "4",
-        "ground": "Elmhurst",
-        "position": 8,
-        "opposition": "Elmhurst"
+        "ground": "Moyston",
+        "position": 11,
+        "opposition": "Halls Gap"
       }
     ],
     "best_bowling": [
@@ -6239,6 +6239,15 @@
         "opposition": "St Andrews"
       },
       {
+        "date": "2006-11-11",
+        "runs": 15,
+        "ground": "Richardson Oval",
+        "wicket": 9,
+        "partner": "James Davis",
+        "unbroken": true,
+        "opposition": "Chalambar"
+      },
+      {
         "date": "2008-12-06",
         "runs": 15,
         "ground": "Navarre",
@@ -6254,15 +6263,6 @@
         "wicket": 9,
         "partner": "Nathan Quick",
         "unbroken": false,
-        "opposition": "Chalambar"
-      },
-      {
-        "date": "2006-11-11",
-        "runs": 15,
-        "ground": "Richardson Oval",
-        "wicket": 9,
-        "partner": "James Davis",
-        "unbroken": true,
         "opposition": "Chalambar"
       },
       {
@@ -6436,7 +6436,7 @@
   },
   "scope_club": null,
   "person_name": "Christopher Robinson",
-  "generated_at": "2026-11-15T17:57:20.216164+00:00",
+  "generated_at": "2026-11-15T18:05:15.168709+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

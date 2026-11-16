@@ -5955,25 +5955,6 @@
     },
     {
       "out": true,
-      "runs": 1,
-      "balls": 0,
-      "ground": "Rhymney",
-      "result": "loss",
-      "catches": null,
-      "wickets": null,
-      "match_id": "56eac260-ffeb-4474-92fa-bd396bd88405",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "1966-11-26",
-      "opposition": "Navarre",
-      "result_type": "away_win",
-      "runs_conceded": null,
-      "classification": "unclassified",
-      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
-    },
-    {
-      "out": true,
       "runs": 2,
       "balls": 0,
       "ground": "Halls Gap",
@@ -5988,6 +5969,25 @@
       "opposition": "Halls Gap",
       "result_type": "home_win",
       "runs_conceded": 7,
+      "classification": "unclassified",
+      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+    },
+    {
+      "out": true,
+      "runs": 1,
+      "balls": 0,
+      "ground": "Rhymney",
+      "result": "loss",
+      "catches": null,
+      "wickets": null,
+      "match_id": "56eac260-ffeb-4474-92fa-bd396bd88405",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "1966-11-26",
+      "opposition": "Navarre",
+      "result_type": "away_win",
+      "runs_conceded": null,
       "classification": "unclassified",
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
@@ -7537,12 +7537,12 @@
         },
         {
           "date": "1976-11-13",
-          "runs": 1,
+          "runs": 29,
           "not_out": false
         },
         {
           "date": "1976-11-13",
-          "runs": 29,
+          "runs": 1,
           "not_out": false
         },
         {
@@ -10342,6 +10342,10 @@
       "dismissed_by": [
         {
           "count": 5,
+          "player": "T McKinnis"
+        },
+        {
+          "count": 5,
           "player": "P Homden"
         },
         {
@@ -10349,8 +10353,8 @@
           "player": "H Gunstone"
         },
         {
-          "count": 5,
-          "player": "T McKinnis"
+          "count": 4,
+          "player": "R Graham"
         },
         {
           "count": 4,
@@ -10366,31 +10370,19 @@
         },
         {
           "count": 4,
-          "player": "R Graham"
-        },
-        {
-          "count": 4,
           "player": "B McCutcheon"
         },
         {
           "count": 3,
-          "player": "O Martin"
+          "player": "A Jenkins"
         },
         {
           "count": 3,
-          "player": "V Poole"
+          "player": "A Fraser"
         },
         {
           "count": 3,
-          "player": "R Raeburn"
-        },
-        {
-          "count": 3,
-          "player": "I Boyd"
-        },
-        {
-          "count": 3,
-          "player": "T Ellis"
+          "player": "M Mason"
         },
         {
           "count": 3,
@@ -10398,7 +10390,15 @@
         },
         {
           "count": 3,
-          "player": "R Lewis"
+          "player": "T Ellis"
+        },
+        {
+          "count": 3,
+          "player": "I Boyd"
+        },
+        {
+          "count": 3,
+          "player": "O Martin"
         }
       ]
     },
@@ -10738,15 +10738,6 @@
         "opposition": "Pomonal"
       },
       {
-        "date": "2000-01-15",
-        "runs": 66,
-        "ground": "Buangor",
-        "wicket": 3,
-        "partner": "Daniel Crawford",
-        "unbroken": false,
-        "opposition": "Buangor"
-      },
-      {
         "date": "1977-10-22",
         "runs": 66,
         "ground": "Great Western",
@@ -10754,6 +10745,15 @@
         "partner": "Glen Faneco",
         "unbroken": true,
         "opposition": "Swifts/Great Western"
+      },
+      {
+        "date": "2000-01-15",
+        "runs": 66,
+        "ground": "Buangor",
+        "wicket": 3,
+        "partner": "Daniel Crawford",
+        "unbroken": false,
+        "opposition": "Buangor"
       },
       {
         "date": "2004-03-06",
@@ -10917,7 +10917,7 @@
   },
   "scope_club": null,
   "person_name": "Ray Robinson",
-  "generated_at": "2026-11-15T17:57:58.410151+00:00",
+  "generated_at": "2026-11-15T18:05:50.054965+00:00",
   "grand_finals": {
     "batting": {
       "runs": 129,

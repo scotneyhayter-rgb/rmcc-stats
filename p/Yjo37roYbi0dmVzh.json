@@ -2784,25 +2784,6 @@
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
     {
-      "out": null,
-      "runs": null,
-      "balls": null,
-      "ground": "Moyston",
-      "result": "win",
-      "catches": 0,
-      "wickets": null,
-      "match_id": "57a5b314-a7d8-4728-a222-c4db7a5e5e68",
-      "run_outs": 1,
-      "captained": false,
-      "stumpings": 0,
-      "match_date": "2011-01-22",
-      "opposition": "Buangor",
-      "result_type": "home_win",
-      "runs_conceded": null,
-      "classification": "home_away",
-      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
-    },
-    {
       "out": true,
       "runs": 3,
       "balls": 0,
@@ -2818,6 +2799,25 @@
       "opposition": "Aradale",
       "result_type": "home_win",
       "runs_conceded": 15,
+      "classification": "home_away",
+      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+    },
+    {
+      "out": null,
+      "runs": null,
+      "balls": null,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": 0,
+      "wickets": null,
+      "match_id": "57a5b314-a7d8-4728-a222-c4db7a5e5e68",
+      "run_outs": 1,
+      "captained": false,
+      "stumpings": 0,
+      "match_date": "2011-01-22",
+      "opposition": "Buangor",
+      "result_type": "home_win",
+      "runs_conceded": null,
       "classification": "home_away",
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
@@ -5601,11 +5601,11 @@
           "count": 4
         },
         {
-          "type": "caught and bowled",
+          "type": "stumped",
           "count": 1
         },
         {
-          "type": "stumped",
+          "type": "caught and bowled",
           "count": 1
         },
         {
@@ -5633,6 +5633,14 @@
         {
           "count": 2,
           "player": "J Bach"
+        },
+        {
+          "count": 1,
+          "player": "W Illig"
+        },
+        {
+          "count": 1,
+          "player": "W Pavey"
         },
         {
           "count": 1,
@@ -5665,14 +5673,6 @@
         {
           "count": 1,
           "player": "B Carnovale"
-        },
-        {
-          "count": 1,
-          "player": "A Jenkins"
-        },
-        {
-          "count": 1,
-          "player": "L Slorach"
         }
       ]
     },
@@ -5782,20 +5782,20 @@
         "opposition": "Chalambar"
       },
       {
-        "date": "2014-11-29",
-        "runs": 5,
-        "score": "5",
-        "ground": "Pomonal",
-        "position": 11,
-        "opposition": "Pomonal"
-      },
-      {
-        "date": "2019-11-16",
+        "date": "2012-02-25",
         "runs": 5,
         "score": "5",
         "ground": "Moyston",
         "position": 9,
-        "opposition": "Navarre"
+        "opposition": "Pomonal"
+      },
+      {
+        "date": "2012-01-07",
+        "runs": 5,
+        "score": "5",
+        "ground": "Moyston",
+        "position": 8,
+        "opposition": "Buangor"
       }
     ],
     "best_bowling": [
@@ -5979,13 +5979,13 @@
         "opposition": "Buangor"
       },
       {
-        "date": "2012-02-18",
+        "date": "2008-12-06",
         "runs": 15,
-        "ground": "Old Lake",
-        "wicket": 8,
-        "partner": "Nathan Quick",
+        "ground": "Navarre",
+        "wicket": 6,
+        "partner": "Christopher Robinson",
         "unbroken": false,
-        "opposition": "Youth Club"
+        "opposition": "Navarre"
       },
       {
         "date": "2008-01-19",
@@ -5997,13 +5997,13 @@
         "opposition": "Chalambar"
       },
       {
-        "date": "2008-12-06",
+        "date": "2012-02-18",
         "runs": 15,
-        "ground": "Navarre",
-        "wicket": 6,
-        "partner": "Christopher Robinson",
+        "ground": "Old Lake",
+        "wicket": 8,
+        "partner": "Nathan Quick",
         "unbroken": false,
-        "opposition": "Navarre"
+        "opposition": "Youth Club"
       },
       {
         "date": "2015-12-05",
@@ -6024,13 +6024,13 @@
         "opposition": "Swifts/Great Western"
       },
       {
-        "date": "2012-12-15",
+        "date": "2018-01-27",
         "runs": 13,
-        "ground": "Richardson Oval",
-        "wicket": 6,
-        "partner": "David Cosgriff",
+        "ground": "Moyston",
+        "wicket": 7,
+        "partner": "Andrew Farish",
         "unbroken": false,
-        "opposition": "Chalambar"
+        "opposition": "Swifts/Great Western"
       }
     ],
     "partnership_totals": [
@@ -6167,7 +6167,7 @@
   },
   "scope_club": null,
   "person_name": "Matthew Robinson",
-  "generated_at": "2026-11-15T17:58:12.278850+00:00",
+  "generated_at": "2026-11-15T18:06:02.573772+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

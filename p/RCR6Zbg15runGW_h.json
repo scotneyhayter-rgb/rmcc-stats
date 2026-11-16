@@ -657,25 +657,6 @@
     },
     {
       "out": true,
-      "runs": 4,
-      "balls": 7,
-      "ground": "Central Park",
-      "result": "loss",
-      "catches": null,
-      "wickets": null,
-      "match_id": "c8c4ecc6-3256-4e89-a11a-8b588fe626c3",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "2024-10-26",
-      "opposition": "Swifts/Great Western",
-      "result_type": "home_win",
-      "runs_conceded": null,
-      "classification": "home_away",
-      "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
-    },
-    {
-      "out": true,
       "runs": 20,
       "balls": 21,
       "ground": "North Park",
@@ -689,6 +670,25 @@
       "match_date": "2024-10-26",
       "opposition": "Pomonal",
       "result_type": "away_win",
+      "runs_conceded": null,
+      "classification": "home_away",
+      "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+    },
+    {
+      "out": true,
+      "runs": 4,
+      "balls": 7,
+      "ground": "Central Park",
+      "result": "loss",
+      "catches": null,
+      "wickets": null,
+      "match_id": "c8c4ecc6-3256-4e89-a11a-8b588fe626c3",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2024-10-26",
+      "opposition": "Swifts/Great Western",
+      "result_type": "home_win",
       "runs_conceded": null,
       "classification": "home_away",
       "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
@@ -2404,25 +2404,6 @@
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
     {
-      "out": true,
-      "runs": 9,
-      "balls": 0,
-      "ground": "North Park",
-      "result": "loss",
-      "catches": null,
-      "wickets": 0,
-      "match_id": "953d50da-7e16-4098-a7d5-290727cf14ce",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "2016-03-12",
-      "opposition": "Navarre",
-      "result_type": "home_win",
-      "runs_conceded": 22,
-      "classification": "unclassified",
-      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
-    },
-    {
       "out": false,
       "runs": 16,
       "balls": 0,
@@ -2438,6 +2419,25 @@
       "opposition": "Navarre",
       "result_type": "away_win",
       "runs_conceded": null,
+      "classification": "unclassified",
+      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+    },
+    {
+      "out": true,
+      "runs": 9,
+      "balls": 0,
+      "ground": "North Park",
+      "result": "loss",
+      "catches": null,
+      "wickets": 0,
+      "match_id": "953d50da-7e16-4098-a7d5-290727cf14ce",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2016-03-12",
+      "opposition": "Navarre",
+      "result_type": "home_win",
+      "runs_conceded": 22,
       "classification": "unclassified",
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
@@ -10608,6 +10608,10 @@
         },
         {
           "count": 2,
+          "player": "Lachlan Wilkinson"
+        },
+        {
+          "count": 2,
           "player": "L Walker"
         },
         {
@@ -10621,10 +10625,6 @@
         {
           "count": 2,
           "player": "C Kimber"
-        },
-        {
-          "count": 2,
-          "player": "L Martin"
         }
       ]
     },
@@ -10824,6 +10824,14 @@
         "opposition": "Willaura"
       },
       {
+        "date": "2019-10-19",
+        "runs": 14,
+        "ground": "Moyston",
+        "figures": "4-14",
+        "wickets": 4,
+        "opposition": "Wickliffe/Lake Bolac"
+      },
+      {
         "date": "2013-01-05",
         "runs": 14,
         "ground": "Moyston",
@@ -10832,12 +10840,12 @@
         "opposition": "Willaura"
       },
       {
-        "date": "2019-10-19",
-        "runs": 14,
+        "date": "2004-01-24",
+        "runs": 17,
         "ground": "Moyston",
-        "figures": "4-14",
+        "figures": "4-17",
         "wickets": 4,
-        "opposition": "Wickliffe/Lake Bolac"
+        "opposition": "Halls Gap"
       },
       {
         "date": "2020-01-18",
@@ -10854,14 +10862,6 @@
         "figures": "4-17",
         "wickets": 4,
         "opposition": "Swifts/Great Western"
-      },
-      {
-        "date": "2004-01-24",
-        "runs": 17,
-        "ground": "Moyston",
-        "figures": "4-17",
-        "wickets": 4,
-        "opposition": "Halls Gap"
       },
       {
         "date": "2021-11-20",
@@ -11143,7 +11143,7 @@
   },
   "scope_club": null,
   "person_name": "Daniel Taylor",
-  "generated_at": "2026-11-15T17:57:25.324396+00:00",
+  "generated_at": "2026-11-15T18:05:19.863400+00:00",
   "grand_finals": {
     "batting": {
       "runs": 69,

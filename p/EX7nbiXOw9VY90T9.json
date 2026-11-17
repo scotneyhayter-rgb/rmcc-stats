@@ -3293,9 +3293,110 @@
     "logo_ref": "logo-c1d701d86c1f4d7dabd6b587be421fc7.jpg",
     "secondary": "#a7aaa9"
   },
+  "milestones": {
+    "metrics": {
+      "runs": {
+        "next": {
+          "to_go": 253,
+          "threshold": 500,
+          "known_minimum": false
+        },
+        "label": "Career runs",
+        "total": 247,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          }
+        ],
+        "known_minimum": false
+      },
+      "catches": {
+        "next": {
+          "to_go": 20,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Catches",
+        "total": 5,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "matches": {
+        "next": {
+          "to_go": 39,
+          "threshold": 100,
+          "known_minimum": false
+        },
+        "label": "Matches played",
+        "total": 61,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          }
+        ],
+        "known_minimum": false
+      },
+      "wickets": {
+        "next": {
+          "to_go": 17,
+          "threshold": 50,
+          "known_minimum": false
+        },
+        "label": "Career wickets",
+        "total": 33,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 10
+          }
+        ],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_wins": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Wins as captain",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_matches": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Matches captained",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      }
+    },
+    "person_id": "b7ffe1d5-ecb5-40f3-a27a-ce6f9f7c2c93"
+  },
   "scope_club": null,
   "person_name": "Lucas Ralph",
-  "generated_at": "2026-11-15T18:05:54.034921+00:00",
+  "generated_at": "2026-11-16T09:23:32.788810+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

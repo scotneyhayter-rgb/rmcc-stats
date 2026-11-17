@@ -46,7 +46,7 @@
         "state": "achieved_confirmed"
       },
       {
-        "label": "1\u00d7 Hat-trick",
+        "label": "2\u00d7 Hat-trick",
         "state": "achieved_confirmed"
       }
     ]
@@ -92,7 +92,7 @@
       "maidens": 222,
       "matches": 251,
       "wickets": 337,
-      "hat_tricks": 1,
+      "hat_tricks": 2,
       "subject_id": "ef6f98ae-7b16-4e25-af10-71cd2fda8e96",
       "strike_rate": 27.77,
       "best_bowling": {
@@ -11141,9 +11141,169 @@
     "logo_ref": "logo-c1d701d86c1f4d7dabd6b587be421fc7.jpg",
     "secondary": "#a7aaa9"
   },
+  "milestones": {
+    "metrics": {
+      "runs": {
+        "next": {
+          "to_go": 4369,
+          "threshold": 10000,
+          "known_minimum": false
+        },
+        "label": "Career runs",
+        "total": 5631,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 500
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 1000
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 2500
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 5000
+          }
+        ],
+        "known_minimum": false
+      },
+      "catches": {
+        "next": null,
+        "label": "Catches",
+        "total": 133,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          }
+        ],
+        "known_minimum": false
+      },
+      "matches": {
+        "next": null,
+        "label": "Matches played",
+        "total": 312,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 150
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 200
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 250
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 300
+          }
+        ],
+        "known_minimum": false
+      },
+      "wickets": {
+        "next": null,
+        "label": "Career wickets",
+        "total": 337,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 10
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 200
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 300
+          }
+        ],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 5,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 5,
+        "milestones": [
+          {
+            "state": "upcoming",
+            "to_go": 5,
+            "threshold": 10
+          }
+        ],
+        "known_minimum": false
+      },
+      "captaincy_wins": {
+        "next": {
+          "to_go": 24,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Wins as captain",
+        "total": 1,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_matches": {
+        "next": {
+          "to_go": 18,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Matches captained",
+        "total": 7,
+        "milestones": [],
+        "known_minimum": false
+      }
+    },
+    "person_id": "ef6f98ae-7b16-4e25-af10-71cd2fda8e96"
+  },
   "scope_club": null,
   "person_name": "Daniel Taylor",
-  "generated_at": "2026-11-15T18:05:19.863400+00:00",
+  "generated_at": "2026-11-16T09:22:56.310170+00:00",
   "grand_finals": {
     "batting": {
       "runs": 69,

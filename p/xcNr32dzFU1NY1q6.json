@@ -1915,9 +1915,96 @@
     "logo_ref": "logo-c1d701d86c1f4d7dabd6b587be421fc7.jpg",
     "secondary": "#a7aaa9"
   },
+  "milestones": {
+    "metrics": {
+      "runs": {
+        "next": {
+          "to_go": 64,
+          "threshold": 100,
+          "known_minimum": false
+        },
+        "label": "Career runs",
+        "total": 36,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "catches": {
+        "next": {
+          "to_go": 22,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Catches",
+        "total": 3,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "matches": {
+        "next": {
+          "to_go": 19,
+          "threshold": 50,
+          "known_minimum": false
+        },
+        "label": "Matches played",
+        "total": 31,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          }
+        ],
+        "known_minimum": false
+      },
+      "wickets": {
+        "next": {
+          "to_go": 9,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Career wickets",
+        "total": 1,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_wins": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Wins as captain",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_matches": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Matches captained",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      }
+    },
+    "person_id": "b879c085-f89b-4b84-b3f1-44a7b719b3d8"
+  },
   "scope_club": null,
   "person_name": "Sky Ralph",
-  "generated_at": "2026-11-15T18:04:35.674087+00:00",
+  "generated_at": "2026-11-16T09:22:10.525642+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

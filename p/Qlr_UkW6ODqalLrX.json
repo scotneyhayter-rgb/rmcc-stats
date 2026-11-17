@@ -9195,9 +9195,169 @@
     "logo_ref": "logo-c1d701d86c1f4d7dabd6b587be421fc7.jpg",
     "secondary": "#a7aaa9"
   },
+  "milestones": {
+    "metrics": {
+      "runs": {
+        "next": {
+          "to_go": 958,
+          "threshold": 2500,
+          "known_minimum": false
+        },
+        "label": "Career runs",
+        "total": 1542,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 500
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 1000
+          }
+        ],
+        "known_minimum": false
+      },
+      "catches": {
+        "next": null,
+        "label": "Catches",
+        "total": 103,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          }
+        ],
+        "known_minimum": false
+      },
+      "matches": {
+        "next": {
+          "to_go": 33,
+          "threshold": 300,
+          "known_minimum": false
+        },
+        "label": "Matches played",
+        "total": 267,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 150
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 200
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 250
+          }
+        ],
+        "known_minimum": false
+      },
+      "wickets": {
+        "next": {
+          "to_go": 30,
+          "threshold": 300,
+          "known_minimum": false
+        },
+        "label": "Career wickets",
+        "total": 270,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 10
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 200
+          }
+        ],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_wins": {
+        "next": {
+          "to_go": 18,
+          "threshold": 50,
+          "known_minimum": false
+        },
+        "label": "Wins as captain",
+        "total": 32,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          }
+        ],
+        "known_minimum": false
+      },
+      "captaincy_matches": {
+        "next": {
+          "to_go": 29,
+          "threshold": 100,
+          "known_minimum": false
+        },
+        "label": "Matches captained",
+        "total": 71,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          }
+        ],
+        "known_minimum": false
+      }
+    },
+    "person_id": "e5ec1245-194b-447a-806e-1ceb5b367711"
+  },
   "scope_club": null,
   "person_name": "Matthew Dean",
-  "generated_at": "2026-11-15T18:04:44.245832+00:00",
+  "generated_at": "2026-11-16T09:22:19.406697+00:00",
   "grand_finals": {
     "batting": {
       "runs": 21,

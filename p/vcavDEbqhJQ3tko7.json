@@ -345,9 +345,91 @@
     "logo_ref": "logo-c1d701d86c1f4d7dabd6b587be421fc7.jpg",
     "secondary": "#a7aaa9"
   },
+  "milestones": {
+    "metrics": {
+      "runs": {
+        "next": {
+          "to_go": 100,
+          "threshold": 100,
+          "known_minimum": false
+        },
+        "label": "Career runs",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "catches": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Catches",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "matches": {
+        "next": {
+          "to_go": 23,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Matches played",
+        "total": 2,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "wickets": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Career wickets",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_wins": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Wins as captain",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_matches": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Matches captained",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      }
+    },
+    "person_id": "17deabf4-82b4-4687-9f83-7b329b680daa"
+  },
   "scope_club": null,
   "person_name": "Cameron Taylor",
-  "generated_at": "2026-11-15T18:04:31.722596+00:00",
+  "generated_at": "2026-11-16T09:22:06.199339+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

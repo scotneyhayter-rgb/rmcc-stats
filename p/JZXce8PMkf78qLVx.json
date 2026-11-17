@@ -8333,9 +8333,151 @@
     "logo_ref": "logo-c1d701d86c1f4d7dabd6b587be421fc7.jpg",
     "secondary": "#a7aaa9"
   },
+  "milestones": {
+    "metrics": {
+      "runs": {
+        "next": {
+          "to_go": 83,
+          "threshold": 1000,
+          "known_minimum": true
+        },
+        "label": "Career runs",
+        "total": 917,
+        "milestones": [
+          {
+            "state": "achieved_known_minimum",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_known_minimum",
+            "threshold": 500
+          },
+          {
+            "state": "indeterminate",
+            "threshold": 1000
+          }
+        ],
+        "known_minimum": true
+      },
+      "catches": {
+        "next": {
+          "to_go": 22,
+          "threshold": 100,
+          "known_minimum": false
+        },
+        "label": "Catches",
+        "total": 78,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          }
+        ],
+        "known_minimum": false
+      },
+      "matches": {
+        "next": {
+          "to_go": 21,
+          "threshold": 250,
+          "known_minimum": false
+        },
+        "label": "Matches played",
+        "total": 229,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 150
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 200
+          }
+        ],
+        "known_minimum": false
+      },
+      "wickets": {
+        "next": null,
+        "label": "Career wickets",
+        "total": 332,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 10
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 200
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 300
+          }
+        ],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_wins": {
+        "next": {
+          "to_go": 14,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Wins as captain",
+        "total": 11,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_matches": {
+        "next": {
+          "to_go": 6,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Matches captained",
+        "total": 19,
+        "milestones": [],
+        "known_minimum": false
+      }
+    },
+    "person_id": "3fa4c114-96e7-4543-9d94-48df03933262"
+  },
   "scope_club": null,
   "person_name": "David Cosgriff",
-  "generated_at": "2026-11-15T18:04:58.145247+00:00",
+  "generated_at": "2026-11-16T09:22:35.089233+00:00",
   "grand_finals": {
     "batting": {
       "runs": 49,

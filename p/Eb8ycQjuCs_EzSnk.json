@@ -3003,12 +3003,12 @@
         },
         {
           "date": "2011-02-19",
-          "runs": 5,
+          "runs": 6,
           "not_out": false
         },
         {
           "date": "2011-02-19",
-          "runs": 6,
+          "runs": 5,
           "not_out": false
         },
         {
@@ -5218,46 +5218,18 @@
           "count": 5
         },
         {
-          "type": "retired out",
+          "type": "stumped",
           "count": 1
         },
         {
-          "type": "stumped",
+          "type": "retired out",
           "count": 1
         }
       ],
       "dismissed_by": [
         {
           "count": 2,
-          "player": "J McCartney"
-        },
-        {
-          "count": 2,
-          "player": "S Woolley"
-        },
-        {
-          "count": 2,
-          "player": "N McCartney"
-        },
-        {
-          "count": 2,
           "player": "C Mackley"
-        },
-        {
-          "count": 2,
-          "player": "M Brilliant"
-        },
-        {
-          "count": 2,
-          "player": "J Leith"
-        },
-        {
-          "count": 2,
-          "player": "J Hosking"
-        },
-        {
-          "count": 2,
-          "player": "A Leggett"
         },
         {
           "count": 2,
@@ -5265,27 +5237,55 @@
         },
         {
           "count": 2,
+          "player": "M Brilliant"
+        },
+        {
+          "count": 2,
+          "player": "N McCartney"
+        },
+        {
+          "count": 2,
           "player": "A Hateley"
         },
         {
-          "count": 1,
-          "player": "P Turner"
+          "count": 2,
+          "player": "S Woolley"
+        },
+        {
+          "count": 2,
+          "player": "A Leggett"
+        },
+        {
+          "count": 2,
+          "player": "J Hosking"
+        },
+        {
+          "count": 2,
+          "player": "J McCartney"
+        },
+        {
+          "count": 2,
+          "player": "J Leith"
         },
         {
           "count": 1,
-          "player": "C Rodger"
+          "player": "L Hendy"
         },
         {
           "count": 1,
-          "player": "T May"
+          "player": "L Spalding"
         },
         {
           "count": 1,
-          "player": "P Hall"
+          "player": "T Carr"
         },
         {
           "count": 1,
-          "player": "L Cavanaugh"
+          "player": "L Walker"
+        },
+        {
+          "count": 1,
+          "player": "Adam Squire"
         }
       ]
     },
@@ -5299,20 +5299,20 @@
         "opposition": "Rhymney Moyston CC"
       },
       {
-        "date": "2014-03-08",
-        "runs": 55,
-        "score": "55",
-        "ground": "Tech School",
-        "position": 6,
-        "opposition": "Aradale"
-      },
-      {
         "date": "2013-02-09",
         "runs": 55,
         "score": "55",
         "ground": "Buangor",
         "position": 5,
         "opposition": "Buangor"
+      },
+      {
+        "date": "2014-03-08",
+        "runs": 55,
+        "score": "55",
+        "ground": "Tech School",
+        "position": 6,
+        "opposition": "Aradale"
       },
       {
         "date": "2022-11-26",
@@ -5379,20 +5379,20 @@
         "opposition": "Aradale"
       },
       {
-        "date": "2025-11-01",
-        "runs": 28,
-        "score": "28",
-        "ground": "Moyston",
-        "position": 5,
-        "opposition": "Homers"
-      },
-      {
         "date": "2026-11-07",
         "runs": 28,
         "score": "28",
         "ground": "Dimboola",
         "position": 5,
         "opposition": "Blackheath Dimboola"
+      },
+      {
+        "date": "2025-11-01",
+        "runs": 28,
+        "score": "28",
+        "ground": "Moyston",
+        "position": 5,
+        "opposition": "Homers"
       },
       {
         "date": "2012-10-27",
@@ -5802,9 +5802,136 @@
     "logo_ref": "logo-c1d701d86c1f4d7dabd6b587be421fc7.jpg",
     "secondary": "#a7aaa9"
   },
+  "milestones": {
+    "metrics": {
+      "runs": {
+        "next": {
+          "to_go": 1263,
+          "threshold": 2500,
+          "known_minimum": false
+        },
+        "label": "Career runs",
+        "total": 1237,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 500
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 1000
+          }
+        ],
+        "known_minimum": false
+      },
+      "catches": {
+        "next": {
+          "to_go": 24,
+          "threshold": 50,
+          "known_minimum": false
+        },
+        "label": "Catches",
+        "total": 26,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          }
+        ],
+        "known_minimum": false
+      },
+      "matches": {
+        "next": {
+          "to_go": 17,
+          "threshold": 150,
+          "known_minimum": false
+        },
+        "label": "Matches played",
+        "total": 133,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 25
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          }
+        ],
+        "known_minimum": false
+      },
+      "wickets": {
+        "next": {
+          "to_go": 3,
+          "threshold": 100,
+          "known_minimum": false
+        },
+        "label": "Career wickets",
+        "total": 97,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 10
+          },
+          {
+            "state": "achieved_confirmed",
+            "threshold": 50
+          },
+          {
+            "state": "upcoming",
+            "to_go": 3,
+            "threshold": 100
+          }
+        ],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_wins": {
+        "next": {
+          "to_go": 25,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Wins as captain",
+        "total": 0,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "captaincy_matches": {
+        "next": {
+          "to_go": 24,
+          "threshold": 25,
+          "known_minimum": false
+        },
+        "label": "Matches captained",
+        "total": 1,
+        "milestones": [],
+        "known_minimum": false
+      }
+    },
+    "person_id": "012aa326-6402-4006-97c9-8281d43a32f0"
+  },
   "scope_club": null,
   "person_name": "Daniel Walker",
-  "generated_at": "2026-11-15T17:59:24.643802+00:00",
+  "generated_at": "2026-11-16T09:21:57.566908+00:00",
   "grand_finals": {
     "batting": {
       "runs": 2,

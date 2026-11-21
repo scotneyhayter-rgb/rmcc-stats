@@ -2507,80 +2507,63 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 488,
-          "threshold": 1000,
+          "to_go": 287,
+          "threshold": 500,
           "known_minimum": true
         },
         "label": "Career runs",
-        "total": 512,
+        "total": 213,
         "milestones": [
           {
             "state": "achieved_known_minimum",
             "threshold": 100
           },
           {
-            "state": "achieved_known_minimum",
-            "threshold": 500
-          },
-          {
             "state": "indeterminate",
-            "threshold": 1000
+            "threshold": 500
           }
         ],
         "known_minimum": true
       },
       "catches": {
         "next": {
-          "to_go": 25,
-          "threshold": 50,
+          "to_go": 6,
+          "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 25,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 25
-          }
-        ],
+        "total": 19,
+        "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 45,
-          "threshold": 100,
+          "to_go": 14,
+          "threshold": 50,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 55,
+        "total": 36,
         "milestones": [
           {
             "state": "achieved_confirmed",
             "threshold": 25
-          },
-          {
-            "state": "achieved_confirmed",
-            "threshold": 50
           }
         ],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 42,
-          "threshold": 100,
+          "to_go": 16,
+          "threshold": 50,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 58,
+        "total": 34,
         "milestones": [
           {
             "state": "achieved_confirmed",
             "threshold": 10
-          },
-          {
-            "state": "achieved_confirmed",
-            "threshold": 50
           }
         ],
         "known_minimum": false
@@ -2623,7 +2606,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Clinton Slorach",
-  "generated_at": "2026-11-16T09:23:47.306119+00:00",
+  "generated_at": "2026-11-17T07:34:41.271166+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

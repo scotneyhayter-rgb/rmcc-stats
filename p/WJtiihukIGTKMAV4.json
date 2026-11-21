@@ -1883,12 +1883,12 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 25,
+          "to_go": 89,
           "threshold": 500,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 475,
+        "total": 411,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -1899,16 +1899,16 @@
       },
       "catches": {
         "next": {
-          "to_go": 4,
+          "to_go": 5,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 21,
+        "total": 20,
         "milestones": [
           {
             "state": "upcoming",
-            "to_go": 4,
+            "to_go": 5,
             "threshold": 25
           }
         ],
@@ -1916,12 +1916,12 @@
       },
       "matches": {
         "next": {
-          "to_go": 11,
+          "to_go": 15,
           "threshold": 50,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 39,
+        "total": 35,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -1979,7 +1979,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "David Padley",
-  "generated_at": "2026-11-16T09:22:39.333284+00:00",
+  "generated_at": "2026-11-17T07:35:26.646315+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

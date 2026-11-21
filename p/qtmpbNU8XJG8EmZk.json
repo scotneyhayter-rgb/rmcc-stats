@@ -586,57 +586,46 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 328,
-          "threshold": 500,
+          "to_go": 89,
+          "threshold": 100,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 172,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 100
-          }
-        ],
+        "total": 11,
+        "milestones": [],
         "known_minimum": false
       },
       "catches": {
         "next": {
-          "to_go": 18,
+          "to_go": 24,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 7,
+        "total": 1,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 13,
+          "to_go": 21,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 12,
+        "total": 4,
         "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 1,
+          "to_go": 9,
           "threshold": 10,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 9,
-        "milestones": [
-          {
-            "state": "upcoming",
-            "to_go": 1,
-            "threshold": 10
-          }
-        ],
+        "total": 1,
+        "milestones": [],
         "known_minimum": false
       },
       "stumpings": {
@@ -677,7 +666,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Cameron Ralph",
-  "generated_at": "2026-11-16T09:23:22.977021+00:00",
+  "generated_at": "2026-11-17T07:35:54.942112+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

@@ -1468,12 +1468,12 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 119,
+          "to_go": 240,
           "threshold": 500,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 381,
+        "total": 260,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -1484,34 +1484,34 @@
       },
       "catches": {
         "next": {
-          "to_go": 20,
+          "to_go": 21,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 5,
+        "total": 4,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 10,
+          "to_go": 13,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 15,
+        "total": 12,
         "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 35,
+          "to_go": 37,
           "threshold": 50,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 15,
+        "total": 13,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -1558,7 +1558,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Sol Riddell",
-  "generated_at": "2026-11-16T09:22:43.313517+00:00",
+  "generated_at": "2026-11-17T07:32:41.344707+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

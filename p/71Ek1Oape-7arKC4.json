@@ -587,62 +587,46 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 202,
-          "threshold": 500,
+          "to_go": 98,
+          "threshold": 100,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 298,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 100
-          }
-        ],
+        "total": 2,
+        "milestones": [],
         "known_minimum": false
       },
       "catches": {
         "next": {
-          "to_go": 15,
+          "to_go": 24,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 10,
+        "total": 1,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 5,
+          "to_go": 22,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 20,
-        "milestones": [
-          {
-            "state": "upcoming",
-            "to_go": 5,
-            "threshold": 25
-          }
-        ],
+        "total": 3,
+        "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 39,
-          "threshold": 50,
+          "to_go": 9,
+          "threshold": 10,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 11,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 10
-          }
-        ],
+        "total": 1,
+        "milestones": [],
         "known_minimum": false
       },
       "stumpings": {
@@ -683,7 +667,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Adam McCormack",
-  "generated_at": "2026-11-16T09:23:08.929154+00:00",
+  "generated_at": "2026-11-17T07:35:42.236112+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

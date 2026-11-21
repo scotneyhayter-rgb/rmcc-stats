@@ -409,34 +409,34 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 47,
+          "to_go": 99,
           "threshold": 100,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 53,
+        "total": 1,
         "milestones": [],
         "known_minimum": false
       },
       "catches": {
         "next": {
-          "to_go": 24,
+          "to_go": 25,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 1,
+        "total": 0,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 18,
+          "to_go": 24,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 7,
+        "total": 1,
         "milestones": [],
         "known_minimum": false
       },
@@ -489,7 +489,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Spencer Campbell",
-  "generated_at": "2026-11-16T09:22:14.498348+00:00",
+  "generated_at": "2026-11-17T07:35:04.037719+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

@@ -537,6 +537,25 @@
       "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
     },
     {
+      "out": null,
+      "runs": null,
+      "balls": null,
+      "ground": "Gordon Street",
+      "result": "loss",
+      "catches": null,
+      "wickets": 0,
+      "match_id": "bfc40160-5a9b-4029-8689-023e18b4dcac",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2024-11-02",
+      "opposition": "St Andrews",
+      "result_type": "home_win",
+      "runs_conceded": 28,
+      "classification": "home_away",
+      "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
+    },
+    {
       "out": true,
       "runs": 16,
       "balls": 26,
@@ -559,18 +578,18 @@
       "out": null,
       "runs": null,
       "balls": null,
-      "ground": "Gordon Street",
-      "result": "loss",
+      "ground": "North Park",
+      "result": "win",
       "catches": null,
-      "wickets": 0,
-      "match_id": "bfc40160-5a9b-4029-8689-023e18b4dcac",
+      "wickets": null,
+      "match_id": "917ddc92-4413-4a18-a427-714ab26b31ec",
       "run_outs": null,
       "captained": false,
       "stumpings": null,
-      "match_date": "2024-11-02",
-      "opposition": "St Andrews",
-      "result_type": "home_win",
-      "runs_conceded": 28,
+      "match_date": "2024-10-26",
+      "opposition": "Pomonal",
+      "result_type": "away_win",
+      "runs_conceded": null,
       "classification": "home_away",
       "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
     },
@@ -590,25 +609,6 @@
       "opposition": "Swifts/Great Western",
       "result_type": "home_win",
       "runs_conceded": 10,
-      "classification": "home_away",
-      "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
-    },
-    {
-      "out": null,
-      "runs": null,
-      "balls": null,
-      "ground": "North Park",
-      "result": "win",
-      "catches": null,
-      "wickets": null,
-      "match_id": "917ddc92-4413-4a18-a427-714ab26b31ec",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "2024-10-26",
-      "opposition": "Pomonal",
-      "result_type": "away_win",
-      "runs_conceded": null,
       "classification": "home_away",
       "competition_id": "0b4045c5-94a4-4ce1-84eb-a2a89fcec1d0"
     },
@@ -2720,18 +2720,6 @@
       "dismissed_by": [
         {
           "count": 2,
-          "player": "L Jackson"
-        },
-        {
-          "count": 2,
-          "player": "E Summers"
-        },
-        {
-          "count": 2,
-          "player": "Luke Stevens"
-        },
-        {
-          "count": 2,
           "player": "Matt Heffer"
         },
         {
@@ -2739,24 +2727,32 @@
           "player": "H Evans"
         },
         {
-          "count": 1,
-          "player": "J Hosking"
+          "count": 2,
+          "player": "L Jackson"
+        },
+        {
+          "count": 2,
+          "player": "Luke Stevens"
+        },
+        {
+          "count": 2,
+          "player": "E Summers"
         },
         {
           "count": 1,
-          "player": "T Cronin"
+          "player": "J Baker"
         },
         {
           "count": 1,
-          "player": "C Mackley"
+          "player": "Harry Evans"
         },
         {
           "count": 1,
-          "player": "Jack Harney"
+          "player": "R Kettle"
         },
         {
           "count": 1,
-          "player": "M Arnell"
+          "player": "Josh Dunn"
         },
         {
           "count": 1,
@@ -2764,19 +2760,23 @@
         },
         {
           "count": 1,
-          "player": "M Collins"
+          "player": "Jack Harney"
         },
         {
           "count": 1,
-          "player": "J McCartney 2"
+          "player": "J McMurtrie"
         },
         {
           "count": 1,
-          "player": "M Brilliant"
+          "player": "Brad Carter"
         },
         {
           "count": 1,
-          "player": "T Mills"
+          "player": "T Cronin"
+        },
+        {
+          "count": 1,
+          "player": "Glenn Cosgriff"
         }
       ]
     },
@@ -3396,7 +3396,7 @@
   },
   "scope_club": null,
   "person_name": "Lucas Ralph",
-  "generated_at": "2026-11-16T09:23:32.788810+00:00",
+  "generated_at": "2026-11-17T07:36:03.523328+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

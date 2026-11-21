@@ -1280,70 +1280,55 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 437,
-          "threshold": 1000,
+          "to_go": 329,
+          "threshold": 500,
           "known_minimum": true
         },
         "label": "Career runs",
-        "total": 563,
+        "total": 171,
         "milestones": [
           {
             "state": "achieved_known_minimum",
             "threshold": 100
           },
           {
-            "state": "achieved_known_minimum",
-            "threshold": 500
-          },
-          {
             "state": "indeterminate",
-            "threshold": 1000
+            "threshold": 500
           }
         ],
         "known_minimum": true
       },
       "catches": {
         "next": {
-          "to_go": 17,
+          "to_go": 20,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 8,
+        "total": 5,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 5,
+          "to_go": 14,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 20,
-        "milestones": [
-          {
-            "state": "upcoming",
-            "to_go": 5,
-            "threshold": 25
-          }
-        ],
+        "total": 11,
+        "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 36,
-          "threshold": 50,
+          "to_go": 6,
+          "threshold": 10,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 14,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 10
-          }
-        ],
+        "total": 4,
+        "milestones": [],
         "known_minimum": false
       },
       "stumpings": {
@@ -1384,7 +1369,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Grant Le Poidevin",
-  "generated_at": "2026-11-16T09:23:04.669533+00:00",
+  "generated_at": "2026-11-17T07:35:38.400002+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

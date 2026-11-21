@@ -555,67 +555,56 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 94,
-          "threshold": 500,
+          "to_go": 21,
+          "threshold": 100,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 406,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 100
-          }
-        ],
+        "total": 79,
+        "milestones": [],
         "known_minimum": false
       },
       "catches": {
         "next": {
-          "to_go": 13,
+          "to_go": 23,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 12,
+        "total": 2,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 9,
+          "to_go": 23,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 16,
+        "total": 2,
         "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 4,
-          "threshold": 10,
-          "known_minimum": false
-        },
-        "label": "Career wickets",
-        "total": 6,
-        "milestones": [
-          {
-            "state": "upcoming",
-            "to_go": 4,
-            "threshold": 10
-          }
-        ],
-        "known_minimum": false
-      },
-      "stumpings": {
-        "next": {
           "to_go": 7,
           "threshold": 10,
           "known_minimum": false
         },
-        "label": "Stumpings",
+        "label": "Career wickets",
         "total": 3,
+        "milestones": [],
+        "known_minimum": false
+      },
+      "stumpings": {
+        "next": {
+          "to_go": 10,
+          "threshold": 10,
+          "known_minimum": false
+        },
+        "label": "Stumpings",
+        "total": 0,
         "milestones": [],
         "known_minimum": false
       },
@@ -646,7 +635,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Charlie McIntosh",
-  "generated_at": "2026-11-16T09:23:13.240629+00:00",
+  "generated_at": "2026-11-17T07:35:46.061070+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

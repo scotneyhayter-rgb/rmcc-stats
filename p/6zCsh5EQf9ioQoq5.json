@@ -8579,12 +8579,12 @@
       },
       "matches": {
         "next": {
-          "to_go": 27,
+          "to_go": 28,
           "threshold": 250,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 223,
+        "total": 222,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -8675,7 +8675,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Nathan Quick",
-  "generated_at": "2026-11-16T09:22:24.659209+00:00",
+  "generated_at": "2026-11-17T07:35:13.177483+00:00",
   "grand_finals": {
     "batting": {
       "runs": 5,

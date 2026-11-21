@@ -9170,12 +9170,12 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 4188,
+          "to_go": 4541,
           "threshold": 10000,
           "known_minimum": true
         },
         "label": "Career runs",
-        "total": 5812,
+        "total": 5459,
         "milestones": [
           {
             "state": "achieved_known_minimum",
@@ -9207,7 +9207,7 @@
       "catches": {
         "next": null,
         "label": "Catches",
-        "total": 129,
+        "total": 126,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -9226,12 +9226,12 @@
       },
       "matches": {
         "next": {
-          "to_go": 13,
+          "to_go": 23,
           "threshold": 300,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 287,
+        "total": 277,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -9342,7 +9342,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Trevor Quick",
-  "generated_at": "2026-11-16T09:22:30.343045+00:00",
+  "generated_at": "2026-11-17T07:35:18.402743+00:00",
   "grand_finals": {
     "batting": {
       "runs": 220,

@@ -460,52 +460,46 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 46,
+          "to_go": 100,
           "threshold": 100,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 54,
+        "total": 0,
         "milestones": [],
         "known_minimum": false
       },
       "catches": {
         "next": {
-          "to_go": 21,
+          "to_go": 24,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 4,
+        "total": 1,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 15,
+          "to_go": 23,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 10,
+        "total": 2,
         "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 1,
+          "to_go": 10,
           "threshold": 10,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 9,
-        "milestones": [
-          {
-            "state": "upcoming",
-            "to_go": 1,
-            "threshold": 10
-          }
-        ],
+        "total": 0,
+        "milestones": [],
         "known_minimum": false
       },
       "stumpings": {
@@ -546,7 +540,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Lachlan Stevens",
-  "generated_at": "2026-11-16T09:23:51.487792+00:00",
+  "generated_at": "2026-11-17T07:34:45.032953+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

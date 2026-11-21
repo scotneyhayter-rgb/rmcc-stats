@@ -682,66 +682,56 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 40,
-          "threshold": 500,
+          "to_go": 30,
+          "threshold": 100,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 460,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 100
-          }
-        ],
+        "total": 70,
+        "milestones": [],
         "known_minimum": false
       },
       "catches": {
         "next": {
-          "to_go": 13,
+          "to_go": 23,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 12,
+        "total": 2,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 6,
+          "to_go": 22,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 19,
+        "total": 3,
         "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 37,
-          "threshold": 50,
+          "to_go": 7,
+          "threshold": 10,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 13,
-        "milestones": [
-          {
-            "state": "achieved_confirmed",
-            "threshold": 10
-          }
-        ],
+        "total": 3,
+        "milestones": [],
         "known_minimum": false
       },
       "stumpings": {
         "next": {
-          "to_go": 9,
+          "to_go": 10,
           "threshold": 10,
           "known_minimum": false
         },
         "label": "Stumpings",
-        "total": 1,
+        "total": 0,
         "milestones": [],
         "known_minimum": false
       },
@@ -772,7 +762,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Sam Brown",
-  "generated_at": "2026-11-16T09:22:01.990412+00:00",
+  "generated_at": "2026-11-17T07:34:52.766696+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

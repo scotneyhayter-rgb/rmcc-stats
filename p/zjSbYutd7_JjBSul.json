@@ -3,8 +3,8 @@
   "kind": "player_profile",
   "span": {
     "last": {
-      "date": "2026-11-14",
-      "opposition": "Swifts/Great Western"
+      "date": "2026-11-21",
+      "opposition": "Tigers"
     },
     "first": {
       "date": "2024-10-26",
@@ -45,21 +45,21 @@
       "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
     },
     "batting": {
-      "runs": 171,
-      "balls": 230,
+      "runs": 173,
+      "balls": 234,
       "ducks": 1,
       "fours": 11,
       "sixes": 5,
-      "average": 24.43,
+      "average": 21.62,
       "fifties": 1,
-      "innings": 10,
-      "matches": 10,
+      "innings": 11,
+      "matches": 11,
       "hundreds": 0,
       "not_outs": 2,
-      "dismissed": 7,
+      "dismissed": 8,
       "boundaries": 16,
       "subject_id": "7c90a7c7-462d-4d4e-b89b-3aa64a235704",
-      "strike_rate": 66.52,
+      "strike_rate": 66.24,
       "highest_score": 50,
       "highest_not_out": true,
       "balls_incomplete": true,
@@ -67,18 +67,18 @@
       "runs_known_minimum": true
     },
     "bowling": {
-      "runs": 116,
-      "balls": 270,
-      "overs": 45.0,
-      "average": 29.0,
-      "economy": 2.58,
-      "innings": 8,
-      "maidens": 14,
-      "matches": 8,
+      "runs": 123,
+      "balls": 294,
+      "overs": 49.0,
+      "average": 30.75,
+      "economy": 2.51,
+      "innings": 9,
+      "maidens": 17,
+      "matches": 9,
       "wickets": 4,
       "hat_tricks": 0,
       "subject_id": "7c90a7c7-462d-4d4e-b89b-3aa64a235704",
-      "strike_rate": 67.5,
+      "strike_rate": 73.5,
       "best_bowling": {
         "runs": 5,
         "wickets": 1
@@ -90,7 +90,7 @@
       "economy_incomplete": false,
       "wickets_known_minimum": false
     },
-    "matches": 11,
+    "matches": 12,
     "fielding": {
       "catches": 5,
       "matches": 5,
@@ -119,9 +119,9 @@
     "derived_role": "batter",
     "has_captaincy": false,
     "participation": {
-      "wins": 7,
+      "wins": 8,
       "losses": 4,
-      "matches": 11
+      "matches": 12
     }
   },
   "detail": {
@@ -137,6 +137,25 @@
   },
   "honours": [],
   "matches": [
+    {
+      "out": true,
+      "runs": 2,
+      "balls": 4,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": null,
+      "wickets": 0,
+      "match_id": "3bb45db7-1edf-426e-afec-6b12839a685a",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2026-11-21",
+      "opposition": "Tigers",
+      "result_type": "home_win",
+      "runs_conceded": 7,
+      "classification": "home_away",
+      "competition_id": "0abd9a17-6b15-45f3-8458-b6a1de9da989"
+    },
     {
       "out": false,
       "runs": 0,
@@ -376,16 +395,16 @@
       "bowling_average": 20.5
     },
     {
-      "runs": 0,
+      "runs": 2,
       "label": "2026/27",
       "catches": 1,
-      "matches": 1,
+      "matches": 2,
       "wickets": 0,
       "run_outs": 0,
       "captained": 0,
       "season_id": "e08674ee-077b-48d4-9e04-c592c6208dae",
       "stumpings": 0,
-      "batting_average": null,
+      "batting_average": 2.0,
       "bowling_average": null
     }
   ],
@@ -436,11 +455,16 @@
           "date": "2026-02-21",
           "runs": 8,
           "not_out": true
+        },
+        {
+          "date": "2026-11-21",
+          "runs": 2,
+          "not_out": false
         }
       ],
       "frequency": [
         {
-          "count": 3,
+          "count": 4,
           "range": "0-9"
         },
         {
@@ -510,11 +534,16 @@
           "date": "2026-02-21",
           "runs": 5,
           "wickets": 0
+        },
+        {
+          "date": "2026-11-21",
+          "runs": 7,
+          "wickets": 0
         }
       ],
       "frequency": [
         {
-          "count": 4,
+          "count": 5,
           "range": "0"
         },
         {
@@ -543,12 +572,12 @@
       "grade": {
         "batting": [
           {
-            "runs": 130,
+            "runs": 132,
             "label": "C Grade",
-            "average": 32.5,
+            "average": 26.4,
             "fifties": 1,
-            "innings": 7,
-            "matches": 7,
+            "innings": 8,
+            "matches": 8,
             "hundreds": 0,
             "not_outs": 2,
             "high_score": "50*"
@@ -579,13 +608,13 @@
           },
           {
             "best": "1-5",
-            "runs": 41,
+            "runs": 48,
             "label": "C Grade",
             "overs": "0.0",
-            "average": 20.5,
+            "average": 24.0,
             "economy": null,
-            "maidens": 12,
-            "matches": 6,
+            "maidens": 15,
+            "matches": 7,
             "wickets": 2
           }
         ]
@@ -604,15 +633,15 @@
             "high_score": "50*"
           },
           {
-            "runs": 0,
+            "runs": 2,
             "label": "One-Day / Limited Overs",
-            "average": null,
+            "average": 2.0,
             "fifties": 0,
-            "innings": 1,
-            "matches": 1,
+            "innings": 2,
+            "matches": 2,
             "hundreds": 0,
             "not_outs": 0,
-            "high_score": null
+            "high_score": "2"
           }
         ],
         "bowling": [
@@ -626,18 +655,29 @@
             "maidens": 14,
             "matches": 8,
             "wickets": 4
+          },
+          {
+            "best": null,
+            "runs": 7,
+            "label": "One-Day / Limited Overs",
+            "overs": "0.0",
+            "average": null,
+            "economy": null,
+            "maidens": 3,
+            "matches": 1,
+            "wickets": 0
           }
         ]
       },
       "ground": {
         "batting": [
           {
-            "runs": 52,
+            "runs": 54,
             "label": "Moyston",
-            "average": 13.0,
+            "average": 10.8,
             "fifties": 0,
-            "innings": 5,
-            "matches": 5,
+            "innings": 6,
+            "matches": 6,
             "hundreds": 0,
             "not_outs": 0,
             "high_score": "31"
@@ -701,13 +741,13 @@
         "bowling": [
           {
             "best": "1-5",
-            "runs": 87,
+            "runs": 94,
             "label": "Moyston",
             "overs": "0.0",
-            "average": 21.75,
+            "average": 23.5,
             "economy": null,
-            "maidens": 7,
-            "matches": 4,
+            "maidens": 10,
+            "matches": 5,
             "wickets": 4
           },
           {
@@ -814,12 +854,12 @@
             "high_score": "10"
           },
           {
-            "runs": 8,
+            "runs": 10,
             "label": "Tigers",
-            "average": null,
+            "average": 10.0,
             "fifties": 0,
-            "innings": 1,
-            "matches": 1,
+            "innings": 2,
+            "matches": 2,
             "hundreds": 0,
             "not_outs": 1,
             "high_score": "8*"
@@ -871,6 +911,17 @@
             "wickets": 0
           },
           {
+            "best": null,
+            "runs": 12,
+            "label": "Tigers",
+            "overs": "0.0",
+            "average": null,
+            "economy": null,
+            "maidens": 4,
+            "matches": 2,
+            "wickets": 0
+          },
+          {
             "best": "1-7",
             "runs": 7,
             "label": "Larharum",
@@ -894,17 +945,6 @@
           },
           {
             "best": null,
-            "runs": 5,
-            "label": "Tigers",
-            "overs": "0.0",
-            "average": null,
-            "economy": null,
-            "maidens": 1,
-            "matches": 1,
-            "wickets": 0
-          },
-          {
-            "best": null,
             "runs": 4,
             "label": "Quantong",
             "overs": "0.0",
@@ -924,11 +964,11 @@
           "count": 5
         },
         {
-          "type": "caught and bowled",
-          "count": 1
+          "type": "bowled",
+          "count": 2
         },
         {
-          "type": "bowled",
+          "type": "caught and bowled",
           "count": 1
         }
       ],
@@ -960,6 +1000,10 @@
         {
           "count": 1,
           "player": "J McCartney 2"
+        },
+        {
+          "count": 1,
+          "player": "Charlie Milliar"
         }
       ]
     },
@@ -1027,6 +1071,14 @@
         "ground": "Moyston",
         "position": 3,
         "opposition": "Homers"
+      },
+      {
+        "date": "2026-11-21",
+        "runs": 2,
+        "score": "2",
+        "ground": "Moyston",
+        "position": 4,
+        "opposition": "Tigers"
       },
       {
         "date": "2024-11-23",
@@ -1199,13 +1251,13 @@
         "opposition": "Pomonal"
       },
       {
-        "date": "2025-11-29",
-        "runs": 1,
-        "ground": "Great Western",
+        "date": "2026-11-21",
+        "runs": 2,
+        "ground": "Moyston",
         "wicket": 3,
-        "partner": "Nathan Quick",
+        "partner": "Charlie McIntosh",
         "unbroken": false,
-        "opposition": "Swifts/Great Western"
+        "opposition": "Tigers"
       }
     ],
     "partnership_totals": [
@@ -1264,6 +1316,14 @@
         "average": 7.0,
         "matches": 1,
         "partner": "Daniel Walker"
+      },
+      {
+        "best": 2,
+        "runs": 2,
+        "stands": 1,
+        "average": 2.0,
+        "matches": 1,
+        "partner": "Charlie McIntosh"
       }
     ]
   },
@@ -1280,12 +1340,12 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 329,
+          "to_go": 327,
           "threshold": 500,
           "known_minimum": true
         },
         "label": "Career runs",
-        "total": 171,
+        "total": 173,
         "milestones": [
           {
             "state": "achieved_known_minimum",
@@ -1311,12 +1371,12 @@
       },
       "matches": {
         "next": {
-          "to_go": 14,
+          "to_go": 13,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 11,
+        "total": 12,
         "milestones": [],
         "known_minimum": false
       },
@@ -1369,7 +1429,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Grant Le Poidevin",
-  "generated_at": "2026-11-17T07:35:38.400002+00:00",
+  "generated_at": "2026-11-21T19:37:53.603478+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

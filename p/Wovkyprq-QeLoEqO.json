@@ -3,8 +3,8 @@
   "kind": "player_profile",
   "span": {
     "last": {
-      "date": "2026-11-14",
-      "opposition": "Swifts/Great Western"
+      "date": "2026-11-21",
+      "opposition": "Tigers"
     },
     "first": {
       "date": "2003-10-11",
@@ -110,7 +110,7 @@
       "economy_incomplete": false,
       "wickets_known_minimum": false
     },
-    "matches": 277,
+    "matches": 278,
     "fielding": {
       "catches": 126,
       "matches": 97,
@@ -139,9 +139,9 @@
     "derived_role": "all-rounder",
     "has_captaincy": true,
     "participation": {
-      "wins": 138,
+      "wins": 139,
       "losses": 131,
-      "matches": 277
+      "matches": 278
     }
   },
   "detail": {
@@ -204,6 +204,25 @@
   },
   "honours": [],
   "matches": [
+    {
+      "out": null,
+      "runs": null,
+      "balls": null,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": null,
+      "wickets": null,
+      "match_id": "3bb45db7-1edf-426e-afec-6b12839a685a",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2026-11-21",
+      "opposition": "Tigers",
+      "result_type": "home_win",
+      "runs_conceded": null,
+      "classification": "home_away",
+      "competition_id": "0abd9a17-6b15-45f3-8458-b6a1de9da989"
+    },
     {
       "out": false,
       "runs": 0,
@@ -2163,25 +2182,6 @@
     },
     {
       "out": true,
-      "runs": 47,
-      "balls": 0,
-      "ground": "North Park",
-      "result": "loss",
-      "catches": null,
-      "wickets": null,
-      "match_id": "2ae59547-4a67-41cc-ae0c-e0941b4b39f5",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "2016-03-12",
-      "opposition": "Navarre",
-      "result_type": "away_win",
-      "runs_conceded": null,
-      "classification": "unclassified",
-      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
-    },
-    {
-      "out": true,
       "runs": 39,
       "balls": 0,
       "ground": "North Park",
@@ -2196,6 +2196,25 @@
       "opposition": "Navarre",
       "result_type": "home_win",
       "runs_conceded": 12,
+      "classification": "unclassified",
+      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+    },
+    {
+      "out": true,
+      "runs": 47,
+      "balls": 0,
+      "ground": "North Park",
+      "result": "loss",
+      "catches": null,
+      "wickets": null,
+      "match_id": "2ae59547-4a67-41cc-ae0c-e0941b4b39f5",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2016-03-12",
+      "opposition": "Navarre",
+      "result_type": "away_win",
+      "runs_conceded": null,
       "classification": "unclassified",
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
@@ -5773,7 +5792,7 @@
       "runs": 0,
       "label": "2026/27",
       "catches": 0,
-      "matches": 1,
+      "matches": 2,
       "wickets": 0,
       "run_outs": 0,
       "captained": 0,
@@ -9226,12 +9245,12 @@
       },
       "matches": {
         "next": {
-          "to_go": 23,
+          "to_go": 22,
           "threshold": 300,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 277,
+        "total": 278,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -9342,7 +9361,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Trevor Quick",
-  "generated_at": "2026-11-17T07:35:18.402743+00:00",
+  "generated_at": "2026-11-21T19:36:16.283832+00:00",
   "grand_finals": {
     "batting": {
       "runs": 220,

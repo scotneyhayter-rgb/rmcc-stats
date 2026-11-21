@@ -3,8 +3,8 @@
   "kind": "player_profile",
   "span": {
     "last": {
-      "date": "2026-11-07",
-      "opposition": "Blackheath Dimboola"
+      "date": "2026-11-21",
+      "opposition": "Tigers"
     },
     "first": {
       "date": "2026-10-31",
@@ -37,21 +37,21 @@
       "organisation_id": "84f56e5b-8ef6-45f6-b230-d9988ac24f26"
     },
     "batting": {
-      "runs": 79,
-      "balls": 81,
+      "runs": 108,
+      "balls": 114,
       "ducks": 0,
-      "fours": 9,
-      "sixes": 1,
-      "average": 79.0,
+      "fours": 11,
+      "sixes": 2,
+      "average": 108.0,
       "fifties": 1,
-      "innings": 2,
-      "matches": 2,
+      "innings": 3,
+      "matches": 3,
       "hundreds": 0,
-      "not_outs": 1,
+      "not_outs": 2,
       "dismissed": 1,
-      "boundaries": 10,
+      "boundaries": 13,
       "subject_id": "2d443d00-a5a4-43f3-8986-184c73c5a143",
-      "strike_rate": 97.53,
+      "strike_rate": 94.74,
       "highest_score": 52,
       "highest_not_out": true,
       "balls_incomplete": false,
@@ -59,18 +59,18 @@
       "runs_known_minimum": false
     },
     "bowling": {
-      "runs": 17,
-      "balls": 42,
-      "overs": 7.0,
-      "average": 5.67,
-      "economy": 2.43,
-      "innings": 2,
-      "maidens": 0,
-      "matches": 2,
-      "wickets": 3,
+      "runs": 27,
+      "balls": 66,
+      "overs": 11.0,
+      "average": 6.75,
+      "economy": 2.45,
+      "innings": 3,
+      "maidens": 2,
+      "matches": 3,
+      "wickets": 4,
       "hat_tricks": 0,
       "subject_id": "2d443d00-a5a4-43f3-8986-184c73c5a143",
-      "strike_rate": 14.0,
+      "strike_rate": 16.5,
       "best_bowling": {
         "runs": 11,
         "wickets": 2
@@ -82,14 +82,14 @@
       "economy_incomplete": false,
       "wickets_known_minimum": false
     },
-    "matches": 2,
+    "matches": 3,
     "fielding": {
-      "catches": 2,
-      "matches": 1,
+      "catches": 3,
+      "matches": 2,
       "run_outs": 0,
       "stumpings": 0,
       "subject_id": "2d443d00-a5a4-43f3-8986-184c73c5a143",
-      "field_catches": 2,
+      "field_catches": 3,
       "keeper_catches": 0,
       "run_out_assists": 0,
       "keeper_dismissals": 0,
@@ -111,9 +111,9 @@
     "derived_role": "batter",
     "has_captaincy": false,
     "participation": {
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "matches": 2
+      "matches": 3
     }
   },
   "detail": {
@@ -129,6 +129,25 @@
   },
   "honours": [],
   "matches": [
+    {
+      "out": false,
+      "runs": 29,
+      "balls": 33,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": 1,
+      "wickets": 1,
+      "match_id": "3bb45db7-1edf-426e-afec-6b12839a685a",
+      "run_outs": 0,
+      "captained": false,
+      "stumpings": 0,
+      "match_date": "2026-11-21",
+      "opposition": "Tigers",
+      "result_type": "home_win",
+      "runs_conceded": 10,
+      "classification": "home_away",
+      "competition_id": "0abd9a17-6b15-45f3-8458-b6a1de9da989"
+    },
     {
       "out": true,
       "runs": 27,
@@ -171,17 +190,17 @@
   "records": [],
   "seasons": [
     {
-      "runs": 79,
+      "runs": 108,
       "label": "2026/27",
-      "catches": 2,
-      "matches": 2,
-      "wickets": 3,
+      "catches": 3,
+      "matches": 3,
+      "wickets": 4,
       "run_outs": 0,
       "captained": 0,
       "season_id": "e08674ee-077b-48d4-9e04-c592c6208dae",
       "stumpings": 0,
-      "batting_average": 79.0,
-      "bowling_average": 5.67
+      "batting_average": 108.0,
+      "bowling_average": 6.75
     }
   ],
   "analysis": {
@@ -196,6 +215,11 @@
           "date": "2026-11-07",
           "runs": 27,
           "not_out": false
+        },
+        {
+          "date": "2026-11-21",
+          "runs": 29,
+          "not_out": true
         }
       ],
       "frequency": [
@@ -208,7 +232,7 @@
           "range": "10-19"
         },
         {
-          "count": 1,
+          "count": 2,
           "range": "20-29"
         },
         {
@@ -240,6 +264,11 @@
           "date": "2026-11-07",
           "runs": 11,
           "wickets": 2
+        },
+        {
+          "date": "2026-11-21",
+          "runs": 10,
+          "wickets": 1
         }
       ],
       "frequency": [
@@ -248,7 +277,7 @@
           "range": "0"
         },
         {
-          "count": 1,
+          "count": 2,
           "range": "1"
         },
         {
@@ -273,70 +302,70 @@
       "grade": {
         "batting": [
           {
-            "runs": 79,
+            "runs": 108,
             "label": "C Grade",
-            "average": 79.0,
+            "average": 108.0,
             "fifties": 1,
-            "innings": 2,
-            "matches": 2,
+            "innings": 3,
+            "matches": 3,
             "hundreds": 0,
-            "not_outs": 1,
+            "not_outs": 2,
             "high_score": "52*"
           }
         ],
         "bowling": [
           {
             "best": "2-11",
-            "runs": 17,
+            "runs": 27,
             "label": "C Grade",
             "overs": "0.0",
-            "average": 5.67,
+            "average": 6.75,
             "economy": null,
-            "maidens": 0,
-            "matches": 2,
-            "wickets": 3
+            "maidens": 2,
+            "matches": 3,
+            "wickets": 4
           }
         ]
       },
       "format": {
         "batting": [
           {
-            "runs": 79,
+            "runs": 108,
             "label": "One-Day / Limited Overs",
-            "average": 79.0,
+            "average": 108.0,
             "fifties": 1,
-            "innings": 2,
-            "matches": 2,
+            "innings": 3,
+            "matches": 3,
             "hundreds": 0,
-            "not_outs": 1,
+            "not_outs": 2,
             "high_score": "52*"
           }
         ],
         "bowling": [
           {
             "best": "2-11",
-            "runs": 17,
+            "runs": 27,
             "label": "One-Day / Limited Overs",
             "overs": "0.0",
-            "average": 5.67,
+            "average": 6.75,
             "economy": null,
-            "maidens": 0,
-            "matches": 2,
-            "wickets": 3
+            "maidens": 2,
+            "matches": 3,
+            "wickets": 4
           }
         ]
       },
       "ground": {
         "batting": [
           {
-            "runs": 52,
+            "runs": 81,
             "label": "Moyston",
             "average": null,
             "fifties": 1,
-            "innings": 1,
-            "matches": 1,
+            "innings": 2,
+            "matches": 2,
             "hundreds": 0,
-            "not_outs": 1,
+            "not_outs": 2,
             "high_score": "52*"
           },
           {
@@ -353,6 +382,17 @@
         ],
         "bowling": [
           {
+            "best": "1-6",
+            "runs": 16,
+            "label": "Moyston",
+            "overs": "0.0",
+            "average": 8.0,
+            "economy": null,
+            "maidens": 2,
+            "matches": 2,
+            "wickets": 2
+          },
+          {
             "best": "2-11",
             "runs": 11,
             "label": "Dimboola",
@@ -362,17 +402,6 @@
             "maidens": 0,
             "matches": 1,
             "wickets": 2
-          },
-          {
-            "best": "1-6",
-            "runs": 6,
-            "label": "Moyston",
-            "overs": "0.0",
-            "average": 6.0,
-            "economy": null,
-            "maidens": 0,
-            "matches": 1,
-            "wickets": 1
           }
         ]
       },
@@ -390,6 +419,17 @@
             "high_score": "52*"
           },
           {
+            "runs": 29,
+            "label": "Tigers",
+            "average": null,
+            "fifties": 0,
+            "innings": 1,
+            "matches": 1,
+            "hundreds": 0,
+            "not_outs": 1,
+            "high_score": "29*"
+          },
+          {
             "runs": 27,
             "label": "Blackheath Dimboola",
             "average": 27.0,
@@ -412,6 +452,17 @@
             "maidens": 0,
             "matches": 1,
             "wickets": 2
+          },
+          {
+            "best": "1-10",
+            "runs": 10,
+            "label": "Tigers",
+            "overs": "0.0",
+            "average": 10.0,
+            "economy": null,
+            "maidens": 2,
+            "matches": 1,
+            "wickets": 1
           },
           {
             "best": "1-6",
@@ -451,6 +502,14 @@
         "opposition": "St Mary's"
       },
       {
+        "date": "2026-11-21",
+        "runs": 29,
+        "score": "29*",
+        "ground": "Moyston",
+        "position": 3,
+        "opposition": "Tigers"
+      },
+      {
         "date": "2026-11-07",
         "runs": 27,
         "score": "27",
@@ -475,6 +534,14 @@
         "figures": "1-6",
         "wickets": 1,
         "opposition": "St Mary's"
+      },
+      {
+        "date": "2026-11-21",
+        "runs": 10,
+        "ground": "Moyston",
+        "figures": "1-10",
+        "wickets": 1,
+        "opposition": "Tigers"
       }
     ],
     "partnerships": [
@@ -497,6 +564,15 @@
         "opposition": "St Mary's"
       },
       {
+        "date": "2026-11-21",
+        "runs": 44,
+        "ground": "Moyston",
+        "wicket": 5,
+        "partner": "Adam McCormack",
+        "unbroken": true,
+        "opposition": "Tigers"
+      },
+      {
         "date": "2026-11-07",
         "runs": 44,
         "ground": "Dimboola",
@@ -504,6 +580,33 @@
         "partner": "Sam Brown",
         "unbroken": false,
         "opposition": "Blackheath Dimboola"
+      },
+      {
+        "date": "2026-11-21",
+        "runs": 10,
+        "ground": "Moyston",
+        "wicket": 2,
+        "partner": "Daniel Taylor",
+        "unbroken": false,
+        "opposition": "Tigers"
+      },
+      {
+        "date": "2026-11-21",
+        "runs": 4,
+        "ground": "Moyston",
+        "wicket": 4,
+        "partner": "Sol Riddell",
+        "unbroken": false,
+        "opposition": "Tigers"
+      },
+      {
+        "date": "2026-11-21",
+        "runs": 2,
+        "ground": "Moyston",
+        "wicket": 3,
+        "partner": "Grant Le Poidevin",
+        "unbroken": false,
+        "opposition": "Tigers"
       },
       {
         "date": "2026-11-07",
@@ -526,19 +629,35 @@
       },
       {
         "best": 68,
-        "runs": 68,
-        "stands": 1,
-        "average": 68.0,
-        "matches": 1,
+        "runs": 72,
+        "stands": 2,
+        "average": 36.0,
+        "matches": 2,
         "partner": "Sol Riddell"
       },
       {
-        "best": 0,
-        "runs": 0,
+        "best": 44,
+        "runs": 44,
         "stands": 1,
-        "average": 0.0,
+        "average": 44.0,
         "matches": 1,
+        "partner": "Adam McCormack"
+      },
+      {
+        "best": 10,
+        "runs": 10,
+        "stands": 2,
+        "average": 5.0,
+        "matches": 2,
         "partner": "Daniel Taylor"
+      },
+      {
+        "best": 2,
+        "runs": 2,
+        "stands": 1,
+        "average": 2.0,
+        "matches": 1,
+        "partner": "Grant Le Poidevin"
       }
     ]
   },
@@ -555,45 +674,50 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 21,
-          "threshold": 100,
+          "to_go": 392,
+          "threshold": 500,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 79,
-        "milestones": [],
+        "total": 108,
+        "milestones": [
+          {
+            "state": "achieved_confirmed",
+            "threshold": 100
+          }
+        ],
         "known_minimum": false
       },
       "catches": {
         "next": {
-          "to_go": 23,
+          "to_go": 22,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 2,
+        "total": 3,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 23,
+          "to_go": 22,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 2,
+        "total": 3,
         "milestones": [],
         "known_minimum": false
       },
       "wickets": {
         "next": {
-          "to_go": 7,
+          "to_go": 6,
           "threshold": 10,
           "known_minimum": false
         },
         "label": "Career wickets",
-        "total": 3,
+        "total": 4,
         "milestones": [],
         "known_minimum": false
       },
@@ -635,7 +759,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "Charlie McIntosh",
-  "generated_at": "2026-11-17T07:35:46.061070+00:00",
+  "generated_at": "2026-11-21T19:36:34.109693+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

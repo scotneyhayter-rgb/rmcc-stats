@@ -3,8 +3,8 @@
   "kind": "player_profile",
   "span": {
     "last": {
-      "date": "2026-03-07",
-      "opposition": "Swifts/Great Western"
+      "date": "2026-11-21",
+      "opposition": "Tigers"
     },
     "first": {
       "date": "2020-11-07",
@@ -83,7 +83,7 @@
       "economy_incomplete": false,
       "wickets_known_minimum": false
     },
-    "matches": 35,
+    "matches": 36,
     "fielding": {
       "catches": 20,
       "matches": 14,
@@ -98,11 +98,11 @@
     },
     "captaincy": {
       "ties": 0,
-      "wins": 1,
+      "wins": 2,
       "draws": 0,
       "losses": 2,
       "gf_wins": 0,
-      "captained": 3,
+      "captained": 4,
       "no_results": 0,
       "gf_captained": 0
     },
@@ -112,9 +112,9 @@
     "derived_role": "wicketkeeper",
     "has_captaincy": true,
     "participation": {
-      "wins": 12,
+      "wins": 13,
       "losses": 20,
-      "matches": 35
+      "matches": 36
     }
   },
   "detail": {
@@ -139,6 +139,25 @@
   },
   "honours": [],
   "matches": [
+    {
+      "out": null,
+      "runs": null,
+      "balls": null,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": null,
+      "wickets": null,
+      "match_id": "3bb45db7-1edf-426e-afec-6b12839a685a",
+      "run_outs": null,
+      "captained": true,
+      "stumpings": null,
+      "match_date": "2026-11-21",
+      "opposition": "Tigers",
+      "result_type": "home_win",
+      "runs_conceded": null,
+      "classification": "home_away",
+      "competition_id": "0abd9a17-6b15-45f3-8458-b6a1de9da989"
+    },
     {
       "out": true,
       "runs": 10,
@@ -870,6 +889,19 @@
       "season_id": "9a193ee2-173b-4a43-86b7-83e20df5e336",
       "stumpings": 0,
       "batting_average": 7.25,
+      "bowling_average": null
+    },
+    {
+      "runs": 0,
+      "label": "2026/27",
+      "catches": 0,
+      "matches": 1,
+      "wickets": 0,
+      "run_outs": 0,
+      "captained": 1,
+      "season_id": "e08674ee-077b-48d4-9e04-c592c6208dae",
+      "stumpings": 0,
+      "batting_average": null,
       "bowling_average": null
     }
   ],
@@ -1916,12 +1948,12 @@
       },
       "matches": {
         "next": {
-          "to_go": 15,
+          "to_go": 14,
           "threshold": 50,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 35,
+        "total": 36,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -1954,23 +1986,23 @@
       },
       "captaincy_wins": {
         "next": {
-          "to_go": 24,
+          "to_go": 23,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Wins as captain",
-        "total": 1,
+        "total": 2,
         "milestones": [],
         "known_minimum": false
       },
       "captaincy_matches": {
         "next": {
-          "to_go": 22,
+          "to_go": 21,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches captained",
-        "total": 3,
+        "total": 4,
         "milestones": [],
         "known_minimum": false
       }
@@ -1979,7 +2011,7 @@
   },
   "scope_club": "Rhymney Moyston CC",
   "person_name": "David Padley",
-  "generated_at": "2026-11-17T07:35:26.646315+00:00",
+  "generated_at": "2026-11-21T19:36:25.857401+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

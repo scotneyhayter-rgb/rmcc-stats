@@ -3,8 +3,8 @@
   "kind": "player_profile",
   "span": {
     "last": {
-      "date": "2026-11-14",
-      "opposition": "Swifts/Great Western"
+      "date": "2026-11-21",
+      "opposition": "Tigers"
     },
     "first": {
       "date": "2002-10-19",
@@ -61,21 +61,21 @@
       "organisation_id": null
     },
     "batting": {
-      "runs": 5631,
-      "balls": 1140,
+      "runs": 5641,
+      "balls": 1164,
       "ducks": 27,
       "fours": 526,
       "sixes": 32,
-      "average": 20.04,
+      "average": 20.0,
       "fifties": 25,
-      "innings": 309,
-      "matches": 297,
+      "innings": 310,
+      "matches": 298,
       "hundreds": 2,
       "not_outs": 28,
-      "dismissed": 281,
+      "dismissed": 282,
       "boundaries": 558,
       "subject_id": "ef6f98ae-7b16-4e25-af10-71cd2fda8e96",
-      "strike_rate": 63.6,
+      "strike_rate": 63.14,
       "highest_score": 114,
       "highest_not_out": true,
       "balls_incomplete": true,
@@ -83,18 +83,18 @@
       "runs_known_minimum": false
     },
     "bowling": {
-      "runs": 5779,
-      "balls": 9360,
-      "overs": 1560.0,
-      "average": 17.15,
+      "runs": 5789,
+      "balls": 9378,
+      "overs": 1563.0,
+      "average": 17.13,
       "economy": 3.7,
-      "innings": 259,
+      "innings": 260,
       "maidens": 222,
-      "matches": 251,
-      "wickets": 337,
+      "matches": 252,
+      "wickets": 338,
       "hat_tricks": 2,
       "subject_id": "ef6f98ae-7b16-4e25-af10-71cd2fda8e96",
-      "strike_rate": 27.77,
+      "strike_rate": 27.75,
       "best_bowling": {
         "runs": 0,
         "wickets": 5
@@ -106,7 +106,7 @@
       "economy_incomplete": false,
       "wickets_known_minimum": false
     },
-    "matches": 312,
+    "matches": 313,
     "fielding": {
       "catches": 133,
       "matches": 111,
@@ -135,9 +135,9 @@
     "derived_role": "all-rounder",
     "has_captaincy": true,
     "participation": {
-      "wins": 144,
+      "wins": 145,
       "losses": 153,
-      "matches": 312
+      "matches": 313
     }
   },
   "detail": {
@@ -180,6 +180,25 @@
   },
   "honours": [],
   "matches": [
+    {
+      "out": true,
+      "runs": 10,
+      "balls": 24,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": null,
+      "wickets": 1,
+      "match_id": "3bb45db7-1edf-426e-afec-6b12839a685a",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2026-11-21",
+      "opposition": "Tigers",
+      "result_type": "home_win",
+      "runs_conceded": 10,
+      "classification": "home_away",
+      "competition_id": "0abd9a17-6b15-45f3-8458-b6a1de9da989"
+    },
     {
       "out": true,
       "runs": 1,
@@ -2404,25 +2423,6 @@
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
     {
-      "out": false,
-      "runs": 16,
-      "balls": 0,
-      "ground": "North Park",
-      "result": "loss",
-      "catches": null,
-      "wickets": null,
-      "match_id": "2ae59547-4a67-41cc-ae0c-e0941b4b39f5",
-      "run_outs": null,
-      "captained": false,
-      "stumpings": null,
-      "match_date": "2016-03-12",
-      "opposition": "Navarre",
-      "result_type": "away_win",
-      "runs_conceded": null,
-      "classification": "unclassified",
-      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
-    },
-    {
       "out": true,
       "runs": 9,
       "balls": 0,
@@ -2438,6 +2438,25 @@
       "opposition": "Navarre",
       "result_type": "home_win",
       "runs_conceded": 22,
+      "classification": "unclassified",
+      "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
+    },
+    {
+      "out": false,
+      "runs": 16,
+      "balls": 0,
+      "ground": "North Park",
+      "result": "loss",
+      "catches": null,
+      "wickets": null,
+      "match_id": "2ae59547-4a67-41cc-ae0c-e0941b4b39f5",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2016-03-12",
+      "opposition": "Navarre",
+      "result_type": "away_win",
+      "runs_conceded": null,
       "classification": "unclassified",
       "competition_id": "0cfb6fb7-9f1b-440f-8737-05e65aedd5a1"
     },
@@ -6424,17 +6443,17 @@
       "bowling_average": 16.61
     },
     {
-      "runs": 66,
+      "runs": 76,
       "label": "2026/27",
       "catches": 1,
-      "matches": 3,
-      "wickets": 7,
+      "matches": 4,
+      "wickets": 8,
       "run_outs": 0,
       "captained": 0,
       "season_id": "e08674ee-077b-48d4-9e04-c592c6208dae",
       "stumpings": 0,
-      "batting_average": 22.0,
-      "bowling_average": 4.57
+      "batting_average": 19.0,
+      "bowling_average": 5.25
     }
   ],
   "analysis": {
@@ -7984,6 +8003,11 @@
           "date": "2026-11-14",
           "runs": 1,
           "not_out": false
+        },
+        {
+          "date": "2026-11-21",
+          "runs": 10,
+          "not_out": false
         }
       ],
       "frequency": [
@@ -7992,7 +8016,7 @@
           "range": "0-9"
         },
         {
-          "count": 68,
+          "count": 69,
           "range": "10-19"
         },
         {
@@ -9313,6 +9337,11 @@
           "date": "2026-11-14",
           "runs": 0,
           "wickets": 5
+        },
+        {
+          "date": "2026-11-21",
+          "runs": 10,
+          "wickets": 1
         }
       ],
       "frequency": [
@@ -9321,7 +9350,7 @@
           "range": "0"
         },
         {
-          "count": 86,
+          "count": 87,
           "range": "1"
         },
         {
@@ -9346,12 +9375,12 @@
       "grade": {
         "batting": [
           {
-            "runs": 2513,
+            "runs": 2523,
             "label": "C Grade",
-            "average": 22.24,
+            "average": 22.13,
             "fifties": 12,
-            "innings": 126,
-            "matches": 123,
+            "innings": 127,
+            "matches": 124,
             "hundreds": 1,
             "not_outs": 13,
             "high_score": "114*"
@@ -9393,14 +9422,14 @@
         "bowling": [
           {
             "best": "5-0",
-            "runs": 2715,
+            "runs": 2725,
             "label": "C Grade",
             "overs": "0.0",
-            "average": 14.52,
+            "average": 14.49,
             "economy": null,
             "maidens": 119,
-            "matches": 122,
-            "wickets": 187
+            "matches": 123,
+            "wickets": 188
           },
           {
             "best": "5-2",
@@ -9451,12 +9480,12 @@
             "high_score": "114*"
           },
           {
-            "runs": 67,
+            "runs": 77,
             "label": "One-Day / Limited Overs",
-            "average": 16.75,
+            "average": 15.4,
             "fifties": 0,
-            "innings": 4,
-            "matches": 4,
+            "innings": 5,
+            "matches": 5,
             "hundreds": 0,
             "not_outs": 0,
             "high_score": "39"
@@ -9476,26 +9505,26 @@
           },
           {
             "best": "5-0",
-            "runs": 38,
+            "runs": 48,
             "label": "One-Day / Limited Overs",
             "overs": "0.0",
-            "average": 4.75,
+            "average": 5.33,
             "economy": null,
             "maidens": 5,
-            "matches": 3,
-            "wickets": 8
+            "matches": 4,
+            "wickets": 9
           }
         ]
       },
       "ground": {
         "batting": [
           {
-            "runs": 2448,
+            "runs": 2458,
             "label": "Moyston",
-            "average": 18.98,
+            "average": 18.91,
             "fifties": 11,
-            "innings": 141,
-            "matches": 137,
+            "innings": 142,
+            "matches": 138,
             "hundreds": 1,
             "not_outs": 12,
             "high_score": "107*"
@@ -9779,14 +9808,14 @@
         "bowling": [
           {
             "best": "5-0",
-            "runs": 2343,
+            "runs": 2353,
             "label": "Moyston",
             "overs": "0.0",
-            "average": 15.31,
+            "average": 15.28,
             "economy": null,
             "maidens": 106,
-            "matches": 118,
-            "wickets": 153
+            "matches": 119,
+            "wickets": 154
           },
           {
             "best": "3-14",
@@ -10189,6 +10218,17 @@
             "high_score": "51"
           },
           {
+            "runs": 84,
+            "label": "Tigers",
+            "average": 42.0,
+            "fifties": 1,
+            "innings": 3,
+            "matches": 3,
+            "hundreds": 0,
+            "not_outs": 1,
+            "high_score": "50*"
+          },
+          {
             "runs": 82,
             "label": "Larharum",
             "average": 41.0,
@@ -10209,17 +10249,6 @@
             "hundreds": 0,
             "not_outs": 0,
             "high_score": "58"
-          },
-          {
-            "runs": 74,
-            "label": "Tigers",
-            "average": 74.0,
-            "fifties": 1,
-            "innings": 2,
-            "matches": 2,
-            "hundreds": 0,
-            "not_outs": 1,
-            "high_score": "50*"
           },
           {
             "runs": 52,
@@ -10477,6 +10506,17 @@
             "wickets": 3
           },
           {
+            "best": "3-3",
+            "runs": 30,
+            "label": "Tigers",
+            "overs": "0.0",
+            "average": 6.0,
+            "economy": null,
+            "maidens": 4,
+            "matches": 3,
+            "wickets": 5
+          },
+          {
             "best": "1-28",
             "runs": 28,
             "label": "Elmhurst",
@@ -10510,17 +10550,6 @@
             "wickets": 1
           },
           {
-            "best": "3-3",
-            "runs": 20,
-            "label": "Tigers",
-            "overs": "0.0",
-            "average": 5.0,
-            "economy": null,
-            "maidens": 4,
-            "matches": 2,
-            "wickets": 4
-          },
-          {
             "best": "2-17",
             "runs": 17,
             "label": "Quantong",
@@ -10546,7 +10575,7 @@
         },
         {
           "type": "lbw",
-          "count": 21
+          "count": 22
         },
         {
           "type": "caught and bowled",
@@ -11145,12 +11174,12 @@
     "metrics": {
       "runs": {
         "next": {
-          "to_go": 4369,
+          "to_go": 4359,
           "threshold": 10000,
           "known_minimum": false
         },
         "label": "Career runs",
-        "total": 5631,
+        "total": 5641,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -11198,7 +11227,7 @@
       "matches": {
         "next": null,
         "label": "Matches played",
-        "total": 312,
+        "total": 313,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -11234,7 +11263,7 @@
       "wickets": {
         "next": null,
         "label": "Career wickets",
-        "total": 337,
+        "total": 338,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -11303,7 +11332,7 @@
   },
   "scope_club": null,
   "person_name": "Daniel Taylor",
-  "generated_at": "2026-11-17T07:35:30.819905+00:00",
+  "generated_at": "2026-11-21T19:37:44.920618+00:00",
   "grand_finals": {
     "batting": {
       "runs": 69,

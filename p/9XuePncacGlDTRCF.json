@@ -3,8 +3,8 @@
   "kind": "player_profile",
   "span": {
     "last": {
-      "date": "2026-11-14",
-      "opposition": "Swifts/Great Western"
+      "date": "2026-11-21",
+      "opposition": "Tigers"
     },
     "first": {
       "date": "2026-10-31",
@@ -77,14 +77,14 @@
       "economy_incomplete": false,
       "wickets_known_minimum": false
     },
-    "matches": 2,
+    "matches": 3,
     "fielding": {
-      "catches": 1,
-      "matches": 1,
+      "catches": 3,
+      "matches": 2,
       "run_outs": 0,
       "stumpings": 0,
       "subject_id": "aff215c1-72ba-4c90-aa74-befdadbccbc3",
-      "field_catches": 1,
+      "field_catches": 3,
       "keeper_catches": 0,
       "run_out_assists": 0,
       "keeper_dismissals": 0,
@@ -106,9 +106,9 @@
     "derived_role": "batter",
     "has_captaincy": false,
     "participation": {
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "matches": 2
+      "matches": 3
     }
   },
   "detail": {
@@ -124,6 +124,25 @@
   },
   "honours": [],
   "matches": [
+    {
+      "out": null,
+      "runs": null,
+      "balls": null,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": 2,
+      "wickets": null,
+      "match_id": "3bb45db7-1edf-426e-afec-6b12839a685a",
+      "run_outs": 0,
+      "captained": false,
+      "stumpings": 0,
+      "match_date": "2026-11-21",
+      "opposition": "Tigers",
+      "result_type": "home_win",
+      "runs_conceded": null,
+      "classification": "home_away",
+      "competition_id": "0abd9a17-6b15-45f3-8458-b6a1de9da989"
+    },
     {
       "out": true,
       "runs": 9,
@@ -168,8 +187,8 @@
     {
       "runs": 9,
       "label": "2026/27",
-      "catches": 1,
-      "matches": 2,
+      "catches": 3,
+      "matches": 3,
       "wickets": 0,
       "run_outs": 0,
       "captained": 0,
@@ -439,23 +458,23 @@
       },
       "catches": {
         "next": {
-          "to_go": 24,
+          "to_go": 22,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Catches",
-        "total": 1,
+        "total": 3,
         "milestones": [],
         "known_minimum": false
       },
       "matches": {
         "next": {
-          "to_go": 23,
+          "to_go": 22,
           "threshold": 25,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 2,
+        "total": 3,
         "milestones": [],
         "known_minimum": false
       },
@@ -508,7 +527,7 @@
   },
   "scope_club": null,
   "person_name": "Nitesh Damacharla",
-  "generated_at": "2026-11-17T07:34:28.645526+00:00",
+  "generated_at": "2026-11-21T19:37:11.485972+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,

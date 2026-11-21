@@ -3,8 +3,8 @@
   "kind": "player_profile",
   "span": {
     "last": {
-      "date": "2026-11-14",
-      "opposition": "Swifts/Great Western"
+      "date": "2026-11-21",
+      "opposition": "Tigers"
     },
     "first": {
       "date": "2003-11-15",
@@ -79,18 +79,18 @@
       "runs_known_minimum": true
     },
     "bowling": {
-      "runs": 5373,
-      "balls": 9918,
-      "overs": 1653.0,
-      "average": 16.18,
-      "economy": 3.25,
-      "innings": 235,
-      "maidens": 316,
-      "matches": 221,
+      "runs": 5380,
+      "balls": 9954,
+      "overs": 1659.0,
+      "average": 16.2,
+      "economy": 3.24,
+      "innings": 236,
+      "maidens": 320,
+      "matches": 222,
       "wickets": 332,
       "hat_tricks": 1,
       "subject_id": "3fa4c114-96e7-4543-9d94-48df03933262",
-      "strike_rate": 29.87,
+      "strike_rate": 29.98,
       "best_bowling": {
         "runs": 76,
         "wickets": 8
@@ -102,7 +102,7 @@
       "economy_incomplete": false,
       "wickets_known_minimum": false
     },
-    "matches": 229,
+    "matches": 230,
     "fielding": {
       "catches": 78,
       "matches": 70,
@@ -131,9 +131,9 @@
     "derived_role": "all-rounder",
     "has_captaincy": true,
     "participation": {
-      "wins": 118,
+      "wins": 119,
       "losses": 100,
-      "matches": 229
+      "matches": 230
     }
   },
   "detail": {
@@ -163,6 +163,25 @@
   },
   "honours": [],
   "matches": [
+    {
+      "out": null,
+      "runs": null,
+      "balls": null,
+      "ground": "Moyston",
+      "result": "win",
+      "catches": null,
+      "wickets": 0,
+      "match_id": "3bb45db7-1edf-426e-afec-6b12839a685a",
+      "run_outs": null,
+      "captained": false,
+      "stumpings": null,
+      "match_date": "2026-11-21",
+      "opposition": "Tigers",
+      "result_type": "home_win",
+      "runs_conceded": 7,
+      "classification": "home_away",
+      "competition_id": "0abd9a17-6b15-45f3-8458-b6a1de9da989"
+    },
     {
       "out": false,
       "runs": 0,
@@ -4820,14 +4839,14 @@
       "runs": 0,
       "label": "2026/27",
       "catches": 0,
-      "matches": 2,
+      "matches": 3,
       "wickets": 5,
       "run_outs": 0,
       "captained": 2,
       "season_id": "e08674ee-077b-48d4-9e04-c592c6208dae",
       "stumpings": 0,
       "batting_average": null,
-      "bowling_average": 0.8
+      "bowling_average": 2.2
     }
   ],
   "analysis": {
@@ -5061,12 +5080,12 @@
         {
           "date": "2010-01-16",
           "runs": 0,
-          "not_out": false
+          "not_out": true
         },
         {
           "date": "2010-01-16",
           "runs": 0,
-          "not_out": true
+          "not_out": false
         },
         {
           "date": "2010-01-30",
@@ -5101,12 +5120,12 @@
         {
           "date": "2011-02-19",
           "runs": 1,
-          "not_out": true
+          "not_out": false
         },
         {
           "date": "2011-02-19",
           "runs": 1,
-          "not_out": false
+          "not_out": true
         },
         {
           "date": "2011-12-03",
@@ -6776,11 +6795,16 @@
           "date": "2026-11-14",
           "runs": 3,
           "wickets": 2
+        },
+        {
+          "date": "2026-11-21",
+          "runs": 7,
+          "wickets": 0
         }
       ],
       "frequency": [
         {
-          "count": 67,
+          "count": 68,
           "range": "0"
         },
         {
@@ -6867,13 +6891,13 @@
           },
           {
             "best": "6-32",
-            "runs": 1718,
+            "runs": 1725,
             "label": "C Grade",
             "overs": "0.0",
-            "average": 14.68,
+            "average": 14.74,
             "economy": null,
-            "maidens": 120,
-            "matches": 79,
+            "maidens": 124,
+            "matches": 80,
             "wickets": 117
           },
           {
@@ -6939,13 +6963,13 @@
           },
           {
             "best": "3-1",
-            "runs": 14,
+            "runs": 21,
             "label": "One-Day / Limited Overs",
             "overs": "0.0",
-            "average": 2.0,
+            "average": 3.0,
             "economy": null,
-            "maidens": 6,
-            "matches": 3,
+            "maidens": 10,
+            "matches": 4,
             "wickets": 7
           }
         ]
@@ -7165,13 +7189,13 @@
         "bowling": [
           {
             "best": "6-17",
-            "runs": 2355,
+            "runs": 2362,
             "label": "Moyston",
             "overs": "0.0",
-            "average": 14.54,
+            "average": 14.58,
             "economy": null,
-            "maidens": 147,
-            "matches": 108,
+            "maidens": 151,
+            "matches": 109,
             "wickets": 162
           },
           {
@@ -7709,6 +7733,17 @@
             "wickets": 3
           },
           {
+            "best": null,
+            "runs": 7,
+            "label": "Tigers",
+            "overs": "0.0",
+            "average": null,
+            "economy": null,
+            "maidens": 4,
+            "matches": 1,
+            "wickets": 0
+          },
+          {
             "best": "3-1",
             "runs": 1,
             "label": "St Mary's",
@@ -7760,11 +7795,11 @@
       "dismissed_by": [
         {
           "count": 3,
-          "player": "A Blackman"
+          "player": "J Costello"
         },
         {
           "count": 3,
-          "player": "J Costello"
+          "player": "A Blackman"
         },
         {
           "count": 2,
@@ -7772,19 +7807,15 @@
         },
         {
           "count": 2,
-          "player": "W Pederson"
-        },
-        {
-          "count": 2,
-          "player": "M McKinnis"
-        },
-        {
-          "count": 2,
           "player": "P Ganley"
         },
         {
           "count": 2,
-          "player": "J Hosking"
+          "player": "T May"
+        },
+        {
+          "count": 2,
+          "player": "W Pederson"
         },
         {
           "count": 2,
@@ -7792,11 +7823,23 @@
         },
         {
           "count": 2,
-          "player": "T May"
+          "player": "M McKinnis"
+        },
+        {
+          "count": 2,
+          "player": "J Hosking"
         },
         {
           "count": 1,
-          "player": "A Verma"
+          "player": "Dinesh Borase"
+        },
+        {
+          "count": 1,
+          "player": "W Robertson"
+        },
+        {
+          "count": 1,
+          "player": "T Clingan"
         },
         {
           "count": 1,
@@ -7804,19 +7847,11 @@
         },
         {
           "count": 1,
-          "player": "J Pavey"
+          "player": "A Eldridge"
         },
         {
           "count": 1,
-          "player": "R Reid"
-        },
-        {
-          "count": 1,
-          "player": "C Schaper"
-        },
-        {
-          "count": 1,
-          "player": "N Dunford"
+          "player": "J McCartney"
         }
       ]
     },
@@ -7838,20 +7873,20 @@
         "opposition": "Wickliffe/Lake Bolac"
       },
       {
-        "date": "2005-11-12",
-        "runs": 27,
-        "score": "27",
-        "ground": "Moyston",
-        "position": 5,
-        "opposition": "Willaura"
-      },
-      {
         "date": "2021-12-11",
         "runs": 27,
         "score": "27",
         "ground": "Halls Gap",
         "position": 8,
         "opposition": "Halls Gap"
+      },
+      {
+        "date": "2005-11-12",
+        "runs": 27,
+        "score": "27",
+        "ground": "Moyston",
+        "position": 5,
+        "opposition": "Willaura"
       },
       {
         "date": "2017-01-14",
@@ -7862,20 +7897,20 @@
         "opposition": "Youth Club"
       },
       {
-        "date": "2019-02-16",
-        "runs": 23,
-        "score": "23",
-        "ground": "Navarre",
-        "position": 8,
-        "opposition": "Navarre"
-      },
-      {
         "date": "2013-02-23",
         "runs": 23,
         "score": "23",
         "ground": "Moyston",
         "position": 5,
         "opposition": "Halls Gap"
+      },
+      {
+        "date": "2019-02-16",
+        "runs": 23,
+        "score": "23",
+        "ground": "Navarre",
+        "position": 8,
+        "opposition": "Navarre"
       },
       {
         "date": "2006-01-07",
@@ -7910,20 +7945,20 @@
         "opposition": "Swifts/Great Western"
       },
       {
-        "date": "2018-01-27",
-        "runs": 17,
-        "score": "17",
-        "ground": "Moyston",
-        "position": 6,
-        "opposition": "Swifts/Great Western"
-      },
-      {
         "date": "2014-10-19",
         "runs": 17,
         "score": "17",
         "ground": "Alexandra Oval",
         "position": 7,
         "opposition": "St Andrews"
+      },
+      {
+        "date": "2018-01-27",
+        "runs": 17,
+        "score": "17",
+        "ground": "Moyston",
+        "position": 6,
+        "opposition": "Swifts/Great Western"
       },
       {
         "date": "2019-11-30",
@@ -7934,12 +7969,12 @@
         "opposition": "Buangor"
       },
       {
-        "date": "2013-12-21",
+        "date": "2006-10-14",
         "runs": 16,
         "score": "16",
         "ground": "Moyston",
-        "position": 5,
-        "opposition": "Buangor"
+        "position": 6,
+        "opposition": "Wickliffe/Lake Bolac"
       }
     ],
     "best_bowling": [
@@ -8381,12 +8416,12 @@
       },
       "matches": {
         "next": {
-          "to_go": 21,
+          "to_go": 20,
           "threshold": 250,
           "known_minimum": false
         },
         "label": "Matches played",
-        "total": 229,
+        "total": 230,
         "milestones": [
           {
             "state": "achieved_confirmed",
@@ -8477,7 +8512,7 @@
   },
   "scope_club": null,
   "person_name": "David Cosgriff",
-  "generated_at": "2026-11-17T07:35:22.675571+00:00",
+  "generated_at": "2026-11-21T19:36:21.181912+00:00",
   "grand_finals": {
     "batting": {
       "runs": 49,

@@ -4475,12 +4475,12 @@
         {
           "date": "2016-11-19",
           "runs": 0,
-          "not_out": true
+          "not_out": false
         },
         {
           "date": "2016-11-19",
           "runs": 0,
-          "not_out": false
+          "not_out": true
         },
         {
           "date": "2016-12-17",
@@ -4495,12 +4495,12 @@
         {
           "date": "2017-02-04",
           "runs": 0,
-          "not_out": true
+          "not_out": false
         },
         {
           "date": "2017-02-04",
           "runs": 0,
-          "not_out": false
+          "not_out": true
         },
         {
           "date": "2017-11-04",
@@ -5842,11 +5842,11 @@
           "count": 29
         },
         {
-          "type": "run out",
+          "type": "stumped",
           "count": 5
         },
         {
-          "type": "stumped",
+          "type": "run out",
           "count": 5
         },
         {
@@ -5873,51 +5873,51 @@
         },
         {
           "count": 1,
-          "player": "A Bywaters"
+          "player": "L Fitzpatrick"
         },
         {
           "count": 1,
-          "player": "J Fraser"
+          "player": "E Wilkinson"
         },
         {
           "count": 1,
-          "player": "Dallas Cameron"
+          "player": "Adam McCormack"
         },
         {
           "count": 1,
-          "player": "E Wilson"
+          "player": "N Jackson"
         },
         {
           "count": 1,
-          "player": "Jaxon Beal"
+          "player": "L Walker"
         },
         {
           "count": 1,
-          "player": "B Evans"
+          "player": "T Taurau"
         },
         {
           "count": 1,
-          "player": "T Mills"
+          "player": "J Hollis"
         },
         {
           "count": 1,
-          "player": "A Haslett"
+          "player": "R Kettle"
         },
         {
           "count": 1,
-          "player": "C Bretherton"
+          "player": "L Arnott"
         },
         {
           "count": 1,
-          "player": "T Eckel"
+          "player": "N Vallance"
         },
         {
           "count": 1,
-          "player": "A Graveson"
+          "player": "R Townsend"
         },
         {
           "count": 1,
-          "player": "R Reid"
+          "player": "A Jenkins"
         }
       ]
     },
@@ -5955,20 +5955,20 @@
         "opposition": "Navarre"
       },
       {
-        "date": "2008-01-12",
-        "runs": 8,
-        "score": "8",
-        "ground": "Moyston",
-        "position": 9,
-        "opposition": "Buangor"
-      },
-      {
         "date": "2019-02-16",
         "runs": 8,
         "score": "8",
         "ground": "Navarre",
         "position": 10,
         "opposition": "Navarre"
+      },
+      {
+        "date": "2008-01-12",
+        "runs": 8,
+        "score": "8",
+        "ground": "Moyston",
+        "position": 9,
+        "opposition": "Buangor"
       },
       {
         "date": "2012-02-04",
@@ -6003,19 +6003,19 @@
         "opposition": "Halls Gap"
       },
       {
-        "date": "2023-02-18",
-        "runs": 5,
-        "score": "5",
-        "ground": "Halls Gap",
-        "position": 11,
-        "opposition": "Halls Gap"
-      },
-      {
         "date": "2013-02-23",
         "runs": 5,
         "score": "5",
         "ground": "Moyston",
         "position": 10,
+        "opposition": "Halls Gap"
+      },
+      {
+        "date": "2023-02-18",
+        "runs": 5,
+        "score": "5",
+        "ground": "Halls Gap",
+        "position": 11,
         "opposition": "Halls Gap"
       },
       {
@@ -6035,12 +6035,12 @@
         "opposition": "St Andrews"
       },
       {
-        "date": "2004-10-23",
+        "date": "2009-10-24",
         "runs": 4,
         "score": "4",
-        "ground": "Moyston",
-        "position": 11,
-        "opposition": "Halls Gap"
+        "ground": "Elmhurst",
+        "position": 8,
+        "opposition": "Elmhurst"
       }
     ],
     "best_bowling": [
@@ -6549,7 +6549,7 @@
   },
   "scope_club": null,
   "person_name": "Christopher Robinson",
-  "generated_at": "2026-11-17T07:34:32.928479+00:00",
+  "generated_at": "2026-11-21T19:37:16.046813+00:00",
   "grand_finals": {
     "batting": {
       "runs": 0,
